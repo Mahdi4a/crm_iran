@@ -1,0 +1,80 @@
+{
+ "doctype": "DocType",
+ "name": "CRM Iran Settings",
+ "module": "Crm Iran",
+ "issingle": 1,
+ "engine": "InnoDB",
+ "editable_grid": 1,
+ "description": "New leads and deals are announced in Bale and Eitaa. Empty values fall back to the same key in site_config.json.",
+ "fields": [
+  {
+   "fieldname": "bale_section",
+   "label": "Bale",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "bale_bot_token",
+   "label": "Bale Bot Token",
+   "fieldtype": "Password",
+   "description": "From the Bale bot father. The bot must be a member of the chat."
+  },
+  {
+   "fieldname": "bale_column",
+   "label": "",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "bale_chat_id",
+   "label": "Bale Chat ID",
+   "fieldtype": "Data",
+   "description": "The team group or channel, not a phone number"
+  },
+  {
+   "fieldname": "eitaa_section",
+   "label": "Eitaa",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "eitaa_token",
+   "label": "Eitaa Token",
+   "fieldtype": "Password",
+   "description": "From eitaayar.ir"
+  },
+  {
+   "fieldname": "eitaa_column",
+   "label": "",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "eitaa_chat_id",
+   "label": "Eitaa Chat ID",
+   "fieldtype": "Data"
+  },
+  {
+   "fieldname": "sms_section",
+   "label": "Welcome SMS",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "crm_iran_welcome_sms",
+   "label": "Welcome SMS Text",
+   "fieldtype": "Small Text",
+   "description": "Sent to a new lead. Use {first_name} or {name}. Leave empty to send nothing."
+  }
+ ],
+ "permissions": [
+  {
+   "role": "System Manager",
+   "read": 1,
+   "write": 1,
+   "create": 1,
+   "email": 1,
+   "print": 1,
+   "share": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": [],
+ "index_web_pages_for_search": 0
+}
