@@ -1,11 +1,13 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crm_iran\n"
+"Project-Id-Version: iran\n"
 "Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Strings that had no translation
 
 #: frontend/src/components/Filter.vue:581
 msgid "01/01/2022 to 01/31/2022"
@@ -513,7 +515,7 @@ msgstr "تلفن CRM"
 
 #: crm/fcrm/doctype/crm_territory/crm_territory.json:None
 msgid "CRM Territory"
-msgstr "قلمرو CRM"
+msgstr "منطقهٔ فروش CRM"
 
 #: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json:None
 msgid "CRM Twilio Settings"
@@ -957,7 +959,7 @@ msgstr "معامله‌ها بر اساس مرحله"
 
 #: frontend/src/components/Dashboard/AddChartModal.vue:95
 msgid "Deals by Territory"
-msgstr "معامله‌ها بر اساس قلمرو"
+msgstr "معامله‌ها بر اساس منطقهٔ فروش"
 
 #: crm/api/dashboard.py:846
 msgid "Deals by ongoing & won stage"
@@ -2569,7 +2571,7 @@ msgstr "مالک: {0}"
 
 #: crm/fcrm/doctype/crm_territory/crm_territory.json:None
 msgid "Parent CRM Territory"
-msgstr "قلمرو CRM والد"
+msgstr "منطقهٔ فروش CRM والد"
 
 #: crm/api/user.py:46
 msgid "Password Updated Successfully"
@@ -3449,7 +3451,7 @@ msgstr "قالب با موفقیت به‌روزرسانی شد"
 
 #: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
 msgid "Territories"
-msgstr "قلمروها"
+msgstr "منطقهٔ فروشها"
 
 #: crm/fcrm/doctype/crm_deal/crm_deal.json:None
 msgid "The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically."
@@ -4050,3 +4052,105 @@ msgstr "⚠️ داده‌ای برای فیلد والد پیدا نشد: {0}"
 #: frontend/src/data/script.js:257
 msgid "⚠️ No row found for idx: {0} in parent field: {1}"
 msgstr "⚠️ ردیفی با idx پیدا نشد: {0} در فیلد والد: {1}"
+
+# Corrections to existing translations
+
+#: frontend/src/components/Activities/TaskArea.vue:60
+msgid "Are you sure you want to delete this task?"
+msgstr "آیا مطمئن هستید که می‌خواهید این تسک را حذف کنید؟"
+
+#: frontend/src/pages/Deal.vue:586
+msgid "Calls"
+msgstr "تماس می‌گیرد"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Contacts"
+msgstr "مخاطبان"
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.json:None
+msgid "Converted"
+msgstr "تبدیل‌شده"
+
+#: frontend/src/components/Modals/ContactModal.vue:41
+msgid "Create"
+msgstr "ایجاد"
+
+#: frontend/src/pages/DataImport.vue:49
+msgid "Data Import"
+msgstr "درون‌ریزی داده"
+
+#: frontend/src/components/Settings/Profile/UserEmailSettings.vue:51
+msgid "Emails"
+msgstr "ایمیل‌ها"
+
+#: frontend/src/components/ViewControls.vue:215
+msgid "Export"
+msgstr "برون‌بری"
+
+#: frontend/src/components/ViewControls.vue:278
+msgid "Export Type"
+msgstr "نوع برون‌بری"
+
+#: frontend/src/components/ViewControls.vue:203
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Leads"
+msgstr "سرنخ‌ها"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Net Total"
+msgstr "جمع خالص"
+
+#: frontend/src/pages/Deal.vue:596
+msgid "Notes"
+msgstr "یادداشت‌ها"
+
+#: crm/fcrm/doctype/crm_deal_status/crm_deal_status.json:None
+msgid "On Hold"
+msgstr "نگه‌داشته‌شده"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Organizations"
+msgstr "سازمان‌ها"
+
+#: crm/fcrm/doctype/crm_invitation/crm_invitation.json:None
+msgid "Pending"
+msgstr "در انتظار"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "Priorities"
+msgstr "اولویت‌های"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "Product"
+msgstr "محصول"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:175
+msgid "Remove"
+msgstr "حذف"
+
+#: frontend/src/components/SidePanelLayout.vue:154
+msgid "Select"
+msgstr "انتخاب"
+
+#: frontend/src/components/Settings/Settings.vue:183
+msgid "Templates"
+msgstr "قالب‌ها"
+
+#: crm/api/dashboard.py:1070
+msgid "Territory"
+msgstr "منطقهٔ فروش"
+
+#: frontend/src/components/ColumnSettings.vue:113
+msgid "Width can be in number, pixel or rem (eg. 3, 30px, 10rem)"
+msgstr "عرض می‌تواند بر حسب عدد، پیکسل یا rem باشد (مثلاً 3، 30px، 10rem)"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:134
+msgid "leads"
+msgstr "سرنخ‌ها"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:247
+msgid "weeks"
+msgstr "هفته‌ها"
