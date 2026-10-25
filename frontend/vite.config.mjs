@@ -89,6 +89,33 @@ const rewrites = {
     ["import { dayjs } from '../../utils/dayjs'", `import { dayjs } from '../../utils/dayjs'\n${J}`],
     ['return props.format ? d.format(props.format) : dateStr', "return J.format(d, props.format || 'YYYY-MM-DD')"],
   ],
+  // The "Getting started" panel and help centre are plain English in Frappe's shared UI. CRM's translation
+  // plugin puts __ on the app and on window, so wrapping the text is enough.
+  '/frappe/ui/src/components/Onboarding/OnboardingSteps.vue': [
+    ['{{ "Welcome to " + title }}', '{{ __("Welcome to {0}", [title]) }}'],
+    ['{{ `${stepsCompleted}/${totalSteps} steps completed` }}', '{{ __("{0}/{1} steps completed", [stepsCompleted, totalSteps]) }}'],
+    [':label="`${completedPercentage}% completed`"', ':label="__(\'{0}% completed\', [completedPercentage])"'],
+    [":label=\"'Reset all'\"", ':label="__(\'Reset all\')"'],
+    [":label=\"'Skip all'\"", ':label="__(\'Skip all\')"'],
+    [":label=\"'Skip'\"", ':label="__(\'Skip\')"'],
+  ],
+  '/frappe/ui/src/components/Onboarding/GettingStartedBanner.vue': [
+    ['{{ "Getting started" }}', '{{ __("Getting started") }}'],
+    ['{{ `${stepsCompleted}/${totalSteps} steps` }}', '{{ __("{0}/{1} steps", [stepsCompleted, totalSteps]) }}'],
+    ['{{ "You are all set" }}', '{{ __("You are all set") }}'],
+    ['{{ "All steps are completed successfully" }}', '{{ __("All steps are completed successfully") }}'],
+    [":label=\"stepsCompleted == 0 ? 'Start now' : 'Continue'\"", ':label="stepsCompleted == 0 ? __(\'Start now\') : __(\'Continue\')"'],
+  ],
+  '/frappe/ui/src/components/Onboarding/HelpModal.vue': [
+    ['"Getting started"', 'window.__("Getting started")'],
+    ['return "Help center";', 'return window.__("Help center");'],
+    ['label: "Reset onboarding steps",', 'label: window.__("Reset onboarding steps"),'],
+    ['label: "Help centre",', 'label: window.__("Help centre"),'],
+  ],
+  '/frappe/ui/src/components/Onboarding/HelpCenter.vue': [
+    [":placeholder=\"'Search articles...'\"", ':placeholder="__(\'Search articles...\')"'],
+    ['<div>All articles</div>', '<div>{{ __("All articles") }}</div>'],
+  ],
   // The label of the dashboard's date range
   'crm/frontend/src/utils/dashboard.ts': [
     ["import { dayjs } from 'frappe-ui'", `import { dayjs } from 'frappe-ui'\n${J}`],

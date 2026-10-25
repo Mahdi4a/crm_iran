@@ -4209,3 +4209,1995 @@ msgstr "CRM ایران"
 
 msgid "Call Logs"
 msgstr "لاگ‌های تماس"
+
+# Strings added to the source after the shipped Persian file was made (crm)
+
+msgid "(required)"
+msgstr "(الزامی)"
+
+msgid "<step key>"
+msgstr "<step key>"
+
+msgid "A section can have up to {0} columns"
+msgstr "هر بخش حداکثر می‌تواند {0} ستون داشته باشد"
+
+msgid "A trigger runs only when these filters match."
+msgstr "راه‌انداز فقط وقتی اجرا می‌شود که این فیلترها مطابقت داشته باشند."
+
+msgid "Action on {0}"
+msgstr "اقدام روی {0}"
+
+msgid "Add a description to help people fill out this form"
+msgstr "برای کمک به پر کردن این فرم، یک توضیح اضافه کنید"
+
+msgid "Add block"
+msgstr "افزودن بلوک"
+
+msgid "Add fields to see them here."
+msgstr "برای دیدن فیلدها اینجا، آن‌ها را اضافه کنید."
+
+msgid "After branches"
+msgstr "پس از شاخه‌ها"
+
+msgid "All filters must match."
+msgstr "همهٔ فیلترها باید مطابقت داشته باشند."
+
+msgid "Allowed domains"
+msgstr "دامنه‌های مجاز"
+
+msgid "Amount is required"
+msgstr "مبلغ الزامی است"
+
+msgid "An Error Occurred"
+msgstr "خطایی رخ داد"
+
+msgid "An SLA set as default cannot be disabled"
+msgstr "SLA پیش‌فرض را نمی‌توان غیرفعال کرد"
+
+msgid "Any document"
+msgstr "هر سند"
+
+msgid "Are you sure you want to delete the trigger and all workflow steps?"
+msgstr "آیا مطمئن هستید که می‌خواهید راه‌انداز و همهٔ مراحل گردش کار را حذف کنید؟"
+
+msgid "Are you sure you want to delete this step?"
+msgstr "آیا مطمئن هستید که می‌خواهید این مرحله را حذف کنید؟"
+
+msgid "Assign condition is required"
+msgstr "شرط تخصیص الزامی است"
+
+msgid "Assign conditions are invalid"
+msgstr "شرط‌های تخصیص نامعتبر هستند"
+
+msgid "Assignment rule created"
+msgstr "قانون تخصیص ایجاد شد"
+
+msgid "Assignment rule deleted"
+msgstr "قانون تخصیص حذف شد"
+
+msgid "Assignment rule duplicated"
+msgstr "قانون تخصیص تکثیر شد"
+
+msgid "Assignment rule updated"
+msgstr "قانون تخصیص به‌روزرسانی شد"
+
+msgid "Assignment rule {0} updated"
+msgstr "قانون تخصیص {0} به‌روزرسانی شد"
+
+msgid "At least one valid workday with a day, start time, and end time is required"
+msgstr "حداقل یک روز کاری معتبر با روز، زمان شروع و زمان پایان الزامی است"
+
+msgid "Automatically sets communication status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled"
+msgstr "هنگام ایجاد ارتباط جدید، وضعیت ارتباط سرنخ یا معامله را خودکار روی «باز» قرار می‌دهد. فقط وقتی SLA فعال باشد اعمال می‌شود"
+
+msgid "Automatically sets communication status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled"
+msgstr "هنگام دریافت پاسخ، وضعیت ارتباط سرنخ یا معامله را خودکار روی «پاسخ داده‌شده» قرار می‌دهد. فقط وقتی SLA فعال باشد اعمال می‌شود"
+
+msgid "Automation deleted"
+msgstr "خودکارسازی حذف شد"
+
+msgid "Automation duplicated"
+msgstr "خودکارسازی تکثیر شد"
+
+msgid "Automation saved"
+msgstr "خودکارسازی ذخیره شد"
+
+msgid "Automation title"
+msgstr "عنوان خودکارسازی"
+
+msgid "Automation updated"
+msgstr "خودکارسازی به‌روزرسانی شد"
+
+msgid "Available to later steps"
+msgstr "در دسترس مراحل بعدی"
+
+msgid "Back to automations"
+msgstr "بازگشت به خودکارسازی‌ها"
+
+msgid "Basic settings for this form."
+msgstr "تنظیمات پایهٔ این فرم."
+
+msgid "Be the first to add one."
+msgstr "اولین نفری باشید که یکی اضافه می‌کند."
+
+msgid "Before the first step"
+msgstr "پیش از اولین مرحله"
+
+msgid "Belonging to"
+msgstr "متعلق به"
+
+msgid "Bidirectional Product Sync"
+msgstr "همگام‌سازی دوطرفهٔ محصولات"
+
+msgid "Bulk operation is enqueued in background. Failures, if any, are recorded in Error Log."
+msgstr "عملیات گروهی در پس‌زمینه در صف قرار گرفت. خطاها در صورت وجود در گزارش خطا ثبت می‌شوند."
+
+msgid "CRM Deal has no field {0}"
+msgstr "معامله CRM فیلد {0} را ندارد"
+
+msgid "Call connected, but the call log could not be saved. Please contact your administrator."
+msgstr "تماس برقرار شد، اما لاگ تماس ذخیره نشد. لطفاً با مدیر خود تماس بگیرید."
+
+msgid "Cannot convert a lead with status {0}"
+msgstr "سرنخی با وضعیت {0} قابل تبدیل نیست"
+
+msgid "Cannot convert a lost lead to deal"
+msgstr "سرنخ از دست رفته را نمی‌توان به معامله تبدیل کرد"
+
+msgid "Capture leads and deals from public forms you embed on your website."
+msgstr "سرنخ‌ها و معامله‌ها را از فرم‌های عمومی که در وب‌سایت خود قرار می‌دهید جذب کنید."
+
+msgid "Capture leads with a form"
+msgstr "جذب سرنخ با فرم"
+
+msgid "Change & remove fields"
+msgstr "تغییر و حذف فیلدها"
+
+msgid "Change form type?"
+msgstr "نوع فرم تغییر کند؟"
+
+msgid "Choose a field to set"
+msgstr "یک فیلد برای تعیین انتخاب کنید"
+
+msgid "Choose a lead temperature"
+msgstr "دمای سرنخ را انتخاب کنید"
+
+msgid "Choose an event"
+msgstr "یک رویداد انتخاب کنید"
+
+msgid "Choose field"
+msgstr "انتخاب فیلد"
+
+msgid "Choose the email service provider you want to configure."
+msgstr "ارائه‌دهندهٔ سرویس ایمیلی را که می‌خواهید پیکربندی کنید انتخاب کنید."
+
+msgid "Choose value"
+msgstr "انتخاب مقدار"
+
+msgid "Choose what this step does"
+msgstr "انتخاب کنید این مرحله چه کاری انجام می‌دهد"
+
+msgid "Choose {0}"
+msgstr "انتخاب {0}"
+
+msgid "Clear to pick a record instead"
+msgstr "برای انتخاب یک رکورد به‌جای آن، پاک کنید"
+
+msgid "Click to rename"
+msgstr "برای تغییر نام کلیک کنید"
+
+msgid "Close inspector"
+msgstr "بستن بازرس"
+
+msgid "Cold"
+msgstr "سرد"
+
+msgid "Conditional logic"
+msgstr "منطق شرطی"
+
+msgid "Configure action"
+msgstr "پیکربندی اقدام"
+
+msgid "Configure telephony settings for your CRM"
+msgstr "تنظیمات تلفنی CRM خود را پیکربندی کنید"
+
+msgid "Configure the exchange rate provider for your CRM"
+msgstr "ارائه‌دهندهٔ نرخ ارز CRM خود را پیکربندی کنید"
+
+msgid "Configure your Exotel telephony integration settings here"
+msgstr "تنظیمات یکپارچه‌سازی تلفنی Exotel خود را اینجا پیکربندی کنید"
+
+msgid "Configure your Twilio telephony integration settings here"
+msgstr "تنظیمات یکپارچه‌سازی تلفنی Twilio خود را اینجا پیکربندی کنید"
+
+msgid "Configure your brand name, logo and favicon"
+msgstr "نام برند، لوگو و فاوآیکون خود را پیکربندی کنید"
+
+msgid "Contact already exists with {0}"
+msgstr "مخاطبی با {0} از قبل وجود دارد"
+
+msgid "Contact sales"
+msgstr "تماس با فروش"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Copy link"
+msgstr "کپی پیوند"
+
+msgid "Core"
+msgstr "هسته"
+
+msgid "Could not create document"
+msgstr "ایجاد سند ممکن نبود"
+
+msgid "Could not create form"
+msgstr "ایجاد فرم ممکن نبود"
+
+msgid "Could not duplicate automation"
+msgstr "تکثیر خودکارسازی ممکن نبود"
+
+msgid "Could not grant guest access."
+msgstr "اعطای دسترسی مهمان ممکن نبود."
+
+msgid "Could not move the card. Reverting."
+msgstr "جابه‌جایی کارت ممکن نبود. بازگردانده می‌شود."
+
+msgid "Could not save"
+msgstr "ذخیره ممکن نبود"
+
+msgid "Could not save automation"
+msgstr "ذخیرهٔ خودکارسازی ممکن نبود"
+
+msgid "Could not save, try again"
+msgstr "ذخیره ممکن نبود، دوباره امتحان کنید"
+
+msgid "Could not update automation"
+msgstr "به‌روزرسانی خودکارسازی ممکن نبود"
+
+msgid "Could not update document"
+msgstr "به‌روزرسانی سند ممکن نبود"
+
+msgid "Could not update form"
+msgstr "به‌روزرسانی فرم ممکن نبود"
+
+msgid "Create a quotation from this deal to see it here."
+msgstr "برای دیدن پیش‌فاکتور اینجا، از این معامله یک پیش‌فاکتور ایجاد کنید."
+
+msgid "Create form"
+msgstr "ایجاد فرم"
+
+msgid "Create one to start capturing leads."
+msgstr "برای شروع جذب سرنخ، یکی بسازید."
+
+msgid "Create workflow automations for CRM documents"
+msgstr "ایجاد خودکارسازی‌های گردش کار برای اسناد CRM"
+
+msgid "Created Deal {0}"
+msgstr "معامله {0} ایجاد شد"
+
+msgid "Current icon"
+msgstr "آیکون فعلی"
+
+msgid "Custom event"
+msgstr "رویداد سفارشی"
+
+msgid "Date Offset"
+msgstr "جابه‌جایی تاریخ"
+
+msgid "Deal field overrides must be a JSON object"
+msgstr "بازنویسی‌های فیلد معامله باید شیء JSON باشند"
+
+msgid "Default calling medium for logged-in user"
+msgstr "رسانهٔ تماس پیش‌فرض برای کاربر واردشده"
+
+msgid "Default value"
+msgstr "مقدار پیش‌فرض"
+
+msgid "Delete step"
+msgstr "حذف مرحله"
+
+msgid "Delete trigger"
+msgstr "حذف راه‌انداز"
+
+msgid "Discard and exit"
+msgstr "رد تغییرات و خروج"
+
+msgid "DocType resolved at runtime"
+msgstr "نوع سند در زمان اجرا مشخص می‌شود"
+
+msgid "Document ID, not the full name"
+msgstr "شناسهٔ سند، نه نام کامل"
+
+msgid "Draft preview — only you can see this. Publish the form to make it public."
+msgstr "پیش‌نمایش پیش‌نویس — فقط شما آن را می‌بینید. برای عمومی شدن، فرم را منتشر کنید."
+
+msgid "Drop the form into your own website."
+msgstr "فرم را در وب‌سایت خود قرار دهید."
+
+msgid "ERPNext Items always sync into CRM Products. Turn this on to also sync CRM Product changes back to ERPNext Items."
+msgstr "کالاهای ERPNext همیشه با محصولات CRM همگام می‌شوند. این را روشن کنید تا تغییرات محصول CRM هم به کالاهای ERPNext برگردد."
+
+msgid "Edit field"
+msgstr "ویرایش فیلد"
+
+msgid "Editor"
+msgstr "ویرایشگر"
+
+msgid "Email account created successfully"
+msgstr "حساب ایمیل با موفقیت ایجاد شد"
+
+msgid "Email account updated successfully"
+msgstr "حساب ایمیل با موفقیت به‌روزرسانی شد"
+
+msgid "Emailed {0}: {1}"
+msgstr "به {0} ایمیل ارسال شد: {1}"
+
+msgid "Embed"
+msgstr "قرار دادن در صفحه"
+
+msgid "Enable the integration to create quotations and more in ERPNext."
+msgstr "برای ایجاد پیش‌فاکتور و موارد بیشتر در ERPNext، یکپارچه‌سازی را فعال کنید."
+
+msgid "End time is required"
+msgstr "زمان پایان الزامی است"
+
+msgid "End time must be after start time"
+msgstr "زمان پایان باید بعد از زمان شروع باشد"
+
+msgid "End time must be after start time for: {0}"
+msgstr "زمان پایان باید بعد از زمان شروع باشد برای: {0}"
+
+msgid "Enter Personal Mobile Number"
+msgstr "شمارهٔ موبایل شخصی را وارد کنید"
+
+msgid "Enter a valid phone number"
+msgstr "یک شمارهٔ تلفن معتبر وارد کنید"
+
+msgid "Error Uploading File"
+msgstr "خطا در بارگذاری فایل"
+
+msgid "Error creating lead sync source"
+msgstr "خطا در ایجاد منبع همگام‌سازی سرنخ"
+
+msgid "Error syncing lead"
+msgstr "خطا در همگام‌سازی سرنخ"
+
+msgid "Error updating lead sync source"
+msgstr "خطا در به‌روزرسانی منبع همگام‌سازی سرنخ"
+
+msgid "Event happened"
+msgstr "رویداد رخ داد"
+
+msgid "Extra check that must also pass; use Expression for Python logic."
+msgstr "بررسی اضافه‌ای که باید آن هم برقرار باشد؛ برای منطق پایتون از «عبارت» استفاده کنید."
+
+msgid "Failed to create email account: invalid credentials"
+msgstr "ایجاد حساب ایمیل ناموفق بود: اعتبارنامهٔ نامعتبر"
+
+msgid "Failed to load activities"
+msgstr "بارگذاری فعالیت‌ها ناموفق بود"
+
+msgid "Failed to update email account: invalid credentials"
+msgstr "به‌روزرسانی حساب ایمیل ناموفق بود: اعتبارنامهٔ نامعتبر"
+
+msgid "False"
+msgstr "نادرست"
+
+msgid "Field Values"
+msgstr "مقادیر فیلد"
+
+msgid "Field value changes"
+msgstr "تغییرات مقدار فیلد"
+
+msgid "Fit entire flow"
+msgstr "جا دادن کل جریان در صفحه"
+
+msgid "Flow"
+msgstr "جریان"
+
+msgid "Forced"
+msgstr "اجباری‌شده"
+
+msgid "Form created"
+msgstr "فرم ایجاد شد"
+
+msgid "Form deleted"
+msgstr "فرم حذف شد"
+
+msgid "Form details"
+msgstr "جزئیات فرم"
+
+msgid "Form published"
+msgstr "فرم منتشر شد"
+
+msgid "Form title"
+msgstr "عنوان فرم"
+
+msgid "Form unpublished"
+msgstr "فرم از حالت انتشار خارج شد"
+
+msgid "Form updated"
+msgstr "فرم به‌روزرسانی شد"
+
+msgid "Forms"
+msgstr "فرم‌ها"
+
+msgid "Forms can only map to: {0}"
+msgstr "فرم‌ها فقط می‌توانند به این‌ها نگاشت شوند: {0}"
+
+msgid "Grant Access"
+msgstr "اعطای دسترسی"
+
+msgid "Guests can now select {0} records."
+msgstr "مهمان‌ها اکنون می‌توانند رکوردهای {0} را انتخاب کنند."
+
+msgid "Guests can't see {0} records. Grant select access to list them publicly."
+msgstr "مهمان‌ها رکوردهای {0} را نمی‌بینند. برای فهرست کردن عمومی آن‌ها، دسترسی انتخاب را اعطا کنید."
+
+msgid "Helper text under the field (optional)"
+msgstr "متن راهنمای زیر فیلد (اختیاری)"
+
+msgid "Hidden required fields"
+msgstr "فیلدهای اجباری پنهان"
+
+msgid "Hot"
+msgstr "داغ"
+
+msgid "I understand, add conditions"
+msgstr "متوجه هستم، افزودن شرط"
+
+msgid "If / Else"
+msgstr "اگر / در غیر این صورت"
+
+msgid "Insert field"
+msgstr "درج فیلد"
+
+msgid "Invalid deal"
+msgstr "معامله نامعتبر"
+
+msgid "Invalid recording URL"
+msgstr "نشانی ضبط نامعتبر"
+
+msgid "Invalid site URL"
+msgstr "نشانی سایت نامعتبر"
+
+msgid "Keep editing"
+msgstr "ادامهٔ ویرایش"
+
+msgid "Launch manually"
+msgstr "اجرای دستی"
+
+msgid "Lead Score"
+msgstr "امتیاز سرنخ"
+
+msgid "Lead Temperature"
+msgstr "دمای سرنخ"
+
+msgid "Lead is now {0}"
+msgstr "سرنخ اکنون {0} است"
+
+msgid "Lead score {0} → {1}{2}"
+msgstr "امتیاز سرنخ {0} → {1}{2}"
+
+msgid "Lead sync source created successfully"
+msgstr "منبع همگام‌سازی سرنخ با موفقیت ایجاد شد"
+
+msgid "Lead temperature must be one of {0}"
+msgstr "دمای سرنخ باید یکی از {0} باشد"
+
+msgid "Lead {0} is already converted to Deal {1}"
+msgstr "سرنخ {0} قبلاً به معامله {1} تبدیل شده است"
+
+msgid "Lets a later step act on what this one produced."
+msgstr "به مرحلهٔ بعدی اجازه می‌دهد روی حاصل این مرحله عمل کند."
+
+msgid "Mandatory if"
+msgstr "اجباری اگر"
+
+msgid "Manual Sync"
+msgstr "همگام‌سازی دستی"
+
+msgid "Maps to"
+msgstr "نگاشت به"
+
+msgid "Minimum score is above the maximum"
+msgstr "حداقل امتیاز از حداکثر بیشتر است"
+
+msgid "Mobile number should be a number"
+msgstr "شمارهٔ موبایل باید عدد باشد"
+
+msgid "Move cancelled: a lost reason is required for this status."
+msgstr "انتقال لغو شد: برای این وضعیت، دلیل از دست رفتن الزامی است."
+
+msgid "Name the result"
+msgstr "نام‌گذاری نتیجه"
+
+msgid "Names this step in run logs and in its result path."
+msgstr "این مرحله را در لاگ‌های اجرا و مسیر نتیجه‌اش نام‌گذاری می‌کند."
+
+msgid "New form"
+msgstr "فرم جدید"
+
+msgid "No Activities Found"
+msgstr "فعالیتی پیدا نشد"
+
+msgid "No Attachments Found"
+msgstr "پیوستی پیدا نشد"
+
+msgid "No Call History"
+msgstr "سابقهٔ تماسی وجود ندارد"
+
+msgid "No Comments Found"
+msgstr "دیدگاهی پیدا نشد"
+
+msgid "No Data Fields Added Yet"
+msgstr "هنوز فیلد دادهٔ اضافه نشده است"
+
+msgid "No Emails Found"
+msgstr "ایمیلی پیدا نشد"
+
+msgid "No Notes Found"
+msgstr "یادداشتی پیدا نشد"
+
+msgid "No Tasks Found"
+msgstr "تسکی پیدا نشد"
+
+msgid "No WhatsApp Messages Found"
+msgstr "پیام واتس‌اپی پیدا نشد"
+
+msgid "No data fields have been added yet."
+msgstr "هنوز فیلد دادهٔ اضافه نشده است."
+
+msgid "No domains added. The embed will only work on this site until you add one."
+msgstr "دامنه‌ای اضافه نشده است. تا وقتی دامنه‌ای اضافه نکنید، قرارگیری فقط روی همین سایت کار می‌کند."
+
+msgid "No emails found in your inbox. New messages will appear here soon."
+msgstr "ایمیلی در صندوق ورودی شما پیدا نشد. پیام‌های جدید به‌زودی اینجا نمایش داده می‌شوند."
+
+msgid "No files have been attached yet. Upload files to see them here."
+msgstr "هنوز فایلی پیوست نشده است. برای دیدن فایل‌ها اینجا، آن‌ها را بارگذاری کنید."
+
+msgid "No priority"
+msgstr "بدون اولویت"
+
+msgid "No quotations yet"
+msgstr "هنوز پیش‌فاکتوری وجود ندارد"
+
+msgid "No recent calls to display. Log a call or call someone now!"
+msgstr "تماس اخیری برای نمایش نیست. یک تماس ثبت کنید یا همین حالا با کسی تماس بگیرید!"
+
+msgid "No results for \"{0}\""
+msgstr "نتیجه‌ای برای «{0}» پیدا نشد"
+
+msgid "No runs yet"
+msgstr "هنوز اجرایی نیست"
+
+msgid "No web forms yet"
+msgstr "هنوز فرم وبی وجود ندارد"
+
+msgid "No workflow automations yet"
+msgstr "هنوز خودکارسازی گردش کاری وجود ندارد"
+
+msgid "Not a CRM form"
+msgstr "فرم CRM نیست"
+
+msgid "Not something filters can express. Edit it below."
+msgstr "چیزی نیست که فیلترها بتوانند بیان کنند. آن را در زیر ویرایش کنید."
+
+msgid "Nothing here"
+msgstr "اینجا چیزی نیست"
+
+msgid "Nothing here for now. Add a note to keep track of things."
+msgstr "فعلاً اینجا چیزی نیست. برای پیگیری کارها یک یادداشت اضافه کنید."
+
+msgid "Nothing to do at the moment. Start organizing by adding one here."
+msgstr "فعلاً کاری برای انجام نیست. با افزودن یکی اینجا شروع به سازمان‌دهی کنید."
+
+msgid "On a date"
+msgstr "در یک تاریخ"
+
+msgid "On a schedule"
+msgstr "بر اساس زمان‌بندی"
+
+msgid "One {0} record"
+msgstr "یک رکورد {0}"
+
+msgid "Only run when"
+msgstr "فقط وقتی اجرا شود که"
+
+msgid "Open inspector"
+msgstr "باز کردن بازرس"
+
+msgid "Optional"
+msgstr "اختیاری"
+
+msgid "Output of {0}"
+msgstr "خروجی {0}"
+
+msgid "Parent Territory {0} is not a group. Only group territories can have children."
+msgstr "منطقهٔ فروش والد {0} گروه نیست. فقط منطقهٔ فروشهای گروهی می‌توانند زیرمجموعه داشته باشند."
+
+msgid "Pause the run"
+msgstr "توقف اجرا"
+
+msgid "Pause the run for a fixed amount of time."
+msgstr "اجرا را برای مدت ثابتی متوقف کن."
+
+msgid "Pause until an event is raised for this record."
+msgstr "تا ایجاد رویداد برای این رکورد متوقف شو."
+
+msgid "Personal Mobile Number"
+msgstr "شمارهٔ موبایل شخصی"
+
+msgid "Pick a template or write a subject"
+msgstr "یک قالب انتخاب کنید یا موضوعی بنویسید"
+
+msgid "Pick a {0}"
+msgstr "انتخاب {0}"
+
+msgid "Pick an action"
+msgstr "یک اقدام انتخاب کنید"
+
+msgid "Pick an event"
+msgstr "یک رویداد انتخاب کنید"
+
+msgid "Pick initial trigger"
+msgstr "راه‌انداز اولیه را انتخاب کنید"
+
+msgid "Pick {0}"
+msgstr "انتخاب {0}"
+
+msgid "Please select a priority"
+msgstr "لطفاً یک اولویت انتخاب کنید"
+
+msgid "Please setup Exotel integration"
+msgstr "لطفاً یکپارچه‌سازی Exotel را راه‌اندازی کنید"
+
+msgid "Preferences updated successfully"
+msgstr "ترجیحات با موفقیت به‌روزرسانی شد"
+
+msgid "Preview again"
+msgstr "پیش‌نمایش دوباره"
+
+msgid "Priority {0}: priority name is required"
+msgstr "اولویت {0}: نام اولویت الزامی است"
+
+msgid "Priority {0}: response time is required"
+msgstr "اولویت {0}: زمان پاسخ الزامی است"
+
+msgid "Product sync started."
+msgstr "همگام‌سازی محصولات شروع شد."
+
+msgid "Profile updated successfully"
+msgstr "نمایه با موفقیت به‌روزرسانی شد"
+
+msgid "Python, evaluated against doc, target and context."
+msgstr "پایتون، در برابر doc، target و context ارزیابی می‌شود."
+
+msgid "Read-only if"
+msgstr "فقط‌خواندنی اگر"
+
+msgid "Record"
+msgstr "رکورد"
+
+msgid "Record is cancelled"
+msgstr "رکورد لغو شده است"
+
+msgid "Record is created"
+msgstr "رکورد ایجاد شده است"
+
+msgid "Record is deleted"
+msgstr "رکورد حذف شده است"
+
+msgid "Record is submitted"
+msgstr "رکورد ثبت شده است"
+
+msgid "Record is updated"
+msgstr "رکورد به‌روزرسانی شده است"
+
+msgid "Recording URL is not allowed"
+msgstr "نشانی ضبط مجاز نیست"
+
+msgid "Recording not available"
+msgstr "ضبط در دسترس نیست"
+
+msgid "Remove step"
+msgstr "حذف مرحله"
+
+msgid "Remove trigger"
+msgstr "حذف راه‌انداز"
+
+msgid "Replace with an icon..."
+msgstr "جایگزینی با آیکون..."
+
+msgid "Required"
+msgstr "الزامی"
+
+msgid "Required by the record"
+msgstr "الزامی‌شده توسط رکورد"
+
+msgid "Response time is required"
+msgstr "زمان پاسخ الزامی است"
+
+msgid "Reused Deal {0}"
+msgstr "معامله {0} دوباره استفاده شد"
+
+msgid "Role Profile Assigned"
+msgstr "پروفایل نقش تخصیص یافت"
+
+msgid "Roles of user {0} are managed by a Role Profile. Update the Role Profile instead."
+msgstr "نقش‌های کاربر {0} با پروفایل نقش مدیریت می‌شوند. به‌جای آن پروفایل نقش را به‌روزرسانی کنید."
+
+msgid "Run a manual bi-directional sync between ERPNext Items and CRM Products."
+msgstr "همگام‌سازی دستی دوطرفه بین کالاهای ERPNext و محصولات CRM را اجرا کنید."
+
+msgid "Run a manual synchronization to pull the latest Items from ERPNext."
+msgstr "برای دریافت آخرین کالاها از ERPNext، همگام‌سازی دستی را اجرا کنید."
+
+msgid "Run before or after a date stored on the record."
+msgstr "پیش یا پس از تاریخی که روی رکورد ذخیره شده اجرا شود."
+
+msgid "Run on a repeating schedule you define with cron."
+msgstr "طبق زمان‌بندی تکرارشونده‌ای که با cron تعریف می‌کنید اجرا شود."
+
+msgid "Run only when someone starts it from a record."
+msgstr "فقط وقتی اجرا شود که کسی آن را از یک رکورد شروع کند."
+
+msgid "Run when the app raises a named event you pick."
+msgstr "وقتی برنامه رویدادی را که شما انتخاب می‌کنید ایجاد کند اجرا شود."
+
+msgid "Run {0}"
+msgstr "اجرای {0}"
+
+msgid "SLA policy created"
+msgstr "سیاست SLA ایجاد شد"
+
+msgid "SLA policy deleted"
+msgstr "سیاست SLA حذف شد"
+
+msgid "SLA policy duplicated"
+msgstr "سیاست SLA تکثیر شد"
+
+msgid "SLA policy name is required"
+msgstr "نام سیاست SLA الزامی است"
+
+msgid "SLA policy status updated"
+msgstr "وضعیت سیاست SLA به‌روزرسانی شد"
+
+msgid "SLA policy updated"
+msgstr "سیاست SLA به‌روزرسانی شد"
+
+msgid "Sales hierarchy disabled"
+msgstr "سلسله‌مراتب فروش غیرفعال شد"
+
+msgid "Sales hierarchy enabled"
+msgstr "سلسله‌مراتب فروش فعال شد"
+
+msgid "Sandboxed in a frame. Simplest, but a fixed height and its own styling."
+msgstr "در یک قاب ایزوله می‌شود. ساده‌ترین حالت، اما با ارتفاع ثابت و استایل خودش."
+
+msgid "Save the flow before testing it."
+msgstr "پیش از آزمایش، جریان را ذخیره کنید."
+
+msgid "Search blocks"
+msgstr "جستجوی بلوک‌ها"
+
+msgid "Search fields…"
+msgstr "جستجوی فیلدها…"
+
+msgid "Search records or type a command..."
+msgstr "جستجوی رکوردها یا نوشتن یک دستور..."
+
+msgid "Search triggers"
+msgstr "جستجوی راه‌اندازها"
+
+msgid "Searching..."
+msgstr "در حال جستجو..."
+
+msgid "Section title"
+msgstr "عنوان بخش"
+
+msgid "Select Country to see state options"
+msgstr "برای دیدن گزینه‌های استان، کشور را انتخاب کنید"
+
+msgid "Select a Twilio app for your CRM"
+msgstr "یک برنامهٔ Twilio برای CRM خود انتخاب کنید"
+
+msgid "Select a record"
+msgstr "انتخاب یک رکورد"
+
+msgid "Select an icon..."
+msgstr "انتخاب آیکون..."
+
+msgid "Select an option"
+msgstr "انتخاب یک گزینه"
+
+msgid "Select users"
+msgstr "انتخاب کاربران"
+
+msgid "Send people straight to the hosted form."
+msgstr "کاربران را مستقیم به فرم میزبانی‌شده بفرستید."
+
+msgid "Send visitors here after they submit. Leave blank to show the success message."
+msgstr "بازدیدکنندگان را پس از ثبت به اینجا بفرستید. برای نمایش پیام موفقیت، خالی بگذارید."
+
+msgid "Set a condition"
+msgstr "تعیین شرط"
+
+msgid "Set a default value before publishing for: {0}"
+msgstr "پیش از انتشار، برای این موارد مقدار پیش‌فرض تعیین کنید: {0}"
+
+msgid "Set a default value for each field to publish this form."
+msgstr "برای انتشار این فرم، برای هر فیلد مقدار پیش‌فرض تعیین کنید."
+
+msgid "Set how long to wait"
+msgstr "مدت انتظار را تعیین کنید"
+
+msgid "Set more fields at once as JSON. These are applied together with the Field and Value above, in the same save."
+msgstr "فیلدهای بیشتری را یک‌جا به‌صورت JSON تعیین کنید. این‌ها همراه با «فیلد» و «مقدار» بالا در همان ذخیره اعمال می‌شوند."
+
+msgid "Set status: {0}"
+msgstr "تعیین وضعیت: {0}"
+
+msgid "Setting up Frappe Mail requires you to have an API key and API secret for your email account. Read more"
+msgstr "راه‌اندازی Frappe Mail به کلید API و رمز API حساب ایمیل شما نیاز دارد. بیشتر بخوانید"
+
+msgid "Show details"
+msgstr "نمایش جزئیات"
+
+msgid "Shown after a successful submission"
+msgstr "پس از ثبت موفق نمایش داده می‌شود"
+
+msgid "Sites where this form may be embedded, one per line. Browsers block the iframe on any site not listed here."
+msgstr "سایت‌هایی که این فرم می‌تواند در آن‌ها قرار گیرد، هر کدام در یک خط. مرورگرها iframe را در هر سایتی که اینجا فهرست نشده مسدود می‌کنند."
+
+msgid "Some error occurred while creating SLA policy"
+msgstr "هنگام ایجاد سیاست SLA خطایی رخ داد"
+
+msgid "Split the run into two arms on a condition."
+msgstr "اجرا را بر اساس یک شرط به دو شاخه تقسیم کن."
+
+msgid "Start a conversation now!"
+msgstr "همین حالا گفتگو را شروع کنید!"
+
+msgid "Start a run just after a record is deleted."
+msgstr "اجرا را بلافاصله پس از حذف یک رکورد شروع کن."
+
+msgid "Start a run when a submittable record is submitted."
+msgstr "وقتی رکورد قابل ثبت، ثبت می‌شود اجرا را شروع کن."
+
+msgid "Start a run when a submitted record is cancelled."
+msgstr "وقتی رکورد ثبت‌شده لغو می‌شود اجرا را شروع کن."
+
+msgid "Start a run whenever a new record is created."
+msgstr "هر وقت رکورد جدیدی ایجاد می‌شود اجرا را شروع کن."
+
+msgid "Start a run whenever an existing record is saved."
+msgstr "هر وقت رکورد موجودی ذخیره می‌شود اجرا را شروع کن."
+
+msgid "Start date cannot be after end date"
+msgstr "تاریخ شروع نمی‌تواند بعد از تاریخ پایان باشد"
+
+msgid "Start from scratch"
+msgstr "شروع از صفر"
+
+msgid "Start test run"
+msgstr "شروع اجرای آزمایشی"
+
+msgid "Start time is required"
+msgstr "زمان شروع الزامی است"
+
+msgid "Step name"
+msgstr "نام مرحله"
+
+msgid "Switching to {0} will remove {1} field(s) that don't exist on {0}. This can't be undone."
+msgstr "تغییر به {0} باعث حذف {1} فیلدی می‌شود که در {0} وجود ندارند. این عمل قابل بازگشت نیست."
+
+msgid "Sync successful!"
+msgstr "همگام‌سازی موفق بود!"
+
+msgid "Table MultiSelect requires a Table with at least one Link field"
+msgstr "چندانتخابی جدول به جدولی با حداقل یک فیلد پیوند نیاز دارد"
+
+msgid "Template deleted successfully"
+msgstr "قالب با موفقیت حذف شد"
+
+msgid "Territory cannot be its own parent"
+msgstr "منطقه نمی‌تواند والد خودش باشد"
+
+msgid "Thank you!"
+msgstr "متشکریم!"
+
+msgid "There are no activities to display here. Go ahead and make some changes."
+msgstr "فعالیتی برای نمایش اینجا نیست. چند تغییر ایجاد کنید."
+
+msgid "These fields aren't shown to users. Default values are used when the form is submitted."
+msgstr "این فیلدها به کاربران نمایش داده نمی‌شوند. هنگام ثبت فرم از مقدارهای پیش‌فرض استفاده می‌شود."
+
+msgid "This alias is not available at this step"
+msgstr "این نام مستعار در این مرحله در دسترس نیست"
+
+msgid "This form isn’t published yet. Turn on Publish to make the link and embeds live."
+msgstr "این فرم هنوز منتشر نشده است. برای فعال شدن پیوند و قرارگیری‌ها، «انتشار» را روشن کنید."
+
+msgid "Timed out"
+msgstr "مهلت تمام شد"
+
+msgid "Title and route are required"
+msgstr "عنوان و مسیر الزامی است"
+
+msgid "Too many redirects while fetching recording"
+msgstr "تغییر مسیرهای بیش از حد هنگام دریافت ضبط"
+
+msgid "Trigger record"
+msgstr "رکورد راه‌انداز"
+
+msgid "True"
+msgstr "درست"
+
+msgid "Type an email address to invite"
+msgstr "برای دعوت، یک نشانی ایمیل بنویسید"
+
+msgid "Type to search"
+msgstr "برای جستجو بنویسید"
+
+msgid "Unable to run command"
+msgstr "اجرای دستور ممکن نیست"
+
+msgid "Unable to update assignment"
+msgstr "به‌روزرسانی تخصیص ممکن نیست"
+
+msgid "Unassign conditions are invalid"
+msgstr "شرط‌های لغو تخصیص نامعتبر هستند"
+
+msgid "Unknown CRM relationship: {0}"
+msgstr "رابطهٔ CRM ناشناخته: {0}"
+
+msgid "Unnamed field"
+msgstr "فیلد بدون نام"
+
+msgid "Unsaved"
+msgstr "ذخیره‌نشده"
+
+msgid "Unsaved changes"
+msgstr "تغییرات ذخیره‌نشده"
+
+msgid "Unsupported conversion policy"
+msgstr "سیاست تبدیل پشتیبانی‌نشده"
+
+msgid "Untitled automation"
+msgstr "خودکارسازی بدون عنوان"
+
+msgid "Use \"{0}\""
+msgstr "استفاده از «{0}»"
+
+msgid "Use custom value"
+msgstr "استفاده از مقدار سفارشی"
+
+msgid "Valid till {0}"
+msgstr "معتبر تا {0}"
+
+msgid "Value already exists"
+msgstr "مقدار از قبل وجود دارد"
+
+msgid "Visible if"
+msgstr "قابل مشاهده اگر"
+
+msgid "Wait"
+msgstr "انتظار"
+
+msgid "Wait for"
+msgstr "انتظار برای"
+
+msgid "Wait for event"
+msgstr "انتظار برای رویداد"
+
+msgid "Wait for {0}"
+msgstr "انتظار برای {0}"
+
+msgid "Wait {0} {1}"
+msgstr "انتظار {0} {1}"
+
+msgid "Warm"
+msgstr "گرم"
+
+msgid "Watch one field and run when it moves to a new value."
+msgstr "یک فیلد را زیر نظر بگیر و وقتی به مقدار جدیدی رفت اجرا کن."
+
+msgid "We're unable to connect your call right now. Please try again later."
+msgstr "در حال حاضر نمی‌توانیم تماس شما را برقرار کنیم. لطفاً بعداً دوباره امتحان کنید."
+
+msgid "Workflow Automation"
+msgstr "خودکارسازی گردش کار"
+
+msgid "Workflow Automations"
+msgstr "خودکارسازی‌های گردش کار"
+
+msgid "Write the notification text"
+msgstr "متن اعلان را بنویسید"
+
+msgid "You can get your access key from "
+msgstr "کلید دسترسی خود را می‌توانید از اینجا دریافت کنید: "
+
+msgid "You have unsaved changes. Do you wish to exit?"
+msgstr "تغییرات ذخیره‌نشده دارید. می‌خواهید خارج شوید؟"
+
+msgid "Your account is not configured with a phone number. Please contact your administrator."
+msgstr "برای حساب شما شمارهٔ تلفن تنظیم نشده است. لطفاً با مدیر خود تماس بگیرید."
+
+msgid "Zoom in"
+msgstr "بزرگ‌نمایی"
+
+msgid "Zoom out"
+msgstr "کوچک‌نمایی"
+
+msgid "a date field"
+msgstr "یک فیلد تاریخ"
+
+msgid "a field to watch"
+msgstr "فیلدی برای پایش"
+
+msgid "a schedule"
+msgstr "یک زمان‌بندی"
+
+msgid "an event"
+msgstr "یک رویداد"
+
+msgid "contact-sales"
+msgstr "contact-sales"
+
+msgid "deal"
+msgstr "معامله"
+
+msgid "e.g. @gmail.com"
+msgstr "مثلاً @gmail.com"
+
+msgid "e.g. Open, Replied"
+msgstr "مثلاً باز، پاسخ داده‌شده"
+
+msgid "email already exists"
+msgstr "ایمیل از قبل وجود دارد"
+
+msgid "https://example.com/thank-you"
+msgstr "https://example.com/thank-you"
+
+msgid "iframe"
+msgstr "iframe"
+
+msgid "item"
+msgstr "کالا"
+
+msgid "items"
+msgstr "کالاها"
+
+msgid "on {0}"
+msgstr "در {0}"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "products"
+msgstr "محصولات"
+
+msgid "{0} can't be collected by a form"
+msgstr "{0} را نمی‌توان با فرم جمع‌آوری کرد"
+
+msgid "{0} can't be set as a hidden field"
+msgstr "{0} را نمی‌توان فیلد پنهان تعیین کرد"
+
+msgid "{0} can't be used as a layout break"
+msgstr "{0} را نمی‌توان به‌عنوان جداکنندهٔ چیدمان استفاده کرد"
+
+msgid "{0} deleted successfully"
+msgstr "{0} با موفقیت حذف شد"
+
+msgid "{0} has no email address"
+msgstr "{0} نشانی ایمیل ندارد"
+
+msgid "{0} is empty"
+msgstr "{0} خالی است"
+
+msgid "{0} is none of {1}"
+msgstr "{0} هیچ‌یک از {1} نیست"
+
+msgid "{0} is not {1}"
+msgstr "{0} برابر {1} نیست"
+
+msgid "{0} isn't a linkable field on a CRM form."
+msgstr "{0} فیلد قابل پیوند در فرم CRM نیست."
+
+msgid "{0} must act on {1}, not {2}"
+msgstr "{0} باید روی {1} عمل کند، نه {2}"
+
+msgid "{0} not yet synced"
+msgstr "{0} هنوز همگام نشده است"
+
+msgid "{0} of {1} steps ran"
+msgstr "{0} از {1} مرحله اجرا شد"
+
+msgid "{0} overdue"
+msgstr "{0} سررسیدگذشته"
+
+# Strings added to the source after the shipped Persian file was made (crm)
+
+msgid "+{0} more keyword(s) on this rule"
+msgstr "+{0} کلیدواژهٔ دیگر در این قانون"
+
+msgid "+{0} more pattern(s) on this rule"
+msgstr "+{0} الگوی دیگر در این قانون"
+
+msgid "A deal is a sale you are working on. Create one, or convert a lead into a deal once it looks promising."
+msgstr "معامله فروشی است که روی آن کار می‌کنید. یکی بسازید یا وقتی سرنخی امیدوارکننده شد آن را به معامله تبدیل کنید."
+
+msgid "A lead is someone who might buy from you. Add one yourself, import a list, or capture them from a web form."
+msgstr "سرنخ کسی است که ممکن است از شما بخرد. خودتان یکی اضافه کنید، فهرستی را درون‌ریزی کنید یا از فرم وب جذبشان کنید."
+
+msgid "A substring (default) or a regular expression matched against the rule's match scope."
+msgstr "یک زیررشته (پیش‌فرض) یا عبارت منظم که با دامنهٔ تطبیق قانون مطابقت داده می‌شود."
+
+msgid "A {0} rule for {1} already exists"
+msgstr "قانون {0} برای {1} از قبل وجود دارد"
+
+msgid "Action"
+msgstr "اقدام"
+
+msgid "Add Contact"
+msgstr "افزودن مخاطب"
+
+msgid "Add field"
+msgstr "افزودن فیلد"
+
+msgid "Add industry rule"
+msgstr "افزودن قانون صنعت"
+
+msgid "Add one to tell enrichment which keywords point at which industry."
+msgstr "یکی اضافه کنید تا غنی‌سازی بداند کدام کلیدواژه‌ها به کدام صنعت اشاره می‌کنند."
+
+msgid "Add one to tell enrichment which profile links to look for."
+msgstr "یکی اضافه کنید تا غنی‌سازی بداند دنبال کدام پیوندهای نمایه بگردد."
+
+msgid "Add or invite users and choose their role to control what they can see and do."
+msgstr "کاربران را اضافه یا دعوت کنید و نقششان را انتخاب کنید تا آنچه می‌بینند و انجام می‌دهند کنترل شود."
+
+msgid "Add social rule"
+msgstr "افزودن قانون شبکهٔ اجتماعی"
+
+msgid "Add website to auto enrich"
+msgstr "افزودن وب‌سایت برای غنی‌سازی خودکار"
+
+msgid "Add, edit, and manage email templates for various CRM communications."
+msgstr "قالب‌های ایمیل را برای ارتباطات مختلف CRM اضافه، ویرایش و مدیریت کنید."
+
+msgid "Add, edit, and manage sources for automatic lead syncing to your CRM."
+msgstr "منابع همگام‌سازی خودکار سرنخ با CRM را اضافه، ویرایش و مدیریت کنید."
+
+msgid "Advanced"
+msgstr "پیشرفته"
+
+msgid "Allowed Domains"
+msgstr "دامنه‌های مجاز"
+
+msgid "Allowlist (subdomain-aware). If you add any domains here, the crawler may ONLY visit those domains and their subdomains — everything else is rejected by the SSRF guard. Leave empty (the normal case) to allow any public site; this is for locked-down deployments that should reach only specific domains."
+msgstr "فهرست مجاز (با در نظر گرفتن زیردامنه). اگر اینجا دامنه‌ای اضافه کنید، خزنده فقط می‌تواند از آن دامنه‌ها و زیردامنه‌هایشان بازدید کند — هر چیز دیگر توسط محافظ SSRF رد می‌شود. برای مجاز بودن هر سایت عمومی (حالت عادی) خالی بگذارید؛ این برای استقرارهای قفل‌شده است که باید فقط به دامنه‌های مشخص برسند."
+
+msgid "Always refresh"
+msgstr "همیشه تازه‌سازی کن"
+
+msgid "Auto-assign leads/deals to the right sales user based on predefined conditions."
+msgstr "سرنخ‌ها و معامله‌ها را بر اساس شرط‌های از پیش تعیین‌شده، خودکار به کارشناس فروش مناسب تخصیص بده."
+
+msgid "Auto-enrich new records"
+msgstr "غنی‌سازی خودکار رکوردهای جدید"
+
+msgid "Automatically enrich a new CRM Lead, Deal or Organization in the background as soon as it is created (requires a website on the record). Only applies to the doctypes enabled above. When off, enrichment is triggered manually with the Enrich button."
+msgstr "سرنخ، معامله یا سازمان جدید CRM را بلافاصله پس از ایجاد در پس‌زمینه خودکار غنی‌سازی کن (نیازمند وب‌سایت روی رکورد). فقط برای انواع سند فعال‌شده در بالا اعمال می‌شود. وقتی خاموش است، غنی‌سازی با دکمهٔ «غنی‌سازی» دستی انجام می‌شود."
+
+msgid "Automatically enrich new Leads, Deals and Organizations in the background when they have a website. When off, use the Enrich button on the record."
+msgstr "سرنخ‌ها، معامله‌ها و سازمان‌های جدید را وقتی وب‌سایت دارند در پس‌زمینه خودکار غنی‌سازی کن. وقتی خاموش است، از دکمهٔ «غنی‌سازی» روی رکورد استفاده کنید."
+
+msgid "Automation"
+msgstr "خودکارسازی"
+
+msgid "Blocked Domains"
+msgstr "دامنه‌های مسدود"
+
+msgid "CRM Enrichment Domain"
+msgstr "دامنهٔ غنی‌سازی CRM"
+
+msgid "CRM Enrichment Field Mapping"
+msgstr "نگاشت فیلد غنی‌سازی CRM"
+
+msgid "CRM Enrichment Link Priority"
+msgstr "اولویت پیوند غنی‌سازی CRM"
+
+msgid "CRM Enrichment Rule"
+msgstr "قانون غنی‌سازی CRM"
+
+msgid "CRM Enrichment Rule Pattern"
+msgstr "الگوی قانون غنی‌سازی CRM"
+
+msgid "CRM Enrichment Run"
+msgstr "اجرای غنی‌سازی CRM"
+
+msgid "CRM Enrichment Run Change"
+msgstr "تغییر اجرای غنی‌سازی CRM"
+
+msgid "CRM Enrichment Settings"
+msgstr "تنظیمات غنی‌سازی CRM"
+
+msgid "CRM Enrichment Skip Pattern"
+msgstr "الگوی رد کردن غنی‌سازی CRM"
+
+msgid "Calls made through Twilio or Exotel are logged here, along with calls you log by hand on a lead or deal."
+msgstr "تماس‌های برقرارشده از طریق Twilio یا Exotel اینجا ثبت می‌شوند، همراه با تماس‌هایی که روی سرنخ یا معامله دستی ثبت می‌کنید."
+
+msgid "Changes"
+msgstr "تغییرات"
+
+msgid "Choose how the dashboard forecasts deals and shows currency."
+msgstr "انتخاب کنید داشبورد معامله‌ها را چگونه پیش‌بینی کند و واحد پول را چگونه نشان دهد."
+
+msgid "Company Description"
+msgstr "شرح شرکت"
+
+msgid "Company description discovered by Domain Enrichment."
+msgstr "شرح شرکت که توسط غنی‌سازی دامنه پیدا شده است."
+
+msgid "Company logo discovered by Domain Enrichment."
+msgstr "لوگوی شرکت که توسط غنی‌سازی دامنه پیدا شده است."
+
+msgid "Configure actions that appear on the home dropdown."
+msgstr "عملیاتی را که در منوی کشویی خانه نمایش داده می‌شوند پیکربندی کنید."
+
+msgid "Configure general settings for your application."
+msgstr "تنظیمات عمومی برنامهٔ خود را پیکربندی کنید."
+
+msgid "Configure telephony settings for your CRM."
+msgstr "تنظیمات تلفنی CRM خود را پیکربندی کنید."
+
+msgid "Configure your brand name, logo and favicon."
+msgstr "نام برند، لوگو و فاوآیکون خود را پیکربندی کنید."
+
+msgid "Connect email accounts to send and receive emails from CRM. Set one as the default for incoming and outgoing emails."
+msgstr "حساب‌های ایمیل را متصل کنید تا از CRM ایمیل بفرستید و دریافت کنید. یکی را برای ایمیل‌های ورودی و خروجی پیش‌فرض قرار دهید."
+
+msgid "Contacts are the people you talk to at your leads and customers. They are added when you convert a lead, or you can add them here."
+msgstr "مخاطبان افرادی هستند که در سرنخ‌ها و مشتریان خود با آن‌ها صحبت می‌کنید. هنگام تبدیل سرنخ اضافه می‌شوند یا می‌توانید اینجا اضافه‌شان کنید."
+
+msgid "Could not load industry rules"
+msgstr "بارگذاری قوانین صنعت ممکن نبود"
+
+msgid "Could not load social rules"
+msgstr "بارگذاری قوانین شبکهٔ اجتماعی ممکن نبود"
+
+msgid "Could not save settings"
+msgstr "ذخیرهٔ تنظیمات ممکن نبود"
+
+msgid "Could not start enrichment."
+msgstr "شروع غنی‌سازی ممکن نبود."
+
+msgid "Could not undo enrichment."
+msgstr "برگرداندن غنی‌سازی ممکن نبود."
+
+msgid "Crawl"
+msgstr "خزش"
+
+msgid "Crawl Tuning"
+msgstr "تنظیم خزش"
+
+msgid "Crawl-ordering hints (not extraction). Links whose URL path or anchor text contain one of these are fetched first; higher weight = sooner. Lets the crawler spend its page budget on company pages (about/contact/team) before the cap. Defaults are seeded; edit or remove as needed."
+msgstr "نکته‌های ترتیب خزش (نه استخراج). پیوندهایی که مسیر URL یا متن لنگرشان یکی از این‌ها را دارد زودتر دریافت می‌شوند؛ وزن بیشتر = زودتر. به خزنده اجازه می‌دهد پیش از رسیدن به سقف، سهمیهٔ صفحه‌اش را صرف صفحه‌های شرکت (دربارهٔ ما/تماس/تیم) کند. پیش‌فرض‌ها از قبل ثبت شده‌اند؛ در صورت نیاز ویرایش یا حذف کنید."
+
+msgid "Create Missing Link"
+msgstr "ایجاد پیوند جاافتاده"
+
+msgid "Create workflow automations for CRM documents."
+msgstr "خودکارسازی‌های گردش کار برای اسناد CRM ایجاد کنید."
+
+msgid "Create {0}"
+msgstr "ایجاد {0}"
+
+msgid "Created By"
+msgstr "ایجادشده توسط"
+
+msgid "Currency for dashboard cards and charts. Can't be changed once set."
+msgstr "واحد پول کارت‌ها و نمودارهای داشبورد. پس از تعیین قابل تغییر نیست."
+
+msgid "Default Values"
+msgstr "مقدارهای پیش‌فرض"
+
+msgid "Delete this rule?"
+msgstr "این قانون حذف شود؟"
+
+msgid "Denylist (subdomain-aware). A host that equals or is a subdomain of any entry is always rejected by the SSRF guard — e.g. blocking \"acme.com\" also blocks \"shop.acme.com\". Use it to permanently exclude internal domains, known-bad hosts, or link shorteners. Always wins over the allowlist."
+msgstr "فهرست ممنوع (با در نظر گرفتن زیردامنه). میزبانی که برابر یا زیردامنهٔ هر مورد باشد همیشه توسط محافظ SSRF رد می‌شود — مثلاً مسدود کردن «acme.com»، «shop.acme.com» را هم مسدود می‌کند. برای کنار گذاشتن دائمی دامنه‌های داخلی، میزبان‌های ناسالم یا کوتاه‌کننده‌های پیوند استفاده کنید. همیشه بر فهرست مجاز غالب است."
+
+msgid "Domain"
+msgstr "دامنه"
+
+msgid "Domain Enrichment"
+msgstr "غنی‌سازی دامنه"
+
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+msgid "Edit {0}"
+msgstr "ویرایش {0}"
+
+msgid "Emails Found"
+msgstr "ایمیل‌های پیداشده"
+
+msgid "Enable enrichment"
+msgstr "فعال‌سازی غنی‌سازی"
+
+msgid "End date cannot be before start date"
+msgstr "تاریخ پایان نمی‌تواند قبل از تاریخ شروع باشد"
+
+msgid "Enrich"
+msgstr "غنی‌سازی"
+
+msgid "Enrich from Website"
+msgstr "غنی‌سازی از وب‌سایت"
+
+msgid "Enrich from website"
+msgstr "غنی‌سازی از وب‌سایت"
+
+msgid "Enriched from website"
+msgstr "از وب‌سایت غنی‌سازی شد"
+
+msgid "Enriching…"
+msgstr "در حال غنی‌سازی…"
+
+msgid "Enrichment"
+msgstr "غنی‌سازی"
+
+msgid "Enrichment Failed"
+msgstr "غنی‌سازی ناموفق بود"
+
+msgid "Enrichment Settings"
+msgstr "تنظیمات غنی‌سازی"
+
+msgid "Enrichment complete"
+msgstr "غنی‌سازی کامل شد"
+
+msgid "Enrichment complete — a new run was created"
+msgstr "غنی‌سازی کامل شد — اجرای جدیدی ایجاد شد"
+
+msgid "Enrichment failed."
+msgstr "غنی‌سازی ناموفق بود."
+
+msgid "Enrichment failed. Check the error log."
+msgstr "غنی‌سازی ناموفق بود. گزارش خطا را بررسی کنید."
+
+msgid "Enrichment is not enabled for {0}."
+msgstr "غنی‌سازی برای {0} فعال نیست."
+
+msgid "Enrichment is off. These rules apply once it is turned on."
+msgstr "غنی‌سازی خاموش است. این قوانین پس از روشن شدن آن اعمال می‌شوند."
+
+msgid "Enrichment is still running for this record. Try again once it finishes."
+msgstr "غنی‌سازی این رکورد هنوز در حال اجراست. پس از اتمام دوباره امتحان کنید."
+
+msgid "Enrichment successful"
+msgstr "غنی‌سازی موفق بود"
+
+msgid "Enrichment undone"
+msgstr "غنی‌سازی برگردانده شد"
+
+msgid "Event"
+msgstr "رویداد"
+
+msgid "Expression"
+msgstr "عبارت"
+
+msgid "Field values this run wrote to the reference record, kept so the run can be undone."
+msgstr "مقدار فیلدهایی که این اجرا روی رکورد مرجع نوشته و نگه داشته شده تا اجرا قابل برگرداندن باشد."
+
+msgid "Fieldname"
+msgstr "نام فیلد"
+
+msgid "Fill if empty"
+msgstr "در صورت خالی بودن پر کن"
+
+msgid "Fill if empty: only write when the field is blank. Always refresh: overwrite on every run (for fully enrichment-derived fields). Override defaults: write even when the current value is a known default (see Default Values)."
+msgstr "در صورت خالی بودن پر کن: فقط وقتی فیلد خالی است بنویس. همیشه تازه‌سازی کن: در هر اجرا بازنویسی کن (برای فیلدهایی که کاملاً از غنی‌سازی می‌آیند). بازنویسی پیش‌فرض‌ها: حتی وقتی مقدار فعلی یک پیش‌فرض شناخته‌شده است بنویس (مقدارهای پیش‌فرض را ببینید)."
+
+msgid "Fill in company details on Leads, Deals and Organizations from their website."
+msgstr "جزئیات شرکت را در سرنخ‌ها، معامله‌ها و سازمان‌ها از وب‌سایتشان پر کنید."
+
+msgid "Filled: {0}"
+msgstr "پرشده: {0}"
+
+msgid "Finished On"
+msgstr "پایان در"
+
+msgid "Fix the highlighted fields before saving"
+msgstr "پیش از ذخیره، فیلدهای مشخص‌شده را اصلاح کنید"
+
+msgid "From Value"
+msgstr "از مقدار"
+
+msgid "Full Text"
+msgstr "متن کامل"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Go to {0}"
+msgstr "رفتن به {0}"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Headline"
+msgstr "سرتیتر"
+
+msgid "Hide details"
+msgstr "پنهان کردن جزئیات"
+
+msgid "If the value names a missing linked record (e.g. a CRM Industry), create it. Opt-in only."
+msgstr "اگر مقدار نام رکورد پیوندشدهٔ ناموجودی را بدهد (مثلاً یک صنعت CRM)، آن را ایجاد کن. فقط با انتخاب خودتان."
+
+msgid "Industry Confidence"
+msgstr "اطمینان صنعت"
+
+msgid "Industry rules"
+msgstr "قوانین صنعت"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Invalid maximum pages"
+msgstr "حداکثر صفحه‌ها نامعتبر است"
+
+msgid "Invite users to access CRM. Specify their roles to control access and permissions."
+msgstr "کاربران را برای دسترسی به CRM دعوت کنید. نقش آن‌ها را برای کنترل دسترسی و مجوزها مشخص کنید."
+
+msgid "Is Regex"
+msgstr "عبارت منظم است"
+
+msgid "It will be removed when you click Update."
+msgstr "با کلیک روی «به‌روزرسانی» حذف می‌شود."
+
+msgid "Keyword"
+msgstr "کلیدواژه"
+
+msgid "Keywords"
+msgstr "کلیدواژه‌ها"
+
+msgid "Keywords, comma separated"
+msgstr "کلیدواژه‌ها، جداشده با ویرگول"
+
+msgid "Link Priority Order"
+msgstr "ترتیب اولویت پیوند"
+
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgid "Manage ERPNext integration settings."
+msgstr "تنظیمات یکپارچه‌سازی ERPNext را مدیریت کنید."
+
+msgid "Manage your service level agreement policies."
+msgstr "سیاست‌های توافق‌نامه سطح خدمات خود را مدیریت کنید."
+
+msgid "Master switch for the Domain Enrichment feature."
+msgstr "کلید اصلی قابلیت غنی‌سازی دامنه."
+
+msgid "Match Scope"
+msgstr "دامنهٔ تطبیق"
+
+msgid "Max Depth"
+msgstr "حداکثر عمق"
+
+msgid "Max Download Bytes"
+msgstr "حداکثر بایت دانلود"
+
+msgid "Max Pages"
+msgstr "حداکثر صفحه‌ها"
+
+msgid "Maximum bytes downloaded per page (the stream is capped)."
+msgstr "حداکثر بایت دانلودشده برای هر صفحه (جریان محدود می‌شود)."
+
+msgid "Maximum link depth followed from the homepage."
+msgstr "حداکثر عمق پیوندی که از صفحهٔ اصلی دنبال می‌شود."
+
+msgid "Maximum number of pages crawled per enrichment."
+msgstr "حداکثر تعداد صفحه‌های خزیده‌شده در هر غنی‌سازی."
+
+msgid "Maximum number of pages that can be crawled during a single enrichment run."
+msgstr "حداکثر تعداد صفحه‌هایی که در یک اجرای غنی‌سازی می‌توان خزید."
+
+msgid "Maximum pages"
+msgstr "حداکثر صفحه‌ها"
+
+msgid "Maximum pages must be a whole number between 1 and {0}"
+msgstr "حداکثر صفحه‌ها باید عدد صحیحی بین ۱ و {0} باشد"
+
+msgid "New Deal"
+msgstr "معامله جدید"
+
+msgid "New Value"
+msgstr "مقدار جدید"
+
+msgid "New industry, created on save"
+msgstr "صنعت جدید، هنگام ذخیره ایجاد می‌شود"
+
+msgid "Newline-separated values treated as \"unset\" defaults that may be overwritten, in addition to a truly empty field."
+msgstr "مقدارهای جداشده با خط جدید که علاوه بر فیلد واقعاً خالی، پیش‌فرض «تعیین‌نشده» محسوب می‌شوند و قابل بازنویسی‌اند."
+
+msgid "No Website"
+msgstr "بدون وب‌سایت"
+
+msgid "No call logs yet"
+msgstr "هنوز لاگ تماسی وجود ندارد"
+
+msgid "No contacts yet"
+msgstr "هنوز مخاطبی وجود ندارد"
+
+msgid "No deals yet"
+msgstr "هنوز معامله‌ای وجود ندارد"
+
+msgid "No industry rules yet"
+msgstr "هنوز قانون صنعتی وجود ندارد"
+
+msgid "No leads yet"
+msgstr "هنوز سرنخی وجود ندارد"
+
+msgid "No notes yet"
+msgstr "هنوز یادداشتی وجود ندارد"
+
+msgid "No organizations yet"
+msgstr "هنوز سازمانی وجود ندارد"
+
+msgid "No social rules yet"
+msgstr "هنوز قانون شبکهٔ اجتماعی‌ای وجود ندارد"
+
+msgid "No tasks yet"
+msgstr "هنوز تسکی وجود ندارد"
+
+msgid "Not Set"
+msgstr "تعیین نشده"
+
+msgid "Notes keep what you learned on a call or in a meeting next to the lead or deal it belongs to."
+msgstr "یادداشت‌ها آنچه را در تماس یا جلسه فهمیده‌اید کنار سرنخ یا معامله‌ای که به آن تعلق دارد نگه می‌دارند."
+
+msgid "Nothing to undo, you've edited all enriched fields"
+msgstr "چیزی برای برگرداندن نیست، همهٔ فیلدهای غنی‌سازی‌شده را ویرایش کرده‌اید"
+
+msgid "Nothing to update"
+msgstr "چیزی برای به‌روزرسانی نیست"
+
+msgid "Number of retries on a failed request."
+msgstr "تعداد تلاش دوباره برای درخواست ناموفق."
+
+msgid "Old Value"
+msgstr "مقدار قدیمی"
+
+msgid "Only a completed enrichment run can be undone."
+msgstr "فقط اجرای غنی‌سازی تکمیل‌شده قابل برگرداندن است."
+
+msgid "Organizations are the companies your contacts and deals belong to."
+msgstr "سازمان‌ها شرکت‌هایی هستند که مخاطبان و معامله‌های شما به آن‌ها تعلق دارند."
+
+msgid "Override defaults"
+msgstr "بازنویسی پیش‌فرض‌ها"
+
+msgid "Pattern"
+msgstr "الگو"
+
+msgid "Patterns"
+msgstr "الگوها"
+
+msgid "Per-request timeout in seconds."
+msgstr "مهلت هر درخواست به ثانیه."
+
+msgid "Phones Found"
+msgstr "تلفن‌های پیداشده"
+
+msgid "Pin to top"
+msgstr "سنجاق به بالا"
+
+msgid "Pinned By"
+msgstr "سنجاق‌شده توسط"
+
+msgid "Pinned On"
+msgstr "سنجاق‌شده در"
+
+msgid "Placeholder"
+msgstr "متن نمونه"
+
+msgid "Platform"
+msgstr "بستر"
+
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+msgid "Publish"
+msgstr "انتشار"
+
+msgid "Published"
+msgstr "منتشرشده"
+
+msgid "Queued…"
+msgstr "در صف…"
+
+msgid "Quotations"
+msgstr "پیش‌فاکتورها"
+
+msgid "Raw"
+msgstr "خام"
+
+msgid "Raw JSON"
+msgstr "JSON خام"
+
+msgid "Re-enrich this record?"
+msgstr "این رکورد دوباره غنی‌سازی شود؟"
+
+msgid "Records"
+msgstr "رکوردها"
+
+msgid "Redirect URL"
+msgstr "نشانی تغییر مسیر"
+
+msgid "Redo"
+msgstr "انجام دوباره"
+
+msgid "Remove field"
+msgstr "حذف فیلد"
+
+msgid "Rename"
+msgstr "تغییر نام"
+
+msgid "Request Timeout (s)"
+msgstr "مهلت درخواست (ثانیه)"
+
+msgid "Retry"
+msgstr "تلاش دوباره"
+
+msgid "Retry Count"
+msgstr "تعداد تلاش دوباره"
+
+msgid "Retry Enrichment"
+msgstr "تلاش دوبارهٔ غنی‌سازی"
+
+msgid "Reverted"
+msgstr "برگردانده‌شد"
+
+msgid "Row #{0}: Not a valid regular expression: {1}"
+msgstr "ردیف #{0}: عبارت منظم معتبر نیست: {1}"
+
+msgid "Row {0}"
+msgstr "ردیف {0}"
+
+msgid "Rule Name"
+msgstr "نام قانون"
+
+msgid "Rule Type"
+msgstr "نوع قانون"
+
+msgid "Rules"
+msgstr "قوانین"
+
+msgid "Running"
+msgstr "در حال اجرا"
+
+msgid "SSRF Guard"
+msgstr "محافظ SSRF"
+
+msgid "Save your changes before enriching"
+msgstr "پیش از غنی‌سازی تغییرات خود را ذخیره کنید"
+
+msgid "Save your changes before undoing"
+msgstr "پیش از برگرداندن تغییرات خود را ذخیره کنید"
+
+msgid "Score contributed per matched pattern (Industry classification scoring)."
+msgstr "امتیازی که هر الگوی مطابق اضافه می‌کند (امتیازدهی طبقه‌بندی صنعت)."
+
+msgid "Search fields"
+msgstr "جستجوی فیلدها"
+
+msgid "See Error Log."
+msgstr "گزارش خطا را ببینید."
+
+msgid "Seed the crawl queue from the site's sitemap (declared in robots.txt, or the conventional /sitemap.xml) so pages not reachable within Max Depth still get a chance to be crawled. This is an addition on top of ordinary link-following, not a replacement -- a site with no sitemap falls straight through to link-following with no error."
+msgstr "صف خزش را از نقشهٔ سایت (اعلام‌شده در robots.txt یا /sitemap.xml رایج) پر کن تا صفحه‌هایی که در حداکثر عمق قابل دسترسی نیستند هم فرصت خزیده شدن داشته باشند. این علاوه بر دنبال کردن معمول پیوندهاست، نه جایگزین آن -- سایتی که نقشه ندارد بدون خطا مستقیم به دنبال کردن پیوندها می‌رسد."
+
+msgid "Set a Website on this record before enriching."
+msgstr "پیش از غنی‌سازی، برای این رکورد وب‌سایت تعیین کنید."
+
+msgid "Set a website on this record before enriching."
+msgstr "پیش از غنی‌سازی، برای این رکورد وب‌سایت تعیین کنید."
+
+msgid "Set the currency, number, date and time formats used across your CRM."
+msgstr "واحد پول و قالب‌های عدد، تاریخ و زمان مورد استفاده در CRM را تعیین کنید."
+
+msgid "Set up enrichment availability and match website data to CRM fields."
+msgstr "در دسترس بودن غنی‌سازی را تنظیم کنید و داده‌های وب‌سایت را با فیلدهای CRM تطبیق دهید."
+
+msgid "Share"
+msgstr "اشتراک‌گذاری"
+
+msgid "Showing the first {0} rules"
+msgstr "نمایش {0} قانون اول"
+
+msgid "Skip"
+msgstr "رد کردن"
+
+msgid "Skip Patterns"
+msgstr "الگوهای رد کردن"
+
+msgid "Social"
+msgstr "شبکه‌های اجتماعی"
+
+msgid "Social Profiles"
+msgstr "نمایه‌های شبکه‌های اجتماعی"
+
+msgid "Social profile rules"
+msgstr "قوانین نمایهٔ شبکه‌های اجتماعی"
+
+msgid "Some changes could not be saved"
+msgstr "برخی تغییرات ذخیره نشدند"
+
+msgid "Source Key"
+msgstr "کلید منبع"
+
+msgid "Source Website"
+msgstr "وب‌سایت منبع"
+
+msgid "Started On"
+msgstr "شروع در"
+
+msgid "Step"
+msgstr "مرحله"
+
+msgid "Substring matched against a candidate URL/anchor to prioritise crawling it (e.g. \"about\", \"team\", \"contact\")."
+msgstr "زیررشته‌ای که با URL/لنگر نامزد مطابقت داده می‌شود تا خزش آن اولویت یابد (مثلاً «about»، «team»، «contact»)."
+
+msgid "Substring; a candidate URL containing it is skipped during the crawl (e.g. \"/blog/\", \".pdf\", \"?\")."
+msgstr "زیررشته؛ URL نامزدی که آن را داشته باشد هنگام خزش رد می‌شود (مثلاً «/blog/»، «.pdf»، «?»)."
+
+msgid "Substrings that exclude a candidate link from the crawl."
+msgstr "زیررشته‌هایی که پیوند نامزد را از خزش کنار می‌گذارند."
+
+msgid "Success message"
+msgstr "پیام موفقیت"
+
+msgid "Summary"
+msgstr "خلاصه"
+
+msgid "Target Doctype"
+msgstr "نوع سند هدف"
+
+msgid "Target Doctype must be one of: {0}"
+msgstr "نوع سند هدف باید یکی از این‌ها باشد: {0}"
+
+msgid "Target Fieldname"
+msgstr "نام فیلد هدف"
+
+msgid "Target Value"
+msgstr "مقدار هدف"
+
+msgid "Tasks are to-dos for you and your team, like a follow-up call or sending a quote. Add them here or from a lead or deal."
+msgstr "تسک‌ها کارهای انجام‌دادنی شما و تیمتان هستند، مانند تماس پیگیری یا ارسال پیش‌فاکتور. آن‌ها را اینجا یا از سرنخ یا معامله اضافه کنید."
+
+msgid "The enrichment result key to read the value from."
+msgstr "کلید نتیجهٔ غنی‌سازی برای خواندن مقدار."
+
+msgid "The fieldname on the run's reference record that this run wrote to."
+msgstr "نام فیلدی از رکورد مرجع اجرا که این اجرا روی آن نوشته است."
+
+msgid "The fieldname on the target doctype to write the value to."
+msgstr "نام فیلد در نوع سند هدف که مقدار در آن نوشته می‌شود."
+
+msgid "The value this rule resolves to when it matches (e.g. the social network \"linkedin\"). For Industry rules, use the Industry link instead."
+msgstr "مقداری که این قانون هنگام تطبیق به آن می‌رسد (مثلاً شبکهٔ اجتماعی «linkedin»). برای قوانین صنعت، به‌جای آن از پیوند صنعت استفاده کنید."
+
+msgid "There is no enrichment to undo for this record."
+msgstr "برای این رکورد غنی‌سازی‌ای برای برگرداندن وجود ندارد."
+
+msgid "These fields you edited will be replaced: {0}"
+msgstr "این فیلدهایی که ویرایش کرده‌اید جایگزین می‌شوند: {0}"
+
+msgid "This enrichment run did not change any fields."
+msgstr "این اجرای غنی‌سازی هیچ فیلدی را تغییر نداد."
+
+msgid "This note is empty."
+msgstr "این یادداشت خالی است."
+
+msgid "This record was already enriched. Enriching again may update those fields with newer values from the website."
+msgstr "این رکورد قبلاً غنی‌سازی شده است. غنی‌سازی دوباره ممکن است آن فیلدها را با مقدارهای جدیدتر وب‌سایت به‌روزرسانی کند."
+
+msgid "This restores the values these fields had before the last enrichment."
+msgstr "مقدارهایی را که این فیلدها پیش از آخرین غنی‌سازی داشتند بازمی‌گرداند."
+
+msgid "This run has no linked record to re-enrich."
+msgstr "این اجرا رکورد پیوندشده‌ای برای غنی‌سازی دوباره ندارد."
+
+msgid "Timeout"
+msgstr "مهلت"
+
+msgid "Timing"
+msgstr "زمان‌بندی"
+
+msgid "To Value"
+msgstr "تا مقدار"
+
+msgid "Treat the pattern as a regular expression instead of a plain substring."
+msgstr "الگو را به‌جای زیررشتهٔ ساده، عبارت منظم در نظر بگیر."
+
+msgid "URL"
+msgstr "نشانی (URL)"
+
+msgid "Undo"
+msgstr "برگرداندن"
+
+msgid "Undo enrichment?"
+msgstr "غنی‌سازی برگردانده شود؟"
+
+msgid "Undo last enrichment"
+msgstr "برگرداندن آخرین غنی‌سازی"
+
+msgid "Undone By"
+msgstr "برگردانده‌شده توسط"
+
+msgid "Undone On"
+msgstr "برگردانده‌شده در"
+
+msgid "Unit"
+msgstr "واحد"
+
+msgid "Unpublish"
+msgstr "لغو انتشار"
+
+msgid "Use New Deal to create a deal for this contact."
+msgstr "برای ایجاد معامله برای این مخاطب از «معامله جدید» استفاده کنید."
+
+msgid "Use New Deal to create a deal for this organization."
+msgstr "برای ایجاد معامله برای این سازمان از «معامله جدید» استفاده کنید."
+
+msgid "Use Sitemap"
+msgstr "استفاده از نقشهٔ سایت"
+
+msgid "User Agent"
+msgstr "عامل کاربر (User Agent)"
+
+msgid "Weight"
+msgstr "وزن"
+
+msgid "Where the patterns are matched."
+msgstr "جایی که الگوها مطابقت داده می‌شوند."
+
+msgid "Write Policy"
+msgstr "سیاست نوشتن"
+
+msgid "X (Twitter)"
+msgstr "X (توییتر)"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "added a note"
+msgstr "یادداشتی اضافه کرد"
+
+msgid "and"
+msgstr "و"
+
+msgid "company_name"
+msgstr "company_name"
+
+msgid "description"
+msgstr "description"
+
+msgid "e.g. mastodon\\\\.social/@\\\\w+"
+msgstr "مثلاً mastodon\\\\.social/@\\\\w+"
+
+msgid "facebook"
+msgstr "facebook"
+
+msgid "github"
+msgstr "github"
+
+msgid "industry"
+msgstr "industry"
+
+msgid "instagram"
+msgstr "instagram"
+
+msgid "lead"
+msgstr "سرنخ"
+
+msgid "linkedin"
+msgstr "linkedin"
+
+msgid "logo"
+msgstr "logo"
+
+msgid "mentioned you in a note on {0}"
+msgstr "شما را در یادداشتی روی {0} نام برد"
+
+msgid "note updates from"
+msgstr "به‌روزرسانی یادداشت از"
+
+msgid "or"
+msgstr "یا"
+
+msgid "pinned the note"
+msgstr "یادداشت را سنجاق کرد"
+
+msgid "primary_email"
+msgstr "primary_email"
+
+msgid "primary_phone"
+msgstr "primary_phone"
+
+msgid "secondary_phone"
+msgstr "secondary_phone"
+
+msgid "twitter"
+msgstr "twitter"
+
+msgid "unpinned the note"
+msgstr "سنجاق یادداشت را برداشت"
+
+msgid "youtube"
+msgstr "youtube"
+
+msgid "{0} contains {1}"
+msgstr "{0} شامل {1} است"
+
+msgid "{0} does not contain {1}"
+msgstr "{0} شامل {1} نیست"
+
+msgid "{0} has no field {1}"
+msgstr "{0} فیلد {1} را ندارد"
+
+msgid "{0} is one of {1}"
+msgstr "{0} یکی از {1} است"
+
+msgid "{0} is required for {1} rules"
+msgstr "{0} برای قوانین {1} الزامی است"
+
+msgid "{0} is set"
+msgstr "{0} تعیین شده است"
+
+msgid "{0} is {1}"
+msgstr "{0} برابر {1} است"
+
+# The Getting started panel and help centre (rewritten at build time)
+
+msgid "{0}/{1} steps completed"
+msgstr "{0}/{1} مرحله تکمیل شد"
+
+msgid "{0}% completed"
+msgstr "{0}٪ تکمیل شد"
+
+msgid "Skip all"
+msgstr "رد کردن همه"
+
+msgid "{0}/{1} steps"
+msgstr "{0}/{1} مرحله"
+
+msgid "You are all set"
+msgstr "همه‌چیز آماده است"
+
+msgid "All steps are completed successfully"
+msgstr "همهٔ مراحل با موفقیت تکمیل شد"
+
+msgid "Start now"
+msgstr "همین حالا شروع کنید"
+
+msgid "Help center"
+msgstr "مرکز راهنما"
+
+msgid "Help centre"
+msgstr "مرکز راهنما"
+
+msgid "Reset onboarding steps"
+msgstr "بازنشانی مراحل آشنایی"
+
+msgid "Search articles..."
+msgstr "جستجوی مقاله‌ها..."
+
+msgid "All articles"
+msgstr "همهٔ مقاله‌ها"
