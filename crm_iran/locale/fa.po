@@ -4198,3 +4198,14 @@ msgstr "پیامک خوشامدگویی"
 
 msgid "Welcome SMS Text"
 msgstr "متن پیامک خوشامدگویی"
+
+# Module name and a sidebar item
+
+msgid "Crm Iran"
+msgstr "CRM ایران"
+
+msgid "CRM Iran"
+msgstr "CRM ایران"
+
+msgid "Call Logs"
+msgstr "لاگ‌های تماس"
