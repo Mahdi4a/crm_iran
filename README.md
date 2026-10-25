@@ -10,10 +10,13 @@ frontend with Jalali dates without editing the CRM source.
 
 ## Jalali dates in the CRM screens
 
-The `/crm` app is a prebuilt Vue app, so its dates can only change by rebuilding it:
+The `/crm` app is a prebuilt Vue app, so its dates can only change by rebuilding it. `bench build` does
+that for you: `package.json` has a `build` script, Frappe runs it for every app that has one, and
+`crm_iran` comes after `crm` in the install order, so its build replaces the stock CRM frontend. The same
+goes for a Press deploy, which runs `bench build`. To run it by hand:
 
 ```bash
-bash apps/crm_iran/frontend/build.sh
+cd apps/crm_iran && yarn build
 ```
 
 `frontend/vite.config.mjs` wraps the CRM's own Vite config and rewrites the date code of the CRM and of
@@ -21,9 +24,8 @@ frappe-ui while they are bundled (`formatDate`, the date, date-time and date-ran
 dashboard range label). Dates are shown and typed as Jalali; what is sent to the server stays
 Gregorian `YYYY-MM-DD`. The switch is "Use Jalali Dates" in Iran Settings.
 
-Run the script again after every CRM upgrade, because `bench build` puts the stock frontend back. If an
-upgrade moves one of the rewritten lines the build stops and names it, so a half-Jalali calendar is
-never shipped.
+Install `crm_iran` after `crm`. If an upgrade moves one of the rewritten lines the build stops and names
+it, so a half-Jalali calendar is never shipped.
 
 ## Site config
 

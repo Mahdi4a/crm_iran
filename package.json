@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"name": "crm_iran",
+	"description": "Iran localization for Frappe CRM",
+	"license": "MIT",
+	"scripts": {
+		"build": "bash frontend/build.sh"
+	}
+}
