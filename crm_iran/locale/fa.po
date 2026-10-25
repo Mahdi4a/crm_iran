@@ -1,0 +1,4052 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crm_iran\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: frontend/src/components/Filter.vue:581
+msgid "01/01/2022 to 01/31/2022"
+msgstr "01/01/1404 تا 31/01/1404"
+
+#: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.py:49
+msgid "A lead sync source is already enabled for this Facebook Lead Form!"
+msgstr "برای این فرم سرنخ فیس‌بوک، یک منبع همگام‌سازی سرنخ از قبل فعال است!"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:503
+msgid "API secret is required"
+msgstr "کلید مخفی API الزامی است"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:88
+msgid "Accept"
+msgstr "پذیرفتن"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:155
+msgid "Accept Call"
+msgstr "پاسخ به تماس"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:91
+msgid "Account Info & Security"
+msgstr "اطلاعات حساب و امنیت"
+
+#: crm/fcrm/doctype/crm_exotel_settings/crm_exotel_settings.json:None
+msgid "Account SID"
+msgstr "شناسه حساب (Account SID)"
+
+#: frontend/src/components/Settings/emailConfig.js:178
+msgid "Account name is required"
+msgstr "نام حساب الزامی است"
+
+#: frontend/src/components/Settings/EmailAccountList.vue:19
+msgid "Add Account"
+msgstr "افزودن حساب"
+
+#: frontend/src/components/Calendar/Attendee.vue:122
+msgid "Add Attendee"
+msgstr "افزودن شرکت‌کننده"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:2
+msgid "Add Chart"
+msgstr "افزودن نمودار"
+
+#: frontend/src/components/ConditionsFilter/CFConditions.vue:26
+msgid "Add Condition"
+msgstr "افزودن شرط"
+
+#: frontend/src/components/ConditionsFilter/CFConditions.vue:81
+msgid "Add Condition Group"
+msgstr "افزودن گروه شرط"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:389
+msgid "Add Description"
+msgstr "افزودن شرح"
+
+#: frontend/src/components/Modals/EventModal.vue:179
+msgid "Add Description."
+msgstr "افزودن شرح."
+
+#: frontend/src/components/Settings/Profile/UserEmailSettings.vue:100
+msgid "Add Email"
+msgstr "افزودن ایمیل"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:377
+msgid "Add Location"
+msgstr "افزودن مکان"
+
+#: frontend/src/pages/Contact.vue:436
+msgid "Add Mobile Number..."
+msgstr "افزودن شماره موبایل..."
+
+#: frontend/src/components/Modals/CallLogDetailModal.vue:20
+msgid "Add Note"
+msgstr "افزودن یادداشت"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:67
+msgid "Add Notification"
+msgstr "افزودن اعلان"
+
+#: frontend/src/pages/Contact.vue:437
+msgid "Add Organization..."
+msgstr "افزودن سازمان..."
+
+#: frontend/src/pages/Welcome.vue:24
+msgid "Add Sample Data"
+msgstr "افزودن داده‌های نمونه"
+
+#: frontend/src/components/Modals/CallLogDetailModal.vue:25
+msgid "Add Task"
+msgstr "افزودن تسک"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:159
+msgid "Add Users"
+msgstr "افزودن کاربران"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRulesSection.vue:20
+msgid "Add a Condition"
+msgstr "افزودن یک شرط"
+
+#: frontend/src/components/Settings/Sla/SlaAssignmentConditions.vue:15
+msgid "Add a Custom Condition"
+msgstr "افزودن شرط سفارشی"
+
+#: frontend/src/components/Telephony/ExotelCallUI.vue:191
+msgid "Add a Task"
+msgstr "افزودن یک تسک"
+
+#: frontend/src/components/Settings/Hierarchy/HierarchyRow.vue:63
+msgid "Add direct reports"
+msgstr "افزودن زیرمجموعه‌های مستقیم"
+
+#: frontend/src/components/Modals/AddExistingUserModal.vue:12
+msgid "Add existing system users to this CRM. Assign them a role to grant access with their current credentials."
+msgstr "کاربران موجود سیستم را به این CRM اضافه کنید. با تعیین نقش، آن‌ها با همان اعتبارنامهٔ فعلی خود دسترسی خواهند داشت."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRulesList.vue:11
+msgid "Add one to get started."
+msgstr "برای شروع، یکی اضافه کنید."
+
+#: crm/fcrm/doctype/crm_dropdown_item/crm_dropdown_item.json:None
+msgid "Add svg code or use feather icons e.g 'settings'"
+msgstr "کد svg اضافه کنید یا از آیکون‌های feather مانند 'settings' استفاده کنید"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:219
+msgid "Add time targets around support milestones like first response"
+msgstr "برای نقاط عطف پشتیبانی مانند اولین پاسخ، اهداف زمانی تعیین کنید"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:11
+msgid "Add, edit, and manage email templates for various CRM communications"
+msgstr "قالب‌های ایمیل را برای ارتباطات مختلف CRM اضافه، ویرایش و مدیریت کنید"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:12
+msgid "Add, edit, and manage sources for automatic lead syncing to your CRM"
+msgstr "منابع همگام‌سازی خودکار سرنخ‌ها با CRM را اضافه، ویرایش و مدیریت کنید"
+
+#: crm/integrations/twilio/twilio_handler.py:144
+msgid "Agent is unavailable to take the call, please call after some time."
+msgstr "کارشناس در دسترس نیست، لطفاً بعداً تماس بگیرید."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "All Day Event Notifications"
+msgstr "اعلان‌های رویدادهای تمام‌روز"
+
+#: frontend/src/components/Settings/Sla/SlaPriorityList.vue:205
+msgid "All available priorities have already been added"
+msgstr "همهٔ اولویت‌های موجود قبلاً اضافه شده‌اند"
+
+#: frontend/src/data/document.js:77
+msgid "An error occurred while updating the document"
+msgstr "هنگام به‌روزرسانی سند خطایی رخ داد"
+
+#: frontend/src/pages/PersonaForm.vue:64
+msgid "Another CRM"
+msgstr "CRM دیگر"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:69
+msgid "Any failed lead syncs will show up here"
+msgstr "همگام‌سازی‌های ناموفق سرنخ‌ها در اینجا نمایش داده می‌شوند"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:16
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: frontend/src/components/Settings/BrandSettings.vue:65
+msgid "Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG"
+msgstr "در نوار کناری سمت چپ نمایش داده می‌شود. اندازهٔ پیشنهادی ۳۲×۳۲ پیکسل با قالب PNG یا SVG است"
+
+#: frontend/src/components/Settings/BrandSettings.vue:100
+msgid "Appears next to the title in your browser tab. Recommended size is 32x32 px in PNG or ICO"
+msgstr "کنار عنوان در زبانهٔ مرورگر نمایش داده می‌شود. اندازهٔ پیشنهادی ۳۲×۳۲ پیکسل با قالب PNG یا ICO است"
+
+#: frontend/src/composables/demoData.js:21
+msgid "Are you sure you want to clear demo data? This action cannot be undone."
+msgstr "آیا مطمئن هستید که می‌خواهید داده‌های نمونه را پاک کنید؟ این عمل قابل بازگشت نیست."
+
+#: frontend/src/components/Modals/EventModal.vue:468
+msgid "Are you sure you want to delete this event?"
+msgstr "آیا مطمئن هستید که می‌خواهید این رویداد را حذف کنید؟"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:224
+msgid "Are you sure you want to delete {0} linked item(s)?"
+msgstr "آیا مطمئن هستید که می‌خواهید {0} مورد پیوندشده را حذف کنید؟"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:912
+msgid "Are you sure you want to discard unsaved changes to this event?"
+msgstr "آیا مطمئن هستید که می‌خواهید تغییرات ذخیره‌نشدهٔ این رویداد را نادیده بگیرید؟"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:576
+msgid "Are you sure you want to go back? Unsaved changes will be lost."
+msgstr "آیا مطمئن هستید که می‌خواهید برگردید؟ تغییرات ذخیره‌نشده از بین می‌روند."
+
+#: frontend/src/composables/frappecloud.js:24
+msgid "Are you sure you want to login to your Frappe Cloud dashboard?"
+msgstr "آیا مطمئن هستید که می‌خواهید وارد داشبورد Frappe Cloud خود شوید؟"
+
+#: frontend/src/components/FieldLayoutEditor.vue:431
+msgid "Are you sure you want to remove this tab and all its content?"
+msgstr "آیا مطمئن هستید که می‌خواهید این زبانه و همهٔ محتوای آن را حذف کنید؟"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:9
+msgid "Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?"
+msgstr "آیا مطمئن هستید که می‌خواهید اسکریپت فرم «ایجاد پیش‌فاکتور از معامله» را بازنشانی کنید؟"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:236
+msgid "Are you sure you want to set the currency as {0}? This cannot be changed later."
+msgstr "آیا مطمئن هستید که می‌خواهید واحد پول را {0} تعیین کنید؟ این مورد بعداً قابل تغییر نیست."
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:237
+msgid "Are you sure you want to unlink {0} linked item(s)?"
+msgstr "آیا مطمئن هستید که می‌خواهید پیوند {0} مورد پیوندشده را بردارید؟"
+
+#: crm/api/exchange_rate.py:144
+msgid "Ask your manager to set up the Exchange Rate Provider, as default provider does not support currency conversion for {0} to {1}."
+msgstr "از مدیر خود بخواهید ارائه‌دهندهٔ نرخ ارز را تنظیم کند، زیرا ارائه‌دهندهٔ پیش‌فرض تبدیل {0} به {1} را پشتیبانی نمی‌کند."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:435
+msgid "Assign Condition is required"
+msgstr "شرط تخصیص الزامی است"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:438
+msgid "Assign Conditions are invalid"
+msgstr "شرط‌های تخصیص نامعتبر هستند"
+
+#: frontend/src/components/AssignToBody.vue:67
+msgid "Assign To Me"
+msgstr "تخصیص به من"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:5
+msgid "Assignee Rules"
+msgstr "قوانین تخصیص‌گیرنده"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:81
+msgid "Assignees"
+msgstr "تخصیص‌گیرندگان"
+
+#: crm/fcrm/doctype/crm_notification/crm_notification.json:None
+msgid "Assignment"
+msgstr "تخصیص"
+
+#: frontend/src/components/ListBulkActions.vue:152
+msgid "Assignment Cleared Successfully"
+msgstr "تخصیص با موفقیت پاک شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:145
+msgid "Assignment Condition"
+msgstr "شرط تخصیص"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:471
+msgid "Assignment Days are required"
+msgstr "روزهای تخصیص الزامی است"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:698
+msgid "Assignment Rule Created"
+msgstr "قانون تخصیص ایجاد شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:123
+msgid "Assignment Rule Deleted"
+msgstr "قانون تخصیص حذف شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:155
+msgid "Assignment Rule Duplicated"
+msgstr "قانون تخصیص تکثیر شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:780
+msgid "Assignment Rule Updated"
+msgstr "قانون تخصیص به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:187
+msgid "Assignment Rule {0} Updated"
+msgstr "قانون تخصیص {0} به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:302
+msgid "Assignment Schedule"
+msgstr "زمان‌بندی تخصیص"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:104
+msgid "Assignment conditions"
+msgstr "شرط‌های تخصیص"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:305
+msgid "Assignment conditions are invalid or corrupt, recreate the conditions."
+msgstr "شرط‌های تخصیص نامعتبر یا خراب هستند، آن‌ها را دوباره ایجاد کنید."
+
+#: frontend/src/components/Settings/Sla/utils.js:116
+msgid "At least one priority is required"
+msgstr "حداقل یک اولویت الزامی است"
+
+#: frontend/src/components/Settings/Sla/utils.js:204
+msgid "At least one valid Workday with Workday, Start Time, and End Time is required"
+msgstr "حداقل یک روز کاری معتبر با روز کاری، زمان شروع و زمان پایان الزامی است"
+
+#: frontend/src/components/CommentBox.vue:65
+msgid "Attach a File"
+msgstr "پیوست فایل"
+
+#: frontend/src/components/Controls/AttachControl.vue:14
+msgid "Attach file…"
+msgstr "پیوست فایل…"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:869
+msgid "Attending status updated"
+msgstr "وضعیت حضور به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:213
+msgid "Auto Create Customer"
+msgstr "ایجاد خودکار مشتری"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:49
+msgid "Auto Update Expected Deal Value"
+msgstr "به‌روزرسانی خودکار ارزش مورد انتظار معامله"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Auto update Expected Deal Value"
+msgstr "به‌روزرسانی خودکار ارزش مورد انتظار معامله"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRules.vue:11
+msgid "Auto-assign leads/deals to the right sales user based on predefined conditions"
+msgstr "تخصیص خودکار سرنخ‌ها و معامله‌ها به کارشناس فروش مناسب بر اساس شرط‌های از پیش تعیین‌شده"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "Auto-generated from the portal view — do not edit directly unless you know what you're doing! "
+msgstr "این مورد به‌طور خودکار از نمای پورتال ساخته شده است — اگر مطمئن نیستید مستقیماً ویرایشش نکنید! "
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled"
+msgstr "هنگام ایجاد ارتباط جدید، وضعیت ارتباط سرنخ یا معامله را خودکار روی «باز» قرار می‌دهد. فقط وقتی SLA فعال باشد اعمال می‌شود"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled"
+msgstr "هنگام دریافت پاسخ، وضعیت ارتباط سرنخ یا معامله را خودکار روی «پاسخ داده‌شده» قرار می‌دهد. فقط وقتی SLA فعال باشد اعمال می‌شود"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Automatically update \"Expected Deal Value\" based on the total value of associated products in a deal"
+msgstr "«ارزش مورد انتظار معامله» را بر اساس مجموع ارزش محصولات مرتبط در یک معامله به‌طور خودکار به‌روزرسانی می‌کند"
+
+#: frontend/src/components/Settings/Settings.vue:190
+msgid "Automation & Rules"
+msgstr "خودکارسازی و قوانین"
+
+#: crm/api/dashboard.py:252
+msgid "Average deal value of non won/lost deals"
+msgstr "میانگین ارزش معامله‌های در جریان (نه موفق و نه از دست رفته)"
+
+#: crm/api/dashboard.py:419
+msgid "Average deal value of ongoing & won deals"
+msgstr "میانگین ارزش معامله‌های در جریان و موفق"
+
+#: crm/api/dashboard.py:365
+msgid "Average deal value of won deals"
+msgstr "میانگین ارزش معامله‌های موفق"
+
+#: crm/api/dashboard.py:546
+msgid "Average time taken from deal creation to deal closure"
+msgstr "میانگین زمان از ایجاد معامله تا بسته‌شدن آن"
+
+#: crm/api/dashboard.py:483
+msgid "Average time taken from lead creation to deal closure"
+msgstr "میانگین زمان از ایجاد سرنخ تا بسته‌شدن معامله"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:77
+msgid "Avg Deal Value"
+msgstr "میانگین ارزش معامله"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:74
+msgid "Avg Ongoing Deal Value"
+msgstr "میانگین ارزش معامله‌های در جریان"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:83
+msgid "Avg Time to Close a Deal"
+msgstr "میانگین زمان بستن یک معامله"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:79
+msgid "Avg Time to Close a Lead"
+msgstr "میانگین زمان بستن یک سرنخ"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:76
+msgid "Avg Won Deal Value"
+msgstr "میانگین ارزش معامله‌های موفق"
+
+#: crm/api/dashboard.py:418
+msgid "Avg. deal value"
+msgstr "میانگین ارزش معامله"
+
+#: crm/api/dashboard.py:251
+msgid "Avg. ongoing deal value"
+msgstr "میانگین ارزش معامله‌های در جریان"
+
+#: crm/api/dashboard.py:545
+msgid "Avg. time to close a deal"
+msgstr "میانگین زمان بستن یک معامله"
+
+#: crm/api/dashboard.py:482
+msgid "Avg. time to close a lead"
+msgstr "میانگین زمان بستن یک سرنخ"
+
+#: crm/api/dashboard.py:364
+msgid "Avg. won deal value"
+msgstr "میانگین ارزش معامله‌های موفق"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:22
+msgid "Axis Chart"
+msgstr "نمودار محوری"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:9
+msgid "Back to All Logs"
+msgstr "بازگشت به همهٔ لاگ‌ها"
+
+#: frontend/src/components/FilesUploader/FilesUploader.vue:25
+msgid "Back to File Upload"
+msgstr "بازگشت به بارگذاری فایل"
+
+#: frontend/src/components/Questionnaire.vue:94
+msgid "Back to previous question"
+msgstr "بازگشت به پرسش قبلی"
+
+#: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json:None
+msgid "Background Sync Frequency"
+msgstr "بازهٔ همگام‌سازی پس‌زمینه"
+
+#: crm/fcrm/doctype/crm_task/crm_task.json:None
+msgid "Backlog"
+msgstr "کارهای عقب‌افتاده"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:195
+msgid "Bidirectional sync of existing CRM Products and ERPNext Items. Runs in the background."
+msgstr "همگام‌سازی دوطرفهٔ محصولات CRM موجود و کالاهای ERPNext. در پس‌زمینه اجرا می‌شود."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Branding"
+msgstr "برندسازی"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "CRM Call Log"
+msgstr "لاگ تماس CRM"
+
+#: crm/fcrm/doctype/crm_communication_status/crm_communication_status.json:None
+msgid "CRM Communication Status"
+msgstr "وضعیت ارتباط CRM"
+
+#: crm/fcrm/doctype/crm_contacts/crm_contacts.json:None
+msgid "CRM Contacts"
+msgstr "مخاطبان CRM"
+
+#: crm/fcrm/doctype/crm_deal_status/crm_deal_status.json:None
+msgid "CRM Deal Status"
+msgstr "وضعیت معامله CRM"
+
+#: crm/fcrm/doctype/crm_dropdown_item/crm_dropdown_item.json:None
+msgid "CRM Dropdown Item"
+msgstr "آیتم منوی کشویی CRM"
+
+#: crm/fcrm/doctype/crm_exotel_settings/crm_exotel_settings.json:None
+msgid "CRM Exotel Settings"
+msgstr "تنظیمات Exotel در CRM"
+
+#: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.json:None
+msgid "CRM Fields Layout"
+msgstr "چیدمان فیلدهای CRM"
+
+#: crm/fcrm/doctype/crm_form_script/crm_form_script.json:None
+msgid "CRM Form Script"
+msgstr "اسکریپت فرم CRM"
+
+#: crm/fcrm/doctype/crm_lost_reason/crm_lost_reason.json:None
+msgid "CRM Lost Reason"
+msgstr "دلیل از دست رفتن در CRM"
+
+#: crm/fcrm/doctype/crm_product/crm_product.json:None
+msgid "CRM Product"
+msgstr "محصول CRM"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "CRM Product Sync Issue"
+msgstr "مشکل همگام‌سازی محصول CRM"
+
+#: crm/fcrm/doctype/crm_rolling_response_time/crm_rolling_response_time.json:None
+msgid "CRM Rolling Response Time"
+msgstr "زمان پاسخ‌گویی متحرک CRM"
+
+#: crm/fcrm/doctype/crm_sales_hierarchy/crm_sales_hierarchy.json:None
+msgid "CRM Sales Hierarchy"
+msgstr "سلسله‌مراتب فروش CRM"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "CRM Service Level Agreement"
+msgstr "توافق‌نامه سطح خدمات CRM"
+
+#: crm/fcrm/doctype/crm_service_level_priority/crm_service_level_priority.json:None
+msgid "CRM Service Level Priority"
+msgstr "اولویت سطح خدمات CRM"
+
+#: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json:None
+msgid "CRM Status Change Log"
+msgstr "لاگ تغییر وضعیت CRM"
+
+#: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json:None
+msgid "CRM Telephony Agent"
+msgstr "کارشناس تلفنی CRM"
+
+#: crm/fcrm/doctype/crm_telephony_phone/crm_telephony_phone.json:None
+msgid "CRM Telephony Phone"
+msgstr "تلفن CRM"
+
+#: crm/fcrm/doctype/crm_territory/crm_territory.json:None
+msgid "CRM Territory"
+msgstr "قلمرو CRM"
+
+#: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json:None
+msgid "CRM Twilio Settings"
+msgstr "تنظیمات Twilio در CRM"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "CRM View Settings"
+msgstr "تنظیمات نمای CRM"
+
+#: frontend/src/pages/PersonaForm.vue:81
+msgid "CSV imports"
+msgstr "درون‌ریزی CSV"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:8
+msgid "Calendar Settings"
+msgstr "تنظیمات تقویم"
+
+#: crm/integrations/api.py:158
+msgid "Call log not found"
+msgstr "لاگ تماس پیدا نشد"
+
+#: frontend/src/components/Telephony/CallUI.vue:9
+msgid "Call using {0}"
+msgstr "تماس با {0}"
+
+#: frontend/src/components/Modals/EventModal.vue:63
+msgid "Call with John Doe"
+msgstr "تماس با علی احمدی"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "Caller"
+msgstr "تماس‌گیرنده"
+
+#: frontend/src/components/Telephony/CallUI.vue:25
+msgid "Calling Medium"
+msgstr "رسانهٔ تماس"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.py:28
+msgid "Can't retry sync for this without source!"
+msgstr "بدون منبع نمی‌توان همگام‌سازی را دوباره امتحان کرد!"
+
+#: crm/api/user.py:82
+msgid "Cannot assign this role"
+msgstr "این نقش قابل تخصیص نیست"
+
+#: frontend/src/components/Settings/Users.vue:123
+msgid "Cannot change role of user with Admin access"
+msgstr "نقش کاربری که دسترسی مدیر دارد قابل تغییر نیست"
+
+#: crm/fcrm/doctype/crm_product/crm_product.py:81
+msgid "Cannot delete: linked ERPNext Item {0} is referenced by a Quotation. Remove the reference or delete the Item in ERPNext first."
+msgstr "حذف ممکن نیست: کالای ERPNext پیوندشده {0} در یک پیش‌فاکتور استفاده شده است. ابتدا ارجاع را بردارید یا کالا را در ERPNext حذف کنید."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:170
+msgid "Cannot enable rule without adding users in it"
+msgstr "بدون افزودن کاربر به قانون، فعال‌سازی آن ممکن نیست"
+
+#: crm/api/__init__.py:109
+msgid "Cannot invite for this role"
+msgstr "برای این نقش نمی‌توان دعوت‌نامه فرستاد"
+
+#: frontend/src/components/Settings/Hierarchy/useDragDrop.js:73
+msgid "Cannot move a manager under one of their own reports"
+msgstr "نمی‌توان یک مدیر را زیر یکی از زیرمجموعه‌های خودش قرار داد"
+
+#: crm/integrations/erpnext/utils.py:64
+msgid "Cannot rename: an unrelated {0} '{1}' already exists on the other side. Resolve manually first."
+msgstr "تغییر نام ممکن نیست: یک {0} نامرتبط با نام '{1}' از قبل در سمت دیگر وجود دارد. ابتدا دستی آن را حل کنید."
+
+#: frontend/src/pages/PersonaForm.vue:122
+msgid "Capture my first lead"
+msgstr "ثبت اولین سرنخ من"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:591
+msgid "Capturing Leads"
+msgstr "جذب سرنخ"
+
+#: frontend/src/pages/PersonaForm.vue:90
+msgid "Capturing leads"
+msgstr "جذب سرنخ"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:162
+msgid "Change Photo"
+msgstr "تغییر عکس"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:510
+msgid "Change deal status"
+msgstr "تغییر وضعیت معامله"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:60
+msgid "Change language of the application."
+msgstr "زبان برنامه را تغییر دهید."
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:71
+msgid "Change timezone of the application."
+msgstr "منطقهٔ زمانی برنامه را تغییر دهید."
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:117
+msgid "Change your account password for security."
+msgstr "برای امنیت بیشتر گذرواژهٔ حساب خود را تغییر دهید."
+
+#: frontend/src/components/Modals/ConvertToDealModal.vue:29
+msgid "Choose Existing"
+msgstr "انتخاب از موجودها"
+
+#: frontend/src/components/Modals/DealModal.vue:44
+msgid "Choose Existing Contact"
+msgstr "انتخاب مخاطب موجود"
+
+#: frontend/src/components/Modals/DealModal.vue:37
+msgid "Choose Existing Organization"
+msgstr "انتخاب سازمان موجود"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:171
+msgid "Choose how long this SLA policy will be active."
+msgstr "مشخص کنید این سیاست SLA تا چه مدت فعال باشد."
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:6
+msgid "Choose how you want to use the application by setting your preferences."
+msgstr "با تنظیم ترجیحات، نحوهٔ استفاده از برنامه را مشخص کنید."
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:9
+msgid "Choose how {0} are assigned among salespeople."
+msgstr "مشخص کنید {0} چگونه بین کارشناسان فروش تخصیص داده شوند."
+
+#: frontend/src/components/Settings/EmailAdd.vue:9
+msgid "Choose the Email Service Provider you want to configure."
+msgstr "ارائه‌دهندهٔ سرویس ایمیلی را که می‌خواهید پیکربندی کنید انتخاب کنید."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:306
+msgid "Choose the days of the week when this rule should be active."
+msgstr "روزهای هفته‌ای را که این قانون باید فعال باشد انتخاب کنید."
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:107
+msgid "Choose which leads/deals are affected by this policy."
+msgstr "مشخص کنید این سیاست روی کدام سرنخ‌ها و معامله‌ها اعمال شود."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:229
+msgid "Choose which {0} are affected by this un-assignment rule."
+msgstr "مشخص کنید این قانون لغو تخصیص روی کدام {0} اعمال شود."
+
+#: frontend/src/components/Filter.vue:21
+msgid "Clear All Filters"
+msgstr "پاک‌کردن همهٔ فیلترها"
+
+#: frontend/src/components/SortBy.vue:153
+msgid "Clear Sort"
+msgstr "پاک‌کردن مرتب‌سازی"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:39
+msgid "Close Panel"
+msgstr "بستن پنل"
+
+#: frontend/src/pages/PersonaForm.vue:126
+msgid "Close my first deal"
+msgstr "بستن اولین معامله من"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Closed Date"
+msgstr "تاریخ بسته‌شدن"
+
+#: frontend/src/pages/PersonaForm.vue:100
+msgid "Collaborating with my team"
+msgstr "همکاری با تیم من"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Column Field"
+msgstr "فیلد ستون"
+
+#: frontend/src/components/CommunicationArea.vue:275
+msgid "Comment sent"
+msgstr "دیدگاه ارسال شد"
+
+#: crm/api/dashboard.py:938
+msgid "Common reasons for losing deals"
+msgstr "دلایل رایج از دست رفتن معامله‌ها"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Communication Status"
+msgstr "وضعیت ارتباط"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Communication Statuses"
+msgstr "وضعیت‌های ارتباط"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json:None
+msgid "Company in ERPNext site"
+msgstr "شرکت در سایت ERPNext"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:517
+msgid "Company name is required"
+msgstr "نام شرکت الزامی است"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:188
+msgid "Conditions for this rule were created from"
+msgstr "شرط‌های این قانون ایجاد شده‌اند از"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:107
+msgid "Configure"
+msgstr "پیکربندی"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:18
+msgid "Configure Telephony Settings for your CRM"
+msgstr "پیکربندی تنظیمات تلفنی CRM شما"
+
+#: frontend/src/components/Settings/HomeActions.vue:10
+msgid "Configure actions that appear on the home dropdown"
+msgstr "پیکربندی عملیاتی که در منوی کشویی خانه نمایش داده می‌شوند"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:10
+msgid "Configure default settings for your CRM system, including default currency, date formats, and other system-wide preferences to ensure consistency across your system."
+msgstr "تنظیمات پیش‌فرض سیستم CRM مانند واحد پول پیش‌فرض و قالب تاریخ و سایر ترجیحات سراسری را برای یکپارچگی در کل سیستم پیکربندی کنید."
+
+#: frontend/src/components/Settings/GeneralSettings.vue:8
+msgid "Configure general settings for your application"
+msgstr "تنظیمات عمومی برنامه را پیکربندی کنید"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:10
+msgid "Configure how your dashboard calculates, formats, and displays key metrics, including forecasting, deal values, and currency settings"
+msgstr "نحوهٔ محاسبه، قالب‌بندی و نمایش شاخص‌های کلیدی داشبورد از جمله پیش‌بینی، ارزش معامله‌ها و واحد پول را پیکربندی کنید"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:102
+msgid "Configure the Exchange Rate Provider for your CRM"
+msgstr "ارائه‌دهندهٔ نرخ ارز CRM خود را پیکربندی کنید"
+
+#: frontend/src/components/Settings/BrandSettings.vue:10
+msgid "Configure your Brand Name, Logo, and Favicon"
+msgstr "نام برند، لوگو و فاوآیکون خود را پیکربندی کنید"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:12
+msgid "Configure your Calendar Settings like Default View and Event Notifications here"
+msgstr "تنظیمات تقویم مانند نمای پیش‌فرض و اعلان‌های رویداد را اینجا پیکربندی کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:184
+msgid "Configure your Exotel Telephony Integration Settings here"
+msgstr "تنظیمات یکپارچه‌سازی تلفنی Exotel را اینجا پیکربندی کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:157
+msgid "Configure your Twilio Telephony Integration Settings here"
+msgstr "تنظیمات یکپارچه‌سازی تلفنی Twilio را اینجا پیکربندی کنید"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:39
+msgid "Confirm Delete"
+msgstr "تأیید حذف"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:640
+msgid "Confirm Overwrite"
+msgstr "تأیید بازنویسی"
+
+#: frontend/src/utils/index.js:822
+msgid "Confirm {0}"
+msgstr "تأیید {0}"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:274
+msgid "Connect ERPNext to Frappe CRM"
+msgstr "اتصال ERPNext به Frappe CRM"
+
+#: frontend/src/pages/Welcome.vue:35
+msgid "Connect your Email"
+msgstr "اتصال ایمیل شما"
+
+#: frontend/src/pages/Deal.vue:682
+msgid "Contact Added"
+msgstr "مخاطب اضافه شد"
+
+#: frontend/src/pages/Deal.vue:672
+msgid "Contact Already Added"
+msgstr "مخاطب قبلاً اضافه شده است"
+
+#: frontend/src/pages/MobileContact.vue:266
+msgid "Contact Image Updated"
+msgstr "تصویر مخاطب به‌روزرسانی شد"
+
+#: frontend/src/pages/Deal.vue:693
+msgid "Contact Removed"
+msgstr "مخاطب حذف شد"
+
+#: frontend/src/components/Modals/AboutModal.vue:70
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: frontend/src/pages/Contact.vue:448
+msgid "Contact Updated"
+msgstr "مخاطب به‌روزرسانی شد"
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.py:289
+msgid "Contact already exists with Email: {0}"
+msgstr "مخاطبی با این ایمیل از قبل وجود دارد: {0}"
+
+#: frontend/src/pages/Contact.vue:289
+msgid "Contact image updated"
+msgstr "تصویر مخاطب به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:156
+msgid "Content is required"
+msgstr "محتوا الزامی است"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:75
+msgid "Controls how numbers are displayed (e.g., commas, decimal separators)"
+msgstr "نحوهٔ نمایش اعداد را تعیین می‌کند (مثلاً جداکنندهٔ هزارگان و اعشار)"
+
+#: frontend/src/components/ListBulkActions.vue:94
+msgid "Converted Successfully"
+msgstr "با موفقیت تبدیل شد"
+
+#: frontend/src/utils/index.js:405
+msgid "Copied to Clipboard"
+msgstr "در کلیپ‌بورد کپی شد"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:156
+msgid "Could not create the Frappe CRM custom fields on {0} automatically. If it is running the latest ERPNext, enable <b>Frappe CRM Data Synchronization</b> in its CRM Settings, Otherwise check the Error Log."
+msgstr "فیلدهای سفارشی Frappe CRM به‌طور خودکار روی {0} ایجاد نشدند. اگر آخرین نسخهٔ ERPNext را دارد، <b>همگام‌سازی داده‌های Frappe CRM</b> را در تنظیمات CRM آن فعال کنید، در غیر این صورت گزارش خطا را بررسی کنید."
+
+#: frontend/src/components/Settings/Hierarchy/useRemoveNode.js:16
+msgid "Could not remove."
+msgstr "حذف ممکن نبود."
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:469
+msgid "Could not update report to"
+msgstr "گزارش به‌روزرسانی نشد به"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:514
+msgid "Create Event"
+msgstr "ایجاد رویداد"
+
+#: frontend/src/components/Settings/emailConfig.js:58
+msgid "Create Lead from Incoming Emails"
+msgstr "ایجاد سرنخ از ایمیل‌های ورودی"
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:66
+msgid "Create New Holiday List"
+msgstr "ایجاد فهرست تعطیلات جدید"
+
+#: frontend/src/components/Modals/WhatsappTemplateSelectorModal.vue:20
+msgid "Create New Template"
+msgstr "ایجاد قالب جدید"
+
+#: frontend/src/components/Modals/ViewModal.vue:9
+msgid "Create View"
+msgstr "ایجاد نما"
+
+#: frontend/src/components/Modals/EventModal.vue:12
+msgid "Create an Event"
+msgstr "ایجاد یک رویداد"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:217
+msgid "Create customer in ERPNext when the deal status is changed"
+msgstr "هنگام تغییر وضعیت معامله، مشتری را در ERPNext ایجاد کن"
+
+#: crm/fcrm/doctype/crm_product/crm_product.js:12
+msgid "Create products as Items in ERPNext"
+msgstr "ایجاد محصولات به‌عنوان کالا در ERPNext"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:435
+msgid "Create quotation button on deal page and auto customer creation on deal status change will be disabled. Are you sure?"
+msgstr "دکمهٔ ایجاد پیش‌فاکتور در صفحهٔ معامله و ایجاد خودکار مشتری هنگام تغییر وضعیت معامله غیرفعال خواهد شد. مطمئن هستید؟"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:424
+msgid "Create your first task"
+msgstr "ایجاد اولین تسک شما"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:250
+msgid "Currency set as {0} successfully"
+msgstr "واحد پول با موفقیت {0} تعیین شد"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:8
+msgid "Current Password"
+msgstr "گذرواژهٔ فعلی"
+
+#: crm/api/dashboard.py:896
+msgid "Current pipeline distribution"
+msgstr "توزیع فعلی خط لولهٔ فروش"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:621
+msgid "Custom Actions"
+msgstr "عملیات سفارشی"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:571
+msgid "Custom Branding"
+msgstr "برندسازی سفارشی"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:620
+msgid "Custom Fields"
+msgstr "فیلدهای سفارشی"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:623
+msgid "Custom List Actions"
+msgstr "عملیات فهرست سفارشی"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:622
+msgid "Custom Statuses"
+msgstr "وضعیت‌های سفارشی"
+
+#: frontend/src/pages/Deal.vue:499
+msgid "Customer Created Successfully"
+msgstr "مشتری با موفقیت ایجاد شد"
+
+#: crm/api/dashboard.py:639
+msgid "Daily performance of leads, deals, and wins"
+msgstr "عملکرد روزانهٔ سرنخ‌ها، معامله‌ها و موفقیت‌ها"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:70
+msgid "Dashboard Currency"
+msgstr "واحد پول داشبورد"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:74
+msgid "Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited."
+msgstr "کارت‌های عددی و نمودارهای داشبورد واحد پول را با قالب انتخاب‌شده نمایش می‌دهند. پس از تعیین، قابل ویرایش نیست."
+
+#: frontend/src/components/Settings/DashboardSettings.vue:224
+msgid "Dashboard settings updated successfully"
+msgstr "تنظیمات داشبورد با موفقیت به‌روزرسانی شد"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Deal Statuses"
+msgstr "وضعیت‌های معامله"
+
+#: crm/api/dashboard.py:1023
+msgid "Deal generation channel analysis"
+msgstr "تحلیل کانال‌های ایجاد معامله"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:522
+msgid "Deal status is required"
+msgstr "وضعیت معامله الزامی است"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:93
+msgid "Deals by Ongoing & Won Stage"
+msgstr "معامله‌ها بر اساس مرحلهٔ در جریان و موفق"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:96
+msgid "Deals by Salesperson"
+msgstr "معامله‌ها بر اساس کارشناس فروش"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:103
+msgid "Deals by Source"
+msgstr "معامله‌ها بر اساس منبع"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:101
+msgid "Deals by Stage"
+msgstr "معامله‌ها بر اساس مرحله"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:95
+msgid "Deals by Territory"
+msgstr "معامله‌ها بر اساس قلمرو"
+
+#: crm/api/dashboard.py:846
+msgid "Deals by ongoing & won stage"
+msgstr "معامله‌ها بر اساس مرحلهٔ در جریان و موفق"
+
+#: frontend/src/utils/callLog.js:64
+msgid "Declined"
+msgstr "رد شده"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Default Calendar View"
+msgstr "نمای پیش‌فرض تقویم"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:41
+msgid "Default Calling Medium for Logged In User"
+msgstr "رسانهٔ تماس پیش‌فرض برای کاربر واردشده"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Default Event Notifications"
+msgstr "اعلان‌های پیش‌فرض رویداد"
+
+#: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json:None
+msgid "Default Medium"
+msgstr "رسانهٔ پیش‌فرض"
+
+#: frontend/src/components/Settings/EmailAccountCard.vue:36
+msgid "Default Sending & Inbox"
+msgstr "ارسال و صندوق ورودی پیش‌فرض"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.py:62
+msgid "Default Service Level Agreement already exists for {0}"
+msgstr "توافق‌نامه سطح خدمات پیش‌فرض برای {0} از قبل وجود دارد"
+
+#: frontend/src/components/Telephony/CallUI.vue:110
+msgid "Default calling medium set successfully to {0}"
+msgstr "رسانهٔ تماس پیش‌فرض با موفقیت روی {0} تنظیم شد"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:26
+msgid "Default statuses, custom fields and layouts restored successfully."
+msgstr "وضعیت‌ها، فیلدهای سفارشی و چیدمان‌های پیش‌فرض با موفقیت بازیابی شدند."
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:35
+msgid "Defines the default currency for all records, can be overridden at the field level"
+msgstr "واحد پول پیش‌فرض همهٔ رکوردها را تعیین می‌کند و در سطح هر فیلد قابل تغییر است"
+
+#: frontend/src/pages/MobileContact.vue:273
+msgid "Delete Contact"
+msgstr "حذف مخاطب"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:26
+msgid "Delete Event"
+msgstr "حذف رویداد"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:79
+msgid "Delete Invitation"
+msgstr "حذف دعوت‌نامه"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:223
+msgid "Delete Linked Item"
+msgstr "حذف مورد پیوندشده"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:222
+msgid "Delete Only User"
+msgstr "فقط حذف کاربر"
+
+#: frontend/src/pages/MobileOrganization.vue:274
+msgid "Delete Organization"
+msgstr "حذف سازمان"
+
+#: frontend/src/components/Activities/TaskArea.vue:59
+msgid "Delete Task"
+msgstr "حذف تسک"
+
+#: frontend/src/components/ViewControls.vue:1116
+msgid "Delete View"
+msgstr "حذف نما"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:14
+msgid "Delete or unlink linked documents"
+msgstr "حذف یا برداشتن پیوند سندهای پیوندشده"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:26
+msgid "Delete or unlink these linked documents before deleting this document"
+msgstr "پیش از حذف این سند، سندهای پیوندشدهٔ آن را حذف کنید یا پیوندشان را بردارید"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:70
+msgid "Delete {0} Item(s)"
+msgstr "حذف {0} مورد"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:28
+msgid "Delete {0} items"
+msgstr "حذف {0} مورد"
+
+#: frontend/src/components/Activities/NoteArea.vue:73
+msgid "Deleting note..."
+msgstr "در حال حذف یادداشت..."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:58
+msgid "Demo data restored successfully."
+msgstr "داده‌های نمونه با موفقیت بازیابی شدند."
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "Detail"
+msgstr "جزئیات"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "Detected On"
+msgstr "تاریخ شناسایی"
+
+#: crm/fcrm/doctype/crm_form_script/crm_form_script.js:30
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:434
+msgid "Disable ERPNext Integration"
+msgstr "غیرفعال کردن یکپارچه‌سازی ERPNext"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:310
+msgid "Disable Sales Hierarchy"
+msgstr "غیرفعال کردن سلسله‌مراتب فروش"
+
+#: frontend/src/components/Settings/Telephony/ExotelSettings.vue:25
+msgid "Discard Changes"
+msgstr "رد تغییرات"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:911
+msgid "Discard Unsaved Changes?"
+msgstr "تغییرات ذخیره‌نشده نادیده گرفته شوند؟"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "Dismissed"
+msgstr "نادیده گرفته شد"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:114
+msgid "Display format for dates across the system"
+msgstr "قالب نمایش تاریخ در سراسر سیستم"
+
+#: crm/api/doc.py:803
+msgid "Doctype is required"
+msgstr "نوع سند (Doctype) الزامی است"
+
+#: frontend/src/pages/MobileLead.vue:204
+msgid "Document Not Found"
+msgstr "سند پیدا نشد"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:242
+msgid "Document created successfully"
+msgstr "سند با موفقیت ایجاد شد"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:29
+msgid "Donut Chart"
+msgstr "نمودار دونات"
+
+#: frontend/src/components/FilesUploader/FilesUploaderArea.vue:24
+msgid "Drag & Drop files here or upload from"
+msgstr "فایل‌ها را اینجا بکشید و رها کنید یا بارگذاری کنید از"
+
+#: frontend/src/components/FieldLayoutEditor.vue:253
+msgid "Drag a section or a field here to get started"
+msgstr "برای شروع، یک بخش یا فیلد را به اینجا بکشید"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Dropdown items"
+msgstr "آیتم‌های منوی کشویی"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:47
+msgid "Duplicate Assignment Rule"
+msgstr "تکثیر قانون تخصیص"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:34
+msgid "Duplicate Event"
+msgstr "تکثیر رویداد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:112
+msgid "Duplicate SLA Policy"
+msgstr "تکثیر سیاست SLA"
+
+#: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:10
+msgid "Duplicate Template"
+msgstr "تکثیر قالب"
+
+#: frontend/src/components/Modals/ViewModal.vue:8
+msgid "Duplicate View"
+msgstr "تکثیر نما"
+
+#: frontend/src/components/Settings/Sla/utils.js:223
+msgid "Duplicate Workday found: {0}. Each Workday should be unique."
+msgstr "روز کاری تکراری پیدا شد: {0}. هر روز کاری باید یکتا باشد."
+
+#: frontend/src/components/Modals/EventModal.vue:11
+msgid "Duplicate an Event"
+msgstr "تکثیر یک رویداد"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json:None
+msgid "ERPNext Site API's"
+msgstr "API‌های سایت ERPNext"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json:None
+msgid "ERPNext Site URL"
+msgstr "نشانی سایت ERPNext"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:161
+msgid "ERPNext custom fields not created"
+msgstr "فیلدهای سفارشی ERPNext ایجاد نشدند"
+
+#: crm/fcrm/doctype/crm_product/crm_product.py:42
+msgid "ERPNext integration is active. Create an Item in ERPNext and it will appear in CRM Product automatically."
+msgstr "یکپارچه‌سازی ERPNext فعال است. یک کالا در ERPNext بسازید تا به‌طور خودکار در محصولات CRM نمایش داده شود."
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:220
+msgid "ERPNext integration must be enabled on the same site"
+msgstr "یکپارچه‌سازی ERPNext باید روی همین سایت فعال باشد"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:70
+msgid "ERPNext is not installed in the current site"
+msgstr "ERPNext روی سایت فعلی نصب نیست"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:71
+msgid "ERPNext is not installed on this site either install it or enter the URL of your ERPNext site to connect"
+msgstr "ERPNext روی این سایت نصب نیست؛ آن را نصب کنید یا برای اتصال، نشانی سایت ERPNext خود را وارد کنید"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:27
+msgid "ERPNext is not integrated with the CRM"
+msgstr "ERPNext با CRM یکپارچه نشده است"
+
+#: frontend/src/components/Modals/DataFieldsModal.vue:7
+msgid "Edit Data Fields Layout"
+msgstr "ویرایش چیدمان فیلدهای داده"
+
+#: frontend/src/components/Settings/EmailEdit.vue:6
+msgid "Edit Email"
+msgstr "ویرایش ایمیل"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:19
+msgid "Edit Event"
+msgstr "ویرایش رویداد"
+
+#: frontend/src/components/Modals/SidePanelModal.vue:7
+msgid "Edit Field Layout"
+msgstr "ویرایش چیدمان فیلد"
+
+#: frontend/src/components/Controls/Grid.vue:57
+msgid "Edit Grid Fields"
+msgstr "ویرایش فیلدهای جدول"
+
+#: frontend/src/components/Controls/GridFieldsEditorModal.vue:7
+msgid "Edit Grid Fields Layout"
+msgstr "ویرایش چیدمان فیلدهای جدول"
+
+#: frontend/src/components/Controls/GridRowFieldsModal.vue:7
+msgid "Edit Grid Row Fields Layout"
+msgstr "ویرایش چیدمان فیلدهای ردیف جدول"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:2
+msgid "Edit Response & Resolution"
+msgstr "ویرایش پاسخ و رفع مشکل"
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:4
+msgid "Edit Workday"
+msgstr "ویرایش روز کاری"
+
+#: frontend/src/components/Modals/EventModal.vue:9
+msgid "Edit an Event"
+msgstr "ویرایش یک رویداد"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:673
+msgid "Editing Event"
+msgstr "در حال ویرایش رویداد"
+
+#: frontend/src/components/Settings/EmailAdd.vue:145
+msgid "Email Account created successfully"
+msgstr "حساب ایمیل با موفقیت ایجاد شد"
+
+#: frontend/src/components/Settings/EmailEdit.vue:211
+msgid "Email Account updated successfully"
+msgstr "حساب ایمیل با موفقیت به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/EmailAccountList.vue:7
+msgid "Email Accounts"
+msgstr "حساب‌های ایمیل"
+
+#: frontend/src/components/Calendar/Attendee.vue:278
+msgid "Email Already Exists"
+msgstr "ایمیل از قبل وجود دارد"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:608
+msgid "Email Communication"
+msgstr "ارتباط ایمیلی"
+
+#: frontend/src/components/EmailEditor.vue:222
+msgid "Email From Lead"
+msgstr "ایمیل از سرنخ"
+
+#: frontend/src/components/Settings/emailConfig.js:181
+msgid "Email ID is required"
+msgstr "شناسهٔ ایمیل الزامی است"
+
+#: frontend/src/components/Controls/EmailMultiSelect.vue:256
+msgid "Email already exists"
+msgstr "ایمیل از قبل وجود دارد"
+
+#: frontend/src/components/CommunicationArea.vue:259
+msgid "Email sent"
+msgstr "ایمیل ارسال شد"
+
+#: frontend/src/components/Settings/Profile/UserEmailSettings.vue:181
+msgid "Email settings updated successfully"
+msgstr "تنظیمات ایمیل با موفقیت به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:96
+msgid "Emails & Signature"
+msgstr "ایمیل‌ها و امضا"
+
+#: frontend/src/components/Filter.vue:126
+msgid "Empty - Choose a field to filter by"
+msgstr "خالی - یک فیلد برای فیلتر انتخاب کنید"
+
+#: frontend/src/components/SortBy.vue:130
+msgid "Empty - Choose a field to sort by"
+msgstr "خالی - یک فیلد برای مرتب‌سازی انتخاب کنید"
+
+#: frontend/src/components/Settings/Telephony/ExotelSettings.vue:112
+msgid "Enable Exotel integration to make and receive calls directly from your CRM"
+msgstr "برای برقراری و دریافت تماس مستقیم از CRM، یکپارچه‌سازی Exotel را فعال کنید"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Enable Forecasting"
+msgstr "فعال‌سازی پیش‌بینی"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:62
+msgid "Enable Sales Hierarchy"
+msgstr "فعال‌سازی سلسله‌مراتب فروش"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Enable Sales Hierarchy Permissions"
+msgstr "فعال‌سازی دسترسی‌های سلسله‌مراتب فروش"
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:119
+msgid "Enable Twilio integration to make and receive calls directly from your CRM"
+msgstr "برای برقراری و دریافت تماس مستقیم از CRM، یکپارچه‌سازی Twilio را فعال کنید"
+
+#: frontend/src/components/Settings/Telephony/ExotelSettings.vue:90
+msgid "Enable call recording for incoming and outgoing calls"
+msgstr "ضبط تماس‌های ورودی و خروجی را فعال کنید"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:278
+msgid "Enable the integration to create quotations and auto create customers in ERPNext."
+msgstr "برای ایجاد پیش‌فاکتور و ایجاد خودکار مشتری در ERPNext، یکپارچه‌سازی را فعال کنید."
+
+#: frontend/src/components/Settings/Sla/utils.js:172
+msgid "End Date cannot be before start date"
+msgstr "تاریخ پایان نمی‌تواند قبل از تاریخ شروع باشد"
+
+#: frontend/src/composables/event.js:250
+msgid "End Time Should Be After Start Time"
+msgstr "زمان پایان باید بعد از زمان شروع باشد"
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:189
+msgid "End Time is required"
+msgstr "زمان پایان الزامی است"
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:204
+msgid "End Time must be after Start Time"
+msgstr "زمان پایان باید بعد از زمان شروع باشد"
+
+#: frontend/src/components/Settings/Sla/utils.js:262
+msgid "End Time must be after Start Time for: {0}"
+msgstr "زمان پایان باید بعد از زمان شروع باشد برای: {0}"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:160
+msgid "Enter Access Key"
+msgstr "کلید دسترسی را وارد کنید"
+
+#: frontend/src/components/Settings/BrandSettings.vue:41
+msgid "Enter Brand Name"
+msgstr "نام برند را وارد کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:109
+msgid "Enter Exotel Number"
+msgstr "شمارهٔ Exotel را وارد کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:134
+msgid "Enter Personal Mobile No."
+msgstr "شمارهٔ موبایل شخصی را وارد کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:84
+msgid "Enter Twilio Number"
+msgstr "شمارهٔ Twilio را وارد کنید"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:124
+msgid "Enter your personal mobile number used by Exotel to make calls"
+msgstr "شمارهٔ موبایل شخصی خود را که Exotel برای برقراری تماس استفاده می‌کند وارد کنید"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:139
+msgid "Error Syncing Lead"
+msgstr "خطا در همگام‌سازی سرنخ"
+
+#: frontend/src/components/Modals/ConvertToDealModal.vue:173
+msgid "Error converting to deal: {0}"
+msgstr "خطا در تبدیل به معامله: {0}"
+
+#: frontend/src/components/Modals/CallLogDetailModal.vue:358
+msgid "Error creating lead: {0}"
+msgstr "خطا در ایجاد سرنخ: {0}"
+
+#: frontend/src/pages/MobileDeal.vue:355
+msgid "Error occurred"
+msgstr "خطایی رخ داد"
+
+#: frontend/src/pages/Deal.vue:766
+msgid "Error updating field"
+msgstr "خطا در به‌روزرسانی فیلد"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Event Notifications"
+msgstr "اعلان‌های رویداد"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:285
+msgid "Event Title"
+msgstr "عنوان رویداد"
+
+#: frontend/src/pages/Calendar.vue:339
+msgid "Event created successfully"
+msgstr "رویداد با موفقیت ایجاد شد"
+
+#: frontend/src/pages/Calendar.vue:418
+msgid "Event deleted successfully"
+msgstr "رویداد با موفقیت حذف شد"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Exchange Rate Provider"
+msgstr "ارائه‌دهندهٔ نرخ ارز"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "Exotel"
+msgstr "Exotel"
+
+#: crm/integrations/exotel/handler.py:113
+msgid "Exotel Exception"
+msgstr "استثنای Exotel"
+
+#: frontend/src/components/Settings/Telephony/ExotelSettings.vue:108
+msgid "Exotel Integration Disabled"
+msgstr "یکپارچه‌سازی Exotel غیرفعال است"
+
+#: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json:None
+msgid "Exotel Number"
+msgstr "شمارهٔ Exotel"
+
+#: crm/integrations/exotel/handler.py:84
+msgid "Exotel Number Missing"
+msgstr "شمارهٔ Exotel وجود ندارد"
+
+#: crm/integrations/exotel/handler.py:88
+msgid "Exotel Number {0} is not valid"
+msgstr "شمارهٔ Exotel {0} معتبر نیست"
+
+#: frontend/src/components/Settings/Telephony/ExotelSettings.vue:8
+msgid "Exotel Settings"
+msgstr "تنظیمات Exotel"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Expected Closure Date"
+msgstr "تاریخ مورد انتظار بسته‌شدن"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Expected Deal Value"
+msgstr "ارزش مورد انتظار معامله"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:253
+msgid "Expected closure date is required."
+msgstr "تاریخ مورد انتظار بسته‌شدن الزامی است."
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:251
+msgid "Expected deal value is required."
+msgstr "ارزش مورد انتظار معامله الزامی است."
+
+#: frontend/src/components/ViewControls.vue:296
+msgid "Export all {0} record(s)"
+msgstr "برون‌بری همهٔ {0} رکورد"
+
+#: crm/fcrm/doctype/fcrm_note/fcrm_note.json:None
+msgid "FCRM Note"
+msgstr "یادداشت FCRM"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "FCRM Settings"
+msgstr "تنظیمات FCRM"
+
+#: frontend/src/components/EmailEditor.vue:25
+msgid "FROM"
+msgstr "از"
+
+#: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.json:None
+msgid "Facebook"
+msgstr "فیس‌بوک"
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.json:None
+msgid "Facebook Form ID"
+msgstr "شناسهٔ فرم فیس‌بوک"
+
+#: crm/lead_syncing/doctype/facebook_lead_form/facebook_lead_form.json:None
+msgid "Facebook Lead Form"
+msgstr "فرم سرنخ فیس‌بوک"
+
+#: crm/lead_syncing/doctype/facebook_page/facebook_page.json:None
+msgid "Facebook Page"
+msgstr "صفحهٔ فیس‌بوک"
+
+#: frontend/src/pages/PersonaForm.vue:74
+msgid "Facebook/Instagram Ads"
+msgstr "تبلیغات فیس‌بوک/اینستاگرام"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.json:None
+msgid "Failed Lead Sync Log"
+msgstr "لاگ همگام‌سازی ناموفق سرنخ"
+
+#: frontend/src/components/Modals/AddExistingUserModal.vue:111
+msgid "Failed to Add Users"
+msgstr "افزودن کاربران ناموفق بود"
+
+#: frontend/src/components/Activities/WhatsAppArea.vue:247
+msgid "Failed to add reaction to the message"
+msgstr "افزودن واکنش به پیام ناموفق بود"
+
+#: crm/integrations/twilio/api.py:154
+msgid "Failed to capture Twilio recording"
+msgstr "ضبط Twilio ناموفق بود"
+
+#: frontend/src/components/Settings/EmailAdd.vue:149
+msgid "Failed to create Email Account, Invalid credentials"
+msgstr "ایجاد حساب ایمیل ناموفق بود، اعتبارنامه نامعتبر است"
+
+#: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:180
+msgid "Failed to create template"
+msgstr "ایجاد قالب ناموفق بود"
+
+#: frontend/src/components/Activities/CommentArea.vue:144
+msgid "Failed to delete comment"
+msgstr "حذف دیدگاه ناموفق بود"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:178
+msgid "Failed to delete lead sync source"
+msgstr "حذف منبع همگام‌سازی سرنخ ناموفق بود"
+
+#: frontend/src/components/Activities/NoteArea.vue:75
+msgid "Failed to delete note"
+msgstr "حذف یادداشت ناموفق بود"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:217
+msgid "Failed to delete template"
+msgstr "حذف قالب ناموفق بود"
+
+#: crm/api/exchange_rate.py:155
+msgid "Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later."
+msgstr "دریافت نرخ ارز از {0} به {1} در تاریخ {2} ناموفق بود. اتصال اینترنت خود را بررسی کنید یا بعداً دوباره امتحان کنید."
+
+#: frontend/src/components/Modals/FieldLayoutDialog.vue:172
+msgid "Failed to load fields layout"
+msgstr "بارگذاری چیدمان فیلدها ناموفق بود"
+
+#: frontend/src/data/script.js:150
+msgid "Failed to load file-based form controller: {0}"
+msgstr "بارگذاری کنترلر فرم مبتنی بر فایل ناموفق بود: {0}"
+
+#: frontend/src/data/script.js:168
+msgid "Failed to load form controller: {0}"
+msgstr "بارگذاری کنترلر فرم ناموفق بود: {0}"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:239
+msgid "Failed to rename template"
+msgstr "تغییر نام قالب ناموفق بود"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:169
+msgid "Failed to save settings"
+msgstr "ذخیرهٔ تنظیمات ناموفق بود"
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:265
+msgid "Failed to save workday: {0}"
+msgstr "ذخیرهٔ روز کاری ناموفق بود: {0}"
+
+#: frontend/src/components/Activities/WhatsAppBox.vue:144
+msgid "Failed to send WhatsApp message"
+msgstr "ارسال پیام واتس‌اپ ناموفق بود"
+
+#: frontend/src/components/Activities/Activities.vue:604
+msgid "Failed to send WhatsApp template"
+msgstr "ارسال قالب واتس‌اپ ناموفق بود"
+
+#: frontend/src/components/CommunicationArea.vue:276
+msgid "Failed to send comment!"
+msgstr "ارسال دیدگاه ناموفق بود!"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:333
+msgid "Failed to start sync"
+msgstr "شروع همگام‌سازی ناموفق بود"
+
+#: frontend/src/components/Settings/EmailEdit.vue:216
+msgid "Failed to update Email Account, Invalid credentials"
+msgstr "به‌روزرسانی حساب ایمیل ناموفق بود، اعتبارنامه نامعتبر است"
+
+#: crm/integrations/twilio/api.py:181
+msgid "Failed to update Twilio call status"
+msgstr "به‌روزرسانی وضعیت تماس Twilio ناموفق بود"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:874
+msgid "Failed to update attending status"
+msgstr "به‌روزرسانی وضعیت حضور ناموفق بود"
+
+#: frontend/src/components/Activities/CommentArea.vue:130
+msgid "Failed to update comment"
+msgstr "به‌روزرسانی دیدگاه ناموفق بود"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:106
+msgid "Failed to update password"
+msgstr "به‌روزرسانی گذرواژه ناموفق بود"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:290
+msgid "Failed to update setting"
+msgstr "به‌روزرسانی تنظیم ناموفق بود"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:163
+msgid "Failed to update source"
+msgstr "به‌روزرسانی منبع ناموفق بود"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:205
+msgid "Failed to update template"
+msgstr "به‌روزرسانی قالب ناموفق بود"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:204
+msgid "Failure Logs"
+msgstr "لاگ‌های خطا"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Favicon"
+msgstr "فاوآیکون"
+
+#: frontend/src/components/FilesUploader/FilesUploaderArea.vue:355
+msgid "File \"{0}\" was skipped because only {1} uploads are allowed"
+msgstr "فایل «{0}» رد شد، چون فقط {1} بارگذاری مجاز است"
+
+#: frontend/src/components/FilesUploader/FilesUploaderArea.vue:360
+msgid "File \"{0}\" was skipped because only {1} uploads are allowed for DocType \"{2}\""
+msgstr "فایل «{0}» رد شد، چون برای نوع سند «{2}» فقط {1} بارگذاری مجاز است"
+
+#: frontend/src/components/Modals/LeadModal.vue:129
+msgid "First Name is mandatory"
+msgstr "نام الزامی است"
+
+#: crm/fcrm/doctype/crm_service_level_priority/crm_service_level_priority.json:None
+msgid "First Response TIme"
+msgstr "زمان اولین پاسخ"
+
+#: frontend/src/pages/PersonaForm.vue:91
+msgid "Following up consistently"
+msgstr "پیگیری مداوم"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:163
+msgid "For all-day events, <b>set a time</b> to send reminders before the event starts"
+msgstr "برای رویدادهای تمام‌روز، <b>یک زمان تعیین کنید</b> تا یادآوری‌ها پیش از شروع رویداد ارسال شوند"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:91
+msgid "Forecasted Revenue"
+msgstr "درآمد پیش‌بینی‌شده"
+
+#: crm/api/dashboard.py:718
+msgid "Forecasted revenue"
+msgstr "درآمد پیش‌بینی‌شده"
+
+#: crm/lead_syncing/doctype/facebook_lead_form/facebook_lead_form.json:None
+msgid "Form Name"
+msgstr "نام فرم"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:18
+msgid "Form Script updated successfully"
+msgstr "اسکریپت فرم با موفقیت به‌روزرسانی شد"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Frappe CRM"
+msgstr "Frappe CRM"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:638
+msgid "Frappe CRM mobile"
+msgstr "Frappe CRM موبایل"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "From Number"
+msgstr "از شماره"
+
+#: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json:None
+msgid "From Type"
+msgstr "از نوع"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:92
+msgid "Funnel Conversion"
+msgstr "تبدیل قیف فروش"
+
+#: crm/api/dashboard.py:787
+msgid "Funnel conversion"
+msgstr "تبدیل قیف فروش"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:299
+msgid "GMT+5:30"
+msgstr "GMT+3:30"
+
+#: crm/api/dashboard.py:1068
+msgid "Geographic distribution of deals and revenue"
+msgstr "توزیع جغرافیایی معامله‌ها و درآمد"
+
+#: frontend/src/components/Modals/AboutModal.vue:55
+msgid "GitHub Repository"
+msgstr "مخزن گیت‌هاب"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:158
+msgid "Go to Invite Page"
+msgstr "رفتن به صفحهٔ دعوت"
+
+#: frontend/src/pages/Deal.vue:104
+msgid "Go to Website"
+msgstr "رفتن به وب‌سایت"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:524
+msgid "Going?"
+msgstr "می‌آیید؟"
+
+#: frontend/src/pages/PersonaForm.vue:75
+msgid "Google Ads"
+msgstr "تبلیغات گوگل"
+
+#: frontend/src/components/Filter.vue:366
+msgid "Greater than"
+msgstr "بزرگ‌تر از"
+
+#: frontend/src/components/Filter.vue:368
+msgid "Greater than or equal to"
+msgstr "بزرگ‌تر یا مساوی"
+
+#: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.json:None
+msgid "Grid Row"
+msgstr "ردیف جدول"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Group By Field"
+msgstr "گروه‌بندی بر اساس فیلد"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:63
+msgid "Hang Up"
+msgstr "قطع تماس"
+
+#: frontend/src/components/CommunicationArea.vue:56
+msgid "Hi John, \\n\\nCan you please provide more details on this..."
+msgstr "سلام علی، \\n\\nلطفاً جزئیات بیشتری دربارهٔ این موضوع بدهید..."
+
+#: frontend/src/components/Controls/Password.vue:19
+msgid "Hide Password"
+msgstr "پنهان کردن گذرواژه"
+
+#: frontend/src/components/Activities/CallArea.vue:66
+msgid "Hide Recording"
+msgstr "پنهان کردن ضبط"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:572
+msgid "Home Actions"
+msgstr "عملیات خانه"
+
+#: frontend/src/pages/PersonaForm.vue:56
+msgid "How are you managing your sales today?"
+msgstr "امروز فروش خود را چطور مدیریت می‌کنید؟"
+
+#: frontend/src/pages/PersonaForm.vue:70
+msgid "How do new leads usually come to you?"
+msgstr "سرنخ‌های جدید معمولاً از چه راهی به شما می‌رسند؟"
+
+#: frontend/src/pages/PersonaForm.vue:108
+msgid "How many people will use Frappe CRM?"
+msgstr "چند نفر از Frappe CRM استفاده خواهند کرد؟"
+
+#: frontend/src/pages/PersonaForm.vue:60
+msgid "HubSpot"
+msgstr "هاب‌اسپات"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:199
+msgid "I understand, Add Conditions"
+msgstr "متوجه هستم، افزودن شرط"
+
+#: frontend/src/components/Settings/emailConfig.js:61
+msgid "If enabled, a lead will be automatically created when an incoming email is received from an unknown contact."
+msgstr "در صورت فعال بودن، با دریافت ایمیل ورودی از یک مخاطب ناشناس، سرنخ جدید به‌طور خودکار ایجاد می‌شود."
+
+#: frontend/src/components/Settings/emailConfig.js:53
+msgid "If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing."
+msgstr "در صورت فعال بودن، همهٔ ایمیل‌های خروجی از این حساب ارسال می‌شوند. توجه: فقط یک حساب می‌تواند خروجی پیش‌فرض باشد."
+
+#: frontend/src/components/Settings/emailConfig.js:45
+msgid "If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming."
+msgstr "در صورت فعال بودن، همهٔ پاسخ‌ها به شرکت شما (مثلاً replies@yourcompany.com) به این حساب می‌رسند. توجه: فقط یک حساب می‌تواند ورودی پیش‌فرض باشد."
+
+#: frontend/src/components/Settings/emailConfig.js:31
+msgid "If enabled, emails will be pulled from this account."
+msgstr "در صورت فعال بودن، ایمیل‌ها از این حساب دریافت می‌شوند."
+
+#: frontend/src/components/Settings/emailConfig.js:37
+msgid "If enabled, outgoing emails can be sent from this account."
+msgstr "در صورت فعال بودن، ایمیل‌های خروجی از این حساب ارسال می‌شوند."
+
+#: frontend/src/pages/PersonaForm.vue:121
+msgid "Import my existing data"
+msgstr "درون‌ریزی داده‌های موجود من"
+
+#: frontend/src/components/Activities/CallArea.vue:31
+msgid "Inbound Call"
+msgstr "تماس ورودی"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:41
+msgid "Incoming call..."
+msgstr "تماس ورودی..."
+
+#: crm/api/user.py:32
+msgid "Incorrect current password. Please try again."
+msgstr "گذرواژهٔ فعلی نادرست است. لطفاً دوباره امتحان کنید."
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:36
+msgid "Initiating call..."
+msgstr "در حال برقراری تماس..."
+
+#: frontend/src/components/EmailEditor.vue:171
+msgid "Insert Email Template"
+msgstr "درج قالب ایمیل"
+
+#: frontend/src/components/CommentBox.vue:49
+msgid "Insert Emoji"
+msgstr "درج ایموجی"
+
+#: crm/integrations/exotel/handler.py:72
+msgid "Integration Not Enabled"
+msgstr "یکپارچه‌سازی فعال نیست"
+
+#: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.py:57
+msgid "Invalid Account SID or Auth Token."
+msgstr "شناسهٔ حساب یا توکن احراز هویت نامعتبر است."
+
+#: frontend/src/components/Modals/ContactModal.vue:110
+msgid "Invalid Email Address"
+msgstr "نشانی ایمیل نامعتبر"
+
+#: frontend/src/stores/session.js:22
+msgid "Invalid Email or Password"
+msgstr "ایمیل یا گذرواژه نامعتبر است"
+
+#: crm/integrations/exotel/handler.py:88
+msgid "Invalid Exotel Number"
+msgstr "شمارهٔ Exotel نامعتبر"
+
+#: frontend/src/components/Controls/GeolocationControl.vue:122
+msgid "Invalid GeoJSON"
+msgstr "GeoJSON نامعتبر"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:495
+msgid "Invalid Site URL"
+msgstr "نشانی سایت نامعتبر"
+
+#: frontend/src/composables/event.js:247
+msgid "Invalid Start Or End Time"
+msgstr "زمان شروع یا پایان نامعتبر"
+
+#: crm/integrations/twilio/api.py:19
+msgid "Invalid Twilio account"
+msgstr "حساب Twilio نامعتبر"
+
+#: crm/integrations/twilio/api.py:24
+msgid "Invalid Twilio application"
+msgstr "برنامهٔ Twilio نامعتبر"
+
+#: frontend/src/utils/index.js:304
+msgid "Invalid Website URL"
+msgstr "نشانی وب‌سایت نامعتبر"
+
+#: crm/lead_syncing/doctype/lead_sync_source/facebook.py:149
+msgid "Invalid access token provided for Facebook."
+msgstr "توکن دسترسی فیس‌بوک نامعتبر است."
+
+#: crm/api/dashboard.py:88
+msgid "Invalid chart name"
+msgstr "نام نمودار نامعتبر"
+
+#: crm/fcrm/doctype/crm_exotel_settings/crm_exotel_settings.py:42
+msgid "Invalid credentials"
+msgstr "اعتبارنامه نامعتبر"
+
+#: frontend/src/components/Settings/emailConfig.js:185
+msgid "Invalid email ID"
+msgstr "شناسهٔ ایمیل نامعتبر"
+
+#: frontend/src/components/Modals/DealModal.vue:205
+msgid "Invalid email address"
+msgstr "نشانی ایمیل نامعتبر"
+
+#: crm/api/contact.py:81
+msgid "Invalid field"
+msgstr "فیلد نامعتبر"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:390
+msgid "Invalid fields, check if all are filled in and values are correct."
+msgstr "فیلدها نامعتبرند؛ بررسی کنید همه پر شده باشند و مقادیر درست باشند."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:631
+msgid "Invalid fields: {0}"
+msgstr "فیلدهای نامعتبر: {0}"
+
+#: frontend/src/components/Controls/DurationInput.vue:94
+msgid "Invalid format. Try: 1 hour 30 minutes, 2 hours, 45 seconds, 1:30:45, 90s"
+msgstr "قالب نامعتبر. این‌ها را امتحان کنید: ۱ ساعت و ۳۰ دقیقه، ۲ ساعت، ۴۵ ثانیه، 1:30:45، 90s"
+
+#: frontend/src/components/Controls/DurationInput.vue:97
+msgid "Invalid format. Try: 1h 30m 45s, 1:30:45, 90s"
+msgstr "قالب نامعتبر. این‌ها را امتحان کنید: 1h 30m 45s، 1:30:45، 90s"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.py:269
+msgid "Invalid lead details supplied."
+msgstr "جزئیات سرنخ ارسالی نامعتبر است."
+
+#: crm/api/__init__.py:81
+msgid "Invalid or expired key"
+msgstr "کلید نامعتبر یا منقضی‌شده"
+
+#: frontend/src/pages/InvalidPage.vue:6
+msgid "Invalid page or not permitted to access"
+msgstr "صفحه نامعتبر است یا دسترسی مجاز نیست"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:187
+msgid "Invitations sent successfully"
+msgstr "دعوت‌نامه‌ها با موفقیت ارسال شدند"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:80
+msgid "Invite Agent"
+msgstr "دعوت از کارشناس"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:53
+msgid "Invite As"
+msgstr "دعوت به‌عنوان"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:32
+msgid "Invite By Email"
+msgstr "دعوت از طریق ایمیل"
+
+#: frontend/src/components/Settings/Users.vue:25
+msgid "Invite New User"
+msgstr "دعوت از کاربر جدید"
+
+#: frontend/src/components/Settings/Settings.vue:159
+msgid "Invite User"
+msgstr "دعوت از کاربر"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:573
+msgid "Invite Users"
+msgstr "دعوت از کاربران"
+
+#: frontend/src/pages/PersonaForm.vue:125
+msgid "Invite my team"
+msgstr "دعوت از تیم من"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:10
+msgid "Invite users to access CRM. Specify their roles to control access and permissions"
+msgstr "کاربران را برای دسترسی به CRM دعوت کنید. نقش آن‌ها را برای کنترل دسترسی و مجوزها مشخص کنید"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:383
+msgid "Invite your team"
+msgstr "دعوت از تیم شما"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json:None
+msgid "Is ERPNext installed on a different site?"
+msgstr "آیا ERPNext روی سایت دیگری نصب است؟"
+
+#: frontend/src/components/ListViews/EmptyState.vue:43
+msgid "It appears that there are currently no {0} available. You can create more {0} by using the Create button."
+msgstr "به نظر می‌رسد فعلاً {0} موجود نیست. با دکمهٔ ایجاد می‌توانید {0} بیشتری بسازید."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "It will make deal's \"Expected Closure Date\" & \"Expected Deal Value\" mandatory to get accurate forecasting insights"
+msgstr "«تاریخ مورد انتظار بسته‌شدن» و «ارزش مورد انتظار معامله» را برای دریافت پیش‌بینی دقیق‌تر اجباری می‌کند"
+
+#: crm/api/doc.py:806
+msgid "Items are required"
+msgstr "آیتم‌ها الزامی هستند"
+
+#: crm/api/doc.py:810
+msgid "Items must be a list"
+msgstr "آیتم‌ها باید فهرست باشند"
+
+#: frontend/src/components/Filter.vue:586
+msgid "John, Jane, Doe"
+msgstr "علی، مریم، رضا"
+
+#: frontend/src/pages/PersonaForm.vue:127
+msgid "Just exploring"
+msgstr "فقط در حال بررسی"
+
+#: frontend/src/pages/PersonaForm.vue:110
+msgid "Just me"
+msgstr "فقط خودم"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Kanban Columns"
+msgstr "ستون‌های کانبان"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Kanban Fields"
+msgstr "فیلدهای کانبان"
+
+#: frontend/src/components/Kanban/KanbanSettings.vue:3
+msgid "Kanban settings"
+msgstr "تنظیمات کانبان"
+
+#: frontend/src/pages/PersonaForm.vue:93
+msgid "Keeping my pipeline organized"
+msgstr "منظم نگه داشتن خط لولهٔ فروش"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "Kind"
+msgstr "نوع"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:37
+msgid "Language & Time"
+msgstr "زبان و زمان"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Last Responded On"
+msgstr "آخرین زمان پاسخ‌گویی"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Last Response Time"
+msgstr "زمان آخرین پاسخ"
+
+#: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json:None
+msgid "Last Status Change Log"
+msgstr "آخرین لاگ تغییر وضعیت"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:101
+msgid "Last user assigned by this rule"
+msgstr "آخرین کاربری که با این قانون تخصیص یافت"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Lead Sources"
+msgstr "منابع سرنخ"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:285
+msgid "Lead Sync Source created successfully"
+msgstr "منبع همگام‌سازی سرنخ با موفقیت ایجاد شد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:311
+msgid "Lead and deal visibility will no longer be restricted by the reporting tree. Are you sure?"
+msgstr "دیدی که سرنخ‌ها و معامله‌ها دارند دیگر با درخت گزارش‌دهی محدود نمی‌شود. مطمئن هستید؟"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.py:287
+msgid "Lead from call {0}"
+msgstr "سرنخ از تماس {0}"
+
+#: crm/api/dashboard.py:985
+msgid "Lead generation channel analysis"
+msgstr "تحلیل کانال‌های ایجاد سرنخ"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSources.vue:175
+msgid "Lead sync source deleted successfully"
+msgstr "منبع همگام‌سازی سرنخ با موفقیت حذف شد"
+
+#: crm/api/dashboard.py:788
+msgid "Lead to deal conversion pipeline"
+msgstr "خط لولهٔ تبدیل سرنخ به معامله"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:102
+msgid "Leads by Source"
+msgstr "سرنخ‌ها بر اساس منبع"
+
+#: crm/api/dashboard.py:984
+msgid "Leads by source"
+msgstr "سرنخ‌ها بر اساس منبع"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:158
+msgid "Learn about conditions"
+msgstr "دربارهٔ شرط‌ها بیشتر بدانید"
+
+#: frontend/src/components/Filter.vue:367
+msgid "Less than"
+msgstr "کوچک‌تر از"
+
+#: frontend/src/components/Filter.vue:369
+msgid "Less than or equal to"
+msgstr "کوچک‌تر یا مساوی"
+
+#: crm/fcrm/doctype/crm_product/reconcile_job.py:100
+msgid "Linked Item {0} no longer exists"
+msgstr "مورد پیوندشدهٔ {0} دیگر وجود ندارد"
+
+#: frontend/src/components/Activities/CallArea.vue:66
+msgid "Listen"
+msgstr "گوش دادن"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Load Default Columns"
+msgstr "بارگذاری ستون‌های پیش‌فرض"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:23
+msgid "Log ID"
+msgstr "شناسهٔ لاگ"
+
+#: frontend/src/components/Activities/ActivityHeader.vue:136
+msgid "Log a Call"
+msgstr "ثبت یک تماس"
+
+#: frontend/src/pages/NotPermitted.vue:21
+msgid "Login with Different Account"
+msgstr "ورود با حساب دیگر"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:94
+msgid "Lost Deal Reasons"
+msgstr "دلایل از دست رفتن معامله"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Lost Details"
+msgstr "جزئیات از دست رفتن"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Lost Notes"
+msgstr "یادداشت‌های از دست رفتن"
+
+#: frontend/src/components/Modals/LostReasonModal.vue:84
+msgid "Lost Notes are required when Lost Reason is \"Other\""
+msgstr "وقتی دلیل از دست رفتن «سایر» است، یادداشت از دست رفتن الزامی است"
+
+#: frontend/src/components/Modals/LostReasonModal.vue:80
+msgid "Lost Reason is required"
+msgstr "دلیل از دست رفتن الزامی است"
+
+#: crm/api/dashboard.py:937
+msgid "Lost deal reasons"
+msgstr "دلایل از دست رفتن معامله"
+
+#: frontend/src/components/Telephony/CallUI.vue:6
+msgid "Make Call"
+msgstr "برقراری تماس"
+
+#: frontend/src/components/Activities/AttachmentArea.vue:39
+msgid "Make Private"
+msgstr "خصوصی کردن"
+
+#: frontend/src/components/Activities/AttachmentArea.vue:39
+msgid "Make Public"
+msgstr "عمومی کردن"
+
+#: frontend/src/components/Activities/ActivityHeader.vue:141
+msgid "Make a Call"
+msgstr "برقراری تماس"
+
+#: frontend/src/components/Activities/AttachmentArea.vue:98
+msgid "Make attachment {0}"
+msgstr "ایجاد پیوست {0}"
+
+#: frontend/src/components/Telephony/CallUI.vue:32
+msgid "Make {0} as default calling medium"
+msgstr "{0} را رسانهٔ تماس پیش‌فرض قرار بده"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:35
+msgid "Makes \"Expected Closure Date\" and \"Expected Deal Value\" mandatory for deal value forecasting"
+msgstr "«تاریخ مورد انتظار بسته‌شدن» و «ارزش مورد انتظار معامله» را برای پیش‌بینی ارزش معامله اجباری می‌کند"
+
+#: frontend/src/components/Settings/Users.vue:11
+msgid "Manage CRM users by adding or inviting them, and assign roles to control their access and permissions"
+msgstr "کاربران CRM را با افزودن یا دعوت مدیریت کنید و با تعیین نقش، دسترسی و مجوزهایشان را کنترل کنید"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:4
+msgid "Manage ERPNext integration settings"
+msgstr "تنظیمات یکپارچه‌سازی ERPNext را مدیریت کنید"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:100
+msgid "Manage your account emails and email signature for communication."
+msgstr "ایمیل‌های حساب و امضای ایمیل خود را برای مکاتبات مدیریت کنید."
+
+#: frontend/src/components/Settings/EmailAccountList.vue:11
+msgid "Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails."
+msgstr "حساب‌های ایمیل خود را برای ارسال و دریافت مستقیم ایمیل از CRM مدیریت کنید. می‌توانید چند حساب اضافه کنید و یکی را برای ایمیل‌های ورودی و خروجی پیش‌فرض قرار دهید."
+
+#: frontend/src/components/Settings/Profile/UserEmailSettings.vue:36
+msgid "Manage your email signature"
+msgstr "امضای ایمیل خود را مدیریت کنید"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:5
+msgid "Manage your profile & login information."
+msgstr "نمایه و اطلاعات ورود خود را مدیریت کنید."
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:4
+msgid "Manage your service level agreement policies"
+msgstr "سیاست‌های توافق‌نامه سطح خدمات خود را مدیریت کنید"
+
+#: frontend/src/pages/PersonaForm.vue:97
+msgid "Managing contacts and companies"
+msgstr "مدیریت مخاطبان و شرکت‌ها"
+
+#: frontend/src/components/Modals/DoctypeModal.vue:122
+msgid "Mandatory field error: {0}"
+msgstr "خطای فیلد اجباری: {0}"
+
+#: crm/lead_syncing/doctype/facebook_lead_form/facebook_lead_form.py:48
+msgid "Mandatory field(s) {0} must be mapped"
+msgstr "فیلدهای اجباری {0} باید نگاشت شوند"
+
+#: crm/lead_syncing/doctype/facebook_lead_form_question/facebook_lead_form_question.json:None
+msgid "Mapped to CRM Field"
+msgstr "نگاشت‌شده به فیلد CRM"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Mark lead/deal as replied on response"
+msgstr "در صورت پاسخ، سرنخ/معامله را «پاسخ داده‌شده» علامت بزن"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:313
+msgid "May 1, 2025"
+msgstr "۱ اردیبهشت ۱۴۰۴"
+
+#: frontend/src/components/Telephony/ExotelCallUI.vue:126
+msgid "Minimize"
+msgstr "کوچک کردن"
+
+#: frontend/src/utils/callLog.js:69
+msgid "Missed Call"
+msgstr "تماس بی‌پاسخ"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:628
+msgid "Missing mandatory fields: {0}"
+msgstr "فیلدهای اجباری وارد نشده‌اند: {0}"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:641
+msgid "Mobile App Installation"
+msgstr "نصب برنامهٔ موبایل"
+
+#: frontend/src/components/Modals/ContactModal.vue:117
+msgid "Mobile No. should be a number"
+msgstr "شمارهٔ موبایل باید عدد باشد"
+
+#: crm/integrations/exotel/handler.py:92
+msgid "Mobile Number Missing"
+msgstr "شمارهٔ موبایل وجود ندارد"
+
+#: frontend/src/pages/PersonaForm.vue:113
+msgid "More than 20"
+msgstr "بیش از ۲۰"
+
+#: frontend/src/components/FieldLayoutEditor.vue:617
+msgid "Move Last Column to Next Section"
+msgstr "انتقال آخرین ستون به بخش بعدی"
+
+#: frontend/src/components/FieldLayoutEditor.vue:657
+msgid "Move Last Column to Next Tab"
+msgstr "انتقال آخرین ستون به زبانهٔ بعدی"
+
+#: frontend/src/components/FieldLayoutEditor.vue:627
+msgid "Move Last Column to Previous Section"
+msgstr "انتقال آخرین ستون به بخش قبلی"
+
+#: frontend/src/components/FieldLayoutEditor.vue:637
+msgid "Move Last Column to Previous Tab"
+msgstr "انتقال آخرین ستون به زبانهٔ قبلی"
+
+#: frontend/src/components/FieldLayoutEditor.vue:546
+msgid "Move to Next Tab"
+msgstr "انتقال به زبانهٔ بعدی"
+
+#: frontend/src/components/FieldLayoutEditor.vue:532
+msgid "Move to Previous Tab"
+msgstr "انتقال به زبانهٔ قبلی"
+
+#: frontend/src/components/Settings/Hierarchy/HierarchyRow.vue:160
+msgid "Move to top level"
+msgstr "انتقال به سطح بالا"
+
+#: frontend/src/components/Settings/Hierarchy/useDragDrop.js:100
+msgid "Move under {0}"
+msgstr "انتقال به زیر {0}"
+
+#: frontend/src/components/Modals/ViewModal.vue:30
+msgid "My Open Deals"
+msgstr "معامله‌های باز من"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:417
+msgid "Name is required"
+msgstr "نام الزامی است"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Naming Series"
+msgstr "سری نام‌گذاری"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:98
+msgid "Nested Conditions"
+msgstr "شرط‌های تودرتو"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:12
+msgid "New Assignment Rule"
+msgstr "قانون تخصیص جدید"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleListItem.vue:53
+msgid "New Assignment Rule Name"
+msgstr "نام قانون تخصیص جدید"
+
+#: frontend/src/components/Activities/ActivityHeader.vue:19
+msgid "New Comment"
+msgstr "دیدگاه جدید"
+
+#: frontend/src/components/Settings/LeadSyncing/LeadSyncSourceForm.vue:9
+msgid "New Lead Sync Source"
+msgstr "منبع جدید همگام‌سازی سرنخ"
+
+#: frontend/src/components/Activities/ActivityHeader.vue:66
+msgid "New Message"
+msgstr "پیام جدید"
+
+#: frontend/src/components/Modals/OrganizationModal.vue:8
+msgid "New Organization"
+msgstr "سازمان جدید"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:8
+msgid "New SLA Policy"
+msgstr "سیاست SLA جدید"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:118
+msgid "New SLA Policy Name"
+msgstr "نام سیاست SLA جدید"
+
+#: frontend/src/components/SidePanelLayoutEditor.vue:131
+msgid "New Section"
+msgstr "بخش جدید"
+
+#: frontend/src/components/FieldLayoutEditor.vue:359
+msgid "New Tab"
+msgstr "زبانهٔ جدید"
+
+#: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:10
+msgid "New Template"
+msgstr "قالب جدید"
+
+#: frontend/src/components/Modals/ConvertToDealModal.vue:67
+msgid "New contact will be created based on the person's details"
+msgstr "مخاطب جدید بر اساس مشخصات فرد ایجاد می‌شود"
+
+#: frontend/src/components/Modals/ConvertToDealModal.vue:42
+msgid "New organization will be created based on the data in details section"
+msgstr "سازمان جدید بر اساس داده‌های بخش جزئیات ایجاد می‌شود"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:123
+msgid "New password cannot be the same as current password"
+msgstr "گذرواژهٔ جدید نمی‌تواند با گذرواژهٔ فعلی یکسان باشد"
+
+#: crm/api/user.py:25
+msgid "New password cannot be the same as current password. Please choose a different password."
+msgstr "گذرواژهٔ جدید نمی‌تواند با گذرواژهٔ فعلی یکسان باشد. لطفاً گذرواژهٔ دیگری انتخاب کنید."
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Next Step"
+msgstr "مرحلهٔ بعد"
+
+#: frontend/src/components/Questionnaire.vue:95
+msgid "Next question"
+msgstr "پرسش بعدی"
+
+#: frontend/src/components/Modals/SidePanelModal.vue:51
+msgid "No Contacts Added"
+msgstr "مخاطبی اضافه نشده است"
+
+#: frontend/src/pages/Deal.vue:267
+msgid "No Details Added"
+msgstr "جزئیاتی اضافه نشده است"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:68
+msgid "No Failure Logs Found"
+msgstr "لاگ خطایی پیدا نشد"
+
+#: frontend/src/pages/Deal.vue:732
+msgid "No Mobile Number Set"
+msgstr "شمارهٔ موبایل تنظیم نشده است"
+
+#: frontend/src/pages/MobileNotification.vue:65
+msgid "No New Notifications"
+msgstr "اعلان جدیدی وجود ندارد"
+
+#: frontend/src/pages/Deal.vue:727
+msgid "No Primary Contact Set"
+msgstr "مخاطب اصلی تعیین نشده است"
+
+#: frontend/src/components/Settings/Sla/SlaPriorityList.vue:86
+msgid "No Priorities in the list"
+msgstr "اولویتی در فهرست نیست"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:72
+msgid "No Results Found"
+msgstr "نتیجه‌ای پیدا نشد"
+
+#: frontend/src/components/Modals/EmailTemplateSelectorModal.vue:56
+msgid "No Templates Found"
+msgstr "قالبی پیدا نشد"
+
+#: frontend/src/components/Modals/AddExistingUserModal.vue:39
+msgid "No Users Found"
+msgstr "کاربری پیدا نشد"
+
+#: frontend/src/pages/MobileOrganization.vue:296
+msgid "No Website Found"
+msgstr "وب‌سایتی پیدا نشد"
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:156
+msgid "No Workdays in the List"
+msgstr "روز کاری در فهرست نیست"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:323
+msgid "No companies found in the given site"
+msgstr "شرکتی در سایت داده‌شده پیدا نشد"
+
+#: frontend/src/components/Activities/EventArea.vue:75
+msgid "No events coming up. Create a new one to keep things on track."
+msgstr "رویدادی در پیش نیست. برای مرتب ماندن کارها یک رویداد جدید بسازید."
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:57
+msgid "No holiday list found"
+msgstr "فهرست تعطیلاتی پیدا نشد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:107
+msgid "No matching users"
+msgstr "کاربر منطبقی پیدا نشد"
+
+#: frontend/src/components/Settings/Hierarchy/UserMultiSelect.vue:64
+msgid "No users found"
+msgstr "کاربری پیدا نشد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:108
+msgid "No users in hierarchy"
+msgstr "کاربری در سلسله‌مراتب نیست"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:112
+msgid "No users match the current filter."
+msgstr "هیچ کاربری با فیلتر فعلی مطابقت ندارد."
+
+#: frontend/src/components/PrimaryDropdown.vue:33
+msgid "No {0} available"
+msgstr "{0} موجود نیست"
+
+#: frontend/src/components/Activities/AudioPlayer.vue:148
+msgid "Normal"
+msgstr "عادی"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:355
+msgid "Not allowed to add contact to Deal"
+msgstr "اجازهٔ افزودن مخاطب به معامله را ندارید"
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.py:497
+msgid "Not allowed to convert Lead to Deal"
+msgstr "اجازهٔ تبدیل سرنخ به معامله را ندارید"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:366
+msgid "Not allowed to remove contact from Deal"
+msgstr "اجازهٔ حذف مخاطب از معامله را ندارید"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:377
+msgid "Not allowed to set primary contact for Deal"
+msgstr "اجازهٔ تعیین مخاطب اصلی برای معامله را ندارید"
+
+#: frontend/src/components/Filter.vue:274
+msgid "Not equals"
+msgstr "نامساوی"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.py:32
+msgid "Not implemented yet!"
+msgstr "هنوز پیاده‌سازی نشده است!"
+
+#: frontend/src/components/Filter.vue:278
+msgid "Not in"
+msgstr "نیست در"
+
+#: frontend/src/components/Filter.vue:276
+msgid "Not like"
+msgstr "شبیه نیست"
+
+#: crm/api/whatsapp.py:27
+msgid "Not permitted to access reference document {0} {1}."
+msgstr "اجازهٔ دسترسی به سند مرجع {0} {1} را ندارید."
+
+#: crm/api/whatsapp.py:274
+msgid "Not permitted to access the referenced WhatsApp message."
+msgstr "اجازهٔ دسترسی به پیام واتس‌اپ ارجاع‌شده را ندارید."
+
+#: crm/fcrm/doctype/crm_fields_layout/crm_fields_layout.py:197
+msgid "Not permitted to modify fields layout"
+msgstr "اجازهٔ تغییر چیدمان فیلدها را ندارید"
+
+#: frontend/src/components/Activities/NoteArea.vue:74
+msgid "Note deleted"
+msgstr "یادداشت حذف شد"
+
+#: frontend/src/pages/Notes.vue:23
+msgid "Notes View"
+msgstr "نمای یادداشت‌ها"
+
+#: crm/fcrm/doctype/crm_notification/crm_notification.json:None
+msgid "Notification Type Doc"
+msgstr "سند نوع اعلان"
+
+#: crm/fcrm/doctype/crm_notification/crm_notification.json:None
+msgid "Notification Type Doctype"
+msgstr "نوع سند اعلان"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:15
+msgid "Number Chart"
+msgstr "نمودار عددی"
+
+#: crm/api/dashboard.py:1075
+msgid "Number of deals"
+msgstr "تعداد معامله‌ها"
+
+#: crm/api/dashboard.py:1131
+msgid "Number of deals and total value per salesperson"
+msgstr "تعداد معامله‌ها و مجموع ارزش به‌ازای هر کارشناس فروش"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:95
+msgid "Number of decimal places for non-currency numeric fields"
+msgstr "تعداد رقم‌های اعشار برای فیلدهای عددی غیرمالی"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:55
+msgid "Number of decimal places used for all currency values"
+msgstr "تعداد رقم‌های اعشار برای همهٔ مبالغ"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:167
+msgid "Old Condition"
+msgstr "شرط قدیمی"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:124
+msgid "Old Conditions"
+msgstr "شرط‌های قدیمی"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:73
+msgid "Ongoing Deals"
+msgstr "معامله‌های در جریان"
+
+#: crm/api/dashboard.py:189
+msgid "Ongoing deals"
+msgstr "معامله‌های در جریان"
+
+#: crm/api/user.py:62
+msgid "Only System Managers can assign the Sales Manager role"
+msgstr "فقط مدیران سیستم می‌توانند نقش مدیر فروش را تخصیص دهند"
+
+#: crm/api/user.py:59
+msgid "Only System Managers can assign the System Manager role"
+msgstr "فقط مدیران سیستم می‌توانند نقش مدیر سیستم را تخصیص دهند"
+
+#: crm/api/user.py:92
+msgid "Only System Managers can modify other System Managers"
+msgstr "فقط مدیران سیستم می‌توانند مدیران سیستم دیگر را تغییر دهند"
+
+#: frontend/src/utils/index.js:484
+msgid "Only image files are allowed"
+msgstr "فقط فایل‌های تصویری مجاز هستند"
+
+#: crm/api/whatsapp.py:16
+msgid "Only sales users can access WhatsApp features."
+msgstr "فقط کاربران فروش به امکانات واتس‌اپ دسترسی دارند."
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:88
+msgid "Open Nested Conditions"
+msgstr "باز کردن شرط‌های تودرتو"
+
+#: frontend/src/pages/Organization.vue:97
+msgid "Open Website"
+msgstr "باز کردن وب‌سایت"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.js:6
+msgid "Open in Portal"
+msgstr "باز کردن در پورتال"
+
+#: frontend/src/pages/Welcome.vue:40
+msgid "Or create leads manually"
+msgstr "یا سرنخ‌ها را دستی ایجاد کنید"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Organization Details"
+msgstr "جزئیات سازمان"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.py:503
+msgid "Organization or a primary Contact is required to create a customer"
+msgstr "برای ایجاد مشتری، سازمان یا مخاطب اصلی الزامی است"
+
+#: frontend/src/pages/PersonaForm.vue:124
+msgid "Organize my contacts"
+msgstr "سازمان‌دهی مخاطبان من"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:151
+msgid "Organizer"
+msgstr "برگزارکننده"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:605
+msgid "Other Features"
+msgstr "امکانات دیگر"
+
+#: frontend/src/components/Activities/CallArea.vue:31
+msgid "Outbound Call"
+msgstr "تماس خروجی"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:146
+msgid "Owner: {0}"
+msgstr "مالک: {0}"
+
+#: crm/fcrm/doctype/crm_territory/crm_territory.json:None
+msgid "Parent CRM Territory"
+msgstr "قلمرو CRM والد"
+
+#: crm/api/user.py:46
+msgid "Password Updated Successfully"
+msgstr "گذرواژه با موفقیت به‌روزرسانی شد"
+
+#: crm/api/live_demo.py:24
+msgid "Password cannot be reset by Demo User {}"
+msgstr "گذرواژه را کاربر نمایشی {} نمی‌تواند بازنشانی کند"
+
+#: frontend/src/components/Settings/emailConfig.js:188
+msgid "Password is required"
+msgstr "گذرواژه الزامی است"
+
+#: crm/api/user.py:43
+msgid "Password is too weak. {0}"
+msgstr "گذرواژه بسیار ضعیف است. {0}"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:130
+msgid "Password must be at least 8 characters"
+msgstr "گذرواژه باید حداقل ۸ نویسه باشد"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:133
+msgid "Password must contain lowercase, uppercase, number, and symbol"
+msgstr "گذرواژه باید شامل حرف کوچک، حرف بزرگ، عدد و نماد باشد"
+
+#: frontend/src/components/Modals/ChangePasswordModal.vue:47
+msgid "Passwords match"
+msgstr "گذرواژه‌ها مطابقت دارند"
+
+#: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:69
+msgid "Payment Reminder from Frappé - (#{{ name }})"
+msgstr "یادآوری پرداخت از Frappé - (#{{ name }})"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:69
+msgid "Payment reminder from Frappé - (#{{ name }})"
+msgstr "یادآوری پرداخت از Frappé - (#{{ name }})"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:61
+msgid "Pending Invites"
+msgstr "دعوت‌نامه‌های در انتظار"
+
+#: frontend/src/components/SalesHierarchyBanner.vue:9
+msgid "Permissions update"
+msgstr "به‌روزرسانی دسترسی‌ها"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Persona Captured"
+msgstr "پرسونا ثبت شد"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:120
+msgid "Personal Mobile No."
+msgstr "شمارهٔ موبایل شخصی"
+
+#: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json:None
+msgid "Phone Numbers"
+msgstr "شماره‌های تلفن"
+
+#: frontend/src/pages/PersonaForm.vue:78
+msgid "Phone calls"
+msgstr "تماس‌های تلفنی"
+
+#: frontend/src/components/ViewControls.vue:1097
+msgid "Pin View"
+msgstr "سنجاق کردن نما"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Pinned"
+msgstr "سنجاق‌شده"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:601
+msgid "Pinned View"
+msgstr "نمای سنجاق‌شده"
+
+#: frontend/src/components/ViewControls.vue:686
+msgid "Pinned Views"
+msgstr "نماهای سنجاق‌شده"
+
+#: frontend/src/pages/PersonaForm.vue:63
+msgid "Pipedrive"
+msgstr "پایپ‌درایو"
+
+#: frontend/src/components/Activities/AudioPlayer.vue:176
+msgid "Playback Speed"
+msgstr "سرعت پخش"
+
+#: crm/integrations/twilio/twilio_handler.py:119
+msgid "Please enable twilio settings before making a call."
+msgstr "پیش از برقراری تماس، تنظیمات Twilio را فعال کنید."
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:239
+msgid "Please fix the errors in the form"
+msgstr "لطفاً خطاهای فرم را برطرف کنید"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:88
+msgid "Please select a Priority"
+msgstr "لطفاً یک اولویت انتخاب کنید"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:213
+msgid "Please select a currency before saving."
+msgstr "پیش از ذخیره، یک واحد پول انتخاب کنید."
+
+#: crm/lead_syncing/doctype/lead_sync_source/lead_sync_source.py:67
+msgid "Please select a lead gen form before syncing!"
+msgstr "پیش از همگام‌سازی، یک فرم سرنخ‌گیری انتخاب کنید!"
+
+#: frontend/src/pages/Lead.vue:134
+msgid "Please set a mobile number to make calls"
+msgstr "برای برقراری تماس، یک شمارهٔ موبایل تنظیم کنید"
+
+#: frontend/src/pages/Deal.vue:109
+msgid "Please set a website to visit"
+msgstr "برای بازدید، یک وب‌سایت تنظیم کنید"
+
+#: frontend/src/pages/Deal.vue:98
+msgid "Please set an email address to send emails"
+msgstr "برای ارسال ایمیل، یک نشانی ایمیل تنظیم کنید"
+
+#: crm/integrations/exotel/handler.py:72
+msgid "Please setup Exotel intergration"
+msgstr "لطفاً یکپارچه‌سازی Exotel را راه‌اندازی کنید"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:261
+msgid "Please specify a reason for losing the deal."
+msgstr "لطفاً دلیل از دست رفتن معامله را مشخص کنید."
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.py:150
+msgid "Please specify a reason for losing the lead."
+msgstr "لطفاً دلیل از دست رفتن سرنخ را مشخص کنید."
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.py:263
+msgid "Please specify the reason for losing the deal."
+msgstr "لطفاً دلیل از دست رفتن معامله را مشخص کنید."
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.py:152
+msgid "Please specify the reason for losing the lead."
+msgstr "لطفاً دلیل از دست رفتن سرنخ را مشخص کنید."
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:62
+msgid "Policy Name"
+msgstr "نام سیاست"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:4
+msgid "Preferences"
+msgstr "ترجیحات"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:115
+msgid "Preferences Updated Successfully"
+msgstr "ترجیحات با موفقیت به‌روزرسانی شد"
+
+#: frontend/src/pages/Deal.vue:704
+msgid "Primary Contact Set"
+msgstr "مخاطب اصلی تعیین شد"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Primary email"
+msgstr "ایمیل اصلی"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Primary mobile no"
+msgstr "موبایل اصلی"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Primary phone"
+msgstr "تلفن اصلی"
+
+#: frontend/src/components/Settings/Sla/utils.js:145
+msgid "Priorities must be unique"
+msgstr "اولویت‌ها باید یکتا باشند"
+
+#: frontend/src/components/Settings/Sla/utils.js:125
+msgid "Priority {0}: Priority Name is required"
+msgstr "اولویت {0}: نام اولویت الزامی است"
+
+#: frontend/src/components/Settings/Sla/utils.js:133
+msgid "Priority {0}: Response Time is required"
+msgstr "اولویت {0}: زمان پاسخ الزامی است"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:488
+msgid "Private or Public"
+msgstr "خصوصی یا عمومی"
+
+#: crm/fcrm/doctype/crm_product/crm_product.json:None
+msgid "Product Code"
+msgstr "کد محصول"
+
+#: crm/fcrm/doctype/crm_product/crm_product.json:None
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.json:None
+msgid "Product Sync Issues"
+msgstr "مشکلات همگام‌سازی محصول"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:330
+msgid "Product sync started. Items will appear shortly."
+msgstr "همگام‌سازی محصولات شروع شد. آیتم‌ها به‌زودی نمایش داده می‌شوند."
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:194
+msgid "Profile Updated Successfully"
+msgstr "نمایه با موفقیت به‌روزرسانی شد"
+
+#: crm/api/dashboard.py:719
+msgid "Projected vs actual revenue based on deal probability"
+msgstr "درآمد پیش‌بینی‌شده در برابر واقعی بر اساس احتمال معامله"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:600
+msgid "Public View"
+msgstr "نمای عمومی"
+
+#: frontend/src/components/ViewControls.vue:680
+msgid "Public Views"
+msgstr "نماهای عمومی"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:624
+msgid "Quick Entry Layout"
+msgstr "چیدمان ورود سریع"
+
+#: frontend/src/components/ViewControls.vue:741
+msgid "Quick filters updated successfully"
+msgstr "فیلترهای سریع با موفقیت به‌روزرسانی شد"
+
+#: crm/fcrm/doctype/crm_exotel_settings/crm_exotel_settings.json:None
+msgid "Record Outgoing Calls"
+msgstr "ضبط تماس‌های خروجی"
+
+#: crm/integrations/api.py:163
+msgid "Recording URL not found"
+msgstr "نشانی ضبط پیدا نشد"
+
+#: crm/api/whatsapp.py:21
+msgid "Reference document {0} {1} does not exist."
+msgstr "سند مرجع {0} {1} وجود ندارد."
+
+#: crm/api/whatsapp.py:270
+msgid "Referenced WhatsApp message does not exist."
+msgstr "پیام واتس‌اپ ارجاع‌شده وجود ندارد."
+
+#: frontend/src/pages/PersonaForm.vue:79
+msgid "Referrals"
+msgstr "معرفی‌ها"
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:78
+msgid "Refresh Apps"
+msgstr "تازه‌سازی برنامه‌ها"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:157
+msgid "Refresh Companies"
+msgstr "تازه‌سازی شرکت‌ها"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:97
+msgid "Reject"
+msgstr "رد کردن"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:163
+msgid "Reject Call"
+msgstr "رد تماس"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Relative"
+msgstr "نسبی"
+
+#: frontend/src/components/Kanban/KanbanView.vue:169
+msgid "Reload Columns"
+msgstr "بارگذاری دوبارهٔ ستون‌ها"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:67
+msgid "Reminders will be sent <b>before the event starts</b>, based on the configured time"
+msgstr "یادآوری‌ها <b>پیش از شروع رویداد</b> و بر اساس زمان پیکربندی‌شده ارسال می‌شوند"
+
+#: frontend/src/components/FilesUploader/FilesUploader.vue:17
+msgid "Remove All"
+msgstr "حذف همه"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:183
+msgid "Remove Group"
+msgstr "حذف گروه"
+
+#: frontend/src/pages/Contact.vue:53
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: frontend/src/components/FieldLayoutEditor.vue:577
+msgid "Remove Last Column"
+msgstr "حذف آخرین ستون"
+
+#: frontend/src/components/FieldLayoutEditor.vue:607
+msgid "Remove Last Column (move fields to previous)"
+msgstr "حذف آخرین ستون (انتقال فیلدها به ستون قبلی)"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:161
+msgid "Remove Photo"
+msgstr "حذف عکس"
+
+#: frontend/src/components/FieldLayoutEditor.vue:422
+msgid "Remove Tab"
+msgstr "حذف زبانه"
+
+#: crm/api/user.py:111
+msgid "Remove this user from the sales hierarchy before changing their role to Sales User"
+msgstr "پیش از تغییر نقش این کاربر به کاربر فروش، او را از سلسله‌مراتب فروش حذف کنید"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:195
+msgid "Remove {0} from the hierarchy. What should happen to their direct reports?"
+msgstr "{0} از سلسله‌مراتب حذف شود. با زیرمجموعه‌های مستقیم او چه شود؟"
+
+#: frontend/src/components/Settings/Hierarchy/useRemoveNode.js:13
+msgid "Removed from hierarchy."
+msgstr "از سلسله‌مراتب حذف شد."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Reopen lead/deal on new communication"
+msgstr "با ارتباط جدید، سرنخ/معامله را دوباره باز کن"
+
+#: frontend/src/pages/PersonaForm.vue:102
+msgid "Replacing my current CRM"
+msgstr "جایگزینی CRM فعلی من"
+
+#: frontend/src/pages/PersonaForm.vue:101
+msgid "Reporting & forecasting"
+msgstr "گزارش‌گیری و پیش‌بینی"
+
+#: crm/fcrm/doctype/erpnext_crm_settings/erpnext_crm_settings.js:7
+msgid "Reset ERPNext Form Script"
+msgstr "بازنشانی اسکریپت فرم ERPNext"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "Response & Follow Up"
+msgstr "پاسخ و پیگیری"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:94
+msgid "Response Time is required"
+msgstr "زمان پاسخ الزامی است"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "Restart the SLA each time the customer replies (status changes to Open) and fulfill it when marked as Replied"
+msgstr "با هر پاسخ مشتری (تغییر وضعیت به «باز») SLA را از نو شروع کن و با علامت‌گذاری «پاسخ داده‌شده» آن را برآورده‌شده در نظر بگیر"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:21
+msgid "Restore Defaults"
+msgstr "بازیابی پیش‌فرض‌ها"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:53
+msgid "Restore Demo Data"
+msgstr "بازیابی داده‌های نمونه"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Restrict Lead and Deal visibility based on the Sales Hierarchy tree. Managers can see all records owned by or assigned to their reports."
+msgstr "دید سرنخ‌ها و معامله‌ها را بر اساس درخت سلسله‌مراتب فروش محدود کنید. مدیران همهٔ رکوردهای متعلق به زیرمجموعه‌های خود یا تخصیص‌یافته به آن‌ها را می‌بینند."
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:20
+msgid "Restrict visibility of Leads and Deals based on a reporting tree."
+msgstr "دید سرنخ‌ها و معامله‌ها را بر اساس درخت گزارش‌دهی محدود کنید."
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:65
+msgid "Restrict visibility using a reporting tree"
+msgstr "محدود کردن دید با درخت گزارش‌دهی"
+
+#: frontend/src/components/FilesUploader/FilesUploader.vue:45
+msgid "Retake"
+msgstr "گرفتن دوباره"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.js:6
+msgid "Retry Sync"
+msgstr "تلاش دوبارهٔ همگام‌سازی"
+
+#: frontend/src/components/Telephony/TwilioCallUI.vue:38
+msgid "Ringing..."
+msgstr "در حال زنگ خوردن..."
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Rolling Response Due"
+msgstr "سررسید پاسخ متحرک"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Rolling Responses"
+msgstr "پاسخ‌های متحرک"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Route Name"
+msgstr "نام مسیر"
+
+#: crm/fcrm/doctype/crm_view_settings/crm_view_settings.json:None
+msgid "Rows"
+msgstr "ردیف‌ها"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "SLA"
+msgstr "SLA"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "SLA Creation"
+msgstr "ایجاد SLA"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "SLA Name"
+msgstr "نام SLA"
+
+#: frontend/src/components/Settings/Settings.vue:198
+msgid "SLA Policies"
+msgstr "سیاست‌های SLA"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:428
+msgid "SLA Policy Created"
+msgstr "سیاست SLA ایجاد شد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:242
+msgid "SLA Policy Deleted"
+msgstr "سیاست SLA حذف شد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:218
+msgid "SLA Policy Duplicated"
+msgstr "سیاست SLA تکثیر شد"
+
+#: frontend/src/components/Settings/Sla/utils.js:106
+msgid "SLA Policy Name is required"
+msgstr "نام سیاست SLA الزامی است"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:264
+msgid "SLA Policy Status Updated"
+msgstr "وضعیت سیاست SLA به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:498
+msgid "SLA Policy Updated"
+msgstr "سیاست SLA به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:254
+msgid "SLA set as default cannot be disabled"
+msgstr "SLA پیش‌فرض را نمی‌توان غیرفعال کرد"
+
+#: frontend/src/components/EmailEditor.vue:102
+msgid "SUBJECT"
+msgstr "موضوع"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:7
+msgid "Sales Hierarchy"
+msgstr "سلسله‌مراتب فروش"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:323
+msgid "Sales Hierarchy disabled"
+msgstr "سلسله‌مراتب فروش غیرفعال شد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:334
+msgid "Sales Hierarchy enabled"
+msgstr "سلسله‌مراتب فروش فعال شد"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:90
+msgid "Sales Trend"
+msgstr "روند فروش"
+
+#: crm/api/dashboard.py:638
+msgid "Sales trend"
+msgstr "روند فروش"
+
+#: frontend/src/pages/PersonaForm.vue:61
+msgid "Salesforce"
+msgstr "سیلزفورس"
+
+#: crm/api/dashboard.py:1133
+msgid "Salesperson"
+msgstr "کارشناس فروش"
+
+#: frontend/src/components/Modals/ViewModal.vue:40
+msgid "Save Changes"
+msgstr "ذخیرهٔ تغییرات"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:599
+msgid "Saved View"
+msgstr "نمای ذخیره‌شده"
+
+#: frontend/src/components/ViewControls.vue:674
+msgid "Saved Views"
+msgstr "نماهای ذخیره‌شده"
+
+#: frontend/src/components/Telephony/TaskPanel.vue:8
+msgid "Schedule a task..."
+msgstr "زمان‌بندی یک تسک..."
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:60
+msgid "Search Template"
+msgstr "جستجوی قالب"
+
+#: frontend/src/components/Settings/Users.vue:69
+msgid "Search User"
+msgstr "جستجوی کاربر"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:83
+msgid "Search users"
+msgstr "جستجوی کاربران"
+
+#: frontend/src/components/Calendar/CalendarEventPanel.vue:232
+msgid "See All Participants"
+msgstr "مشاهدهٔ همهٔ شرکت‌کنندگان"
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:20
+msgid "Select Holiday List"
+msgstr "انتخاب فهرست تعطیلات"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:54
+msgid "Select Medium"
+msgstr "انتخاب رسانه"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:10
+msgid "Select Priority"
+msgstr "انتخاب اولویت"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:119
+msgid "Select Provider"
+msgstr "انتخاب ارائه‌دهنده"
+
+#: frontend/src/pages/Dashboard.vue:50
+msgid "Select Range"
+msgstr "انتخاب بازه"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:31
+msgid "Select Type"
+msgstr "انتخاب نوع"
+
+#: frontend/src/components/Settings/Sla/WorkDayModal.vue:15
+msgid "Select Workday"
+msgstr "انتخاب روز کاری"
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:71
+msgid "Select a Twilio App for your CRM"
+msgstr "یک برنامهٔ Twilio برای CRM خود انتخاب کنید"
+
+#: frontend/src/components/Filter.vue:603
+msgid "Select a Value"
+msgstr "انتخاب یک مقدار"
+
+#: frontend/src/components/Questionnaire.vue:93
+msgid "Select all that apply"
+msgstr "همهٔ موارد مرتبط را انتخاب کنید"
+
+#: frontend/src/components/Filter.vue:605
+msgid "Select an Option"
+msgstr "انتخاب یک گزینه"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeRules.vue:84
+msgid "Select the assignees for {0}."
+msgstr "تخصیص‌گیرندگان {0} را انتخاب کنید."
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:245
+msgid "Select the deal status to trigger the auto customer creation in ERPNext"
+msgstr "وضعیت معامله‌ای را که ایجاد خودکار مشتری در ERPNext را فعال می‌کند انتخاب کنید"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:38
+msgid "Select the default view for your calendar. This will be the initial view when you open the calendar"
+msgstr "نمای پیش‌فرض تقویم را انتخاب کنید. هنگام باز کردن تقویم، این نما نخست نمایش داده می‌شود"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:131
+msgid "Select whether to display time with or without seconds"
+msgstr "انتخاب کنید زمان با ثانیه نمایش داده شود یا بدون ثانیه"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:133
+msgid "Select your ERPNext company to connect with"
+msgstr "شرکت ERPNext مورد نظر برای اتصال را انتخاب کنید"
+
+#: frontend/src/components/Settings/InviteUserPage.vue:6
+msgid "Send Invites To"
+msgstr "ارسال دعوت‌نامه به"
+
+#: frontend/src/components/Activities/ActivityHeader.vue:61
+msgid "Send Template"
+msgstr "ارسال قالب"
+
+#: frontend/src/pages/Deal.vue:92
+msgid "Send an Email"
+msgstr "ارسال یک ایمیل"
+
+#: frontend/src/components/Layouts/AppSidebar.vue:488
+msgid "Send email"
+msgstr "ارسال ایمیل"
+
+#: frontend/src/components/CommunicationArea.vue:274
+msgid "Sending comment..."
+msgstr "در حال ارسال دیدگاه..."
+
+#: frontend/src/components/CommunicationArea.vue:258
+msgid "Sending email..."
+msgstr "در حال ارسال ایمیل..."
+
+#: crm/fcrm/doctype/crm_lead/crm_lead.json:None
+msgid "Series"
+msgstr "سری"
+
+#: frontend/src/components/PrimaryDropdownItem.vue:27
+msgid "Set As Primary"
+msgstr "تعیین به‌عنوان اصلی"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:235
+msgid "Set Currency"
+msgstr "تعیین واحد پول"
+
+#: frontend/src/components/Settings/Sla/EditResponseResolutionModal.vue:29
+msgid "Set Default Priority"
+msgstr "تعیین اولویت پیش‌فرض"
+
+#: frontend/src/pages/Lead.vue:119
+msgid "Set First Name"
+msgstr "تعیین نام"
+
+#: frontend/src/components/Controls/GeolocationControl.vue:50
+msgid "Set Location"
+msgstr "تعیین مکان"
+
+#: frontend/src/pages/Deal.vue:78
+msgid "Set an Organization"
+msgstr "تعیین یک سازمان"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:113
+msgid "Set as default SLA"
+msgstr "تعیین به‌عنوان SLA پیش‌فرض"
+
+#: frontend/src/components/Controls/GeolocationControl.vue:14
+msgid "Set location…"
+msgstr "تعیین مکان…"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Set once the first admin completes the onboarding persona questionnaire"
+msgstr "پس از تکمیل پرسشنامهٔ آشنایی توسط اولین مدیر تعیین می‌شود"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:102
+msgid "Set the Exotel number to be used for outgoing calls."
+msgstr "شمارهٔ Exotel که برای تماس‌های خروجی استفاده می‌شود را تعیین کنید."
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:77
+msgid "Set the Twilio number to be used for outgoing calls."
+msgstr "شمارهٔ Twilio که برای تماس‌های خروجی استفاده می‌شود را تعیین کنید."
+
+#: frontend/src/components/Settings/BrandSettings.vue:33
+msgid "Set the name of your brand. Appears in the left sidebar."
+msgstr "نام برند خود را تعیین کنید. در نوار کناری سمت چپ نمایش داده می‌شود."
+
+#: frontend/src/pages/PersonaForm.vue:123
+msgid "Set up my sales pipeline"
+msgstr "راه‌اندازی خط لولهٔ فروش من"
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:9
+msgid "Set working days, hours, and holidays by selecting a predefined schedule or creating a new one"
+msgstr "با انتخاب یک زمان‌بندی از پیش تعریف‌شده یا ایجاد زمان‌بندی جدید، روزها و ساعات کاری و تعطیلات را تعیین کنید"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:153
+msgid "Setting disabled successfully"
+msgstr "تنظیم با موفقیت غیرفعال شد"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:152
+msgid "Setting enabled successfully"
+msgstr "تنظیم با موفقیت فعال شد"
+
+#: frontend/src/components/Settings/emailConfig.js:158
+msgid "Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more"
+msgstr "راه‌اندازی Frappe Mail به کلید API و رمز API حساب ایمیل شما نیاز دارد. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:104
+msgid "Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی جیمیل نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:113
+msgid "Setting up Outlook requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی Outlook نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:122
+msgid "Setting up Sendgrid requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی Sendgrid نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:131
+msgid "Setting up Sparkpost requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی Sparkpost نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:140
+msgid "Setting up Yahoo requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی Yahoo نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/emailConfig.js:149
+msgid "Setting up Yandex requires you to enable two factor authentication and app specific passwords. Read more"
+msgstr "راه‌اندازی Yandex نیازمند فعال‌سازی احراز هویت دومرحله‌ای و گذرواژهٔ مخصوص برنامه است. بیشتر بخوانید"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:161
+msgid "Setting updated successfully"
+msgstr "تنظیم با موفقیت به‌روزرسانی شد"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:166
+msgid "Settings updated successfully"
+msgstr "تنظیمات با موفقیت به‌روزرسانی شد"
+
+#: crm/api/exchange_rate.py:149
+msgid "Setup the Exchange Rate Provider other than 'Frankfurter' in settings, as default provider does not support currency conversion for {0} to {1}."
+msgstr "در تنظیمات، ارائه‌دهندهٔ نرخ ارزی غیر از «Frankfurter» تعیین کنید، زیرا ارائه‌دهندهٔ پیش‌فرض تبدیل {0} به {1} را پشتیبانی نمی‌کند."
+
+#: frontend/src/components/Layouts/AppSidebar.vue:360
+msgid "Setup your password"
+msgstr "تعیین گذرواژهٔ شما"
+
+#: frontend/src/components/Controls/Password.vue:19
+msgid "Show Password"
+msgstr "نمایش گذرواژه"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:86
+msgid "Show timestamps in the activity timeline as relative time (5 mins ago) or an exact date & time"
+msgstr "زمان در خط زمانی فعالیت‌ها را به‌صورت نسبی (۵ دقیقه پیش) یا تاریخ و ساعت دقیق نمایش بده"
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.json:None
+msgid "Simple Python Expression, Example: doc.status == 'Open' and doc.lead_source == 'Ads'"
+msgstr "عبارت ساده پایتون، مثال: doc.status == 'Open' and doc.lead_source == 'Ads'"
+
+#: frontend/src/components/AssignTo.vue:83
+msgid "Since you removed {0} from the assignee, the {0} has also been removed."
+msgstr "چون {0} را از تخصیص‌گیرندگان حذف کردید، {0} نیز حذف شد."
+
+#: frontend/src/components/AssignTo.vue:76
+msgid "Since you removed {0} from the assignee, the {0} has been changed to the next available assignee {1}."
+msgstr "چون {0} را از تخصیص‌گیرندگان حذف کردید، {0} به تخصیص‌گیرندهٔ در دسترس بعدی یعنی {1} تغییر کرد."
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:66
+msgid "Site URL"
+msgstr "نشانی سایت"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:490
+msgid "Site URL is required"
+msgstr "نشانی سایت الزامی است"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:473
+msgid "Site connection validated"
+msgstr "اتصال سایت تأیید شد"
+
+#: frontend/src/components/Questionnaire.vue:97
+msgid "Skip for now"
+msgstr "فعلاً رد کن"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:438
+msgid "Some error occurred while creating SLA Policy"
+msgstr "هنگام ایجاد سیاست SLA خطایی رخ داد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:484
+msgid "Some error occurred while renaming SLA policy"
+msgstr "هنگام تغییر نام سیاست SLA خطایی رخ داد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:766
+msgid "Some error occurred while renaming assignment rule"
+msgstr "هنگام تغییر نام قانون تخصیص خطایی رخ داد"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:475
+msgid "Some error occurred while updating SLA policy"
+msgstr "هنگام به‌روزرسانی سیاست SLA خطایی رخ داد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:751
+msgid "Some error occurred while updating assignment rule"
+msgstr "هنگام به‌روزرسانی قانون تخصیص خطایی رخ داد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:508
+msgid "Some users could not be added"
+msgstr "افزودن برخی کاربران ممکن نبود"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyList.vue:246
+msgid "Something went wrong, try again later"
+msgstr "مشکلی پیش آمد، بعداً دوباره امتحان کنید"
+
+#: frontend/src/pages/PersonaForm.vue:59
+msgid "Spreadsheets"
+msgstr "صفحه‌گسترده‌ها"
+
+#: crm/api/dashboard.py:790
+msgid "Stage"
+msgstr "مرحله"
+
+#: crm/fcrm/doctype/crm_form_script/crm_form_script.js:15
+msgid "Standard Form Scripts can not be modified, duplicate the Form Script instead."
+msgstr "اسکریپت‌های فرم استاندارد قابل تغییر نیستند؛ به‌جای آن، اسکریپت فرم را تکثیر کنید."
+
+#: frontend/src/components/ViewControls.vue:642
+msgid "Standard Views"
+msgstr "نماهای استاندارد"
+
+#: frontend/src/pages/Welcome.vue:21
+msgid "Start with sample 10 leads"
+msgstr "شروع با ۱۰ سرنخ نمونه"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Status Change Log"
+msgstr "لاگ تغییر وضعیت"
+
+#: frontend/src/components/Modals/DealModal.vue:209
+msgid "Status is required"
+msgstr "وضعیت الزامی است"
+
+#: frontend/src/components/Questionnaire.vue:91
+msgid "Step {0} of {1}"
+msgstr "مرحلهٔ {0} از {1}"
+
+#: frontend/src/components/Modals/EmailTemplateSelectorModal.vue:35
+msgid "Subject: {0}"
+msgstr "موضوع: {0}"
+
+#: frontend/src/components/Settings/emailConfig.js:16
+msgid "Support / Sales"
+msgstr "پشتیبانی / فروش"
+
+#: frontend/src/components/Settings/PreferencesSettings.vue:26
+msgid "Switch between light, dark, or system theme"
+msgstr "جابه‌جایی بین پوستهٔ روشن، تیره یا سیستم"
+
+#: frontend/src/components/Settings/Profile/UserEmailSettings.vue:55
+msgid "Switch between outgoing email accounts when sending emails"
+msgstr "هنگام ارسال ایمیل، بین حساب‌های ایمیل خروجی جابه‌جا شوید"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:191
+msgid "Sync Products with ERPNext"
+msgstr "همگام‌سازی محصولات با ERPNext"
+
+#: frontend/src/components/Settings/LeadSyncing/FailureLogs.vue:132
+msgid "Sync Successful!"
+msgstr "همگام‌سازی موفق بود!"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.js:16
+msgid "Sync Successful, CRM Lead: {0}!"
+msgstr "همگام‌سازی موفق بود، سرنخ CRM: {0}!"
+
+#: frontend/src/pages/Welcome.vue:32
+msgid "Sync your Contacts, Email and Calendars"
+msgstr "مخاطبان، ایمیل و تقویم‌های خود را همگام‌سازی کنید"
+
+#: crm/lead_syncing/doctype/failed_lead_sync_log/failed_lead_sync_log.json:None
+msgid "Synced"
+msgstr "همگام‌سازی‌شده"
+
+#: frontend/src/components/Settings/Settings.vue:119
+msgid "System Configuration"
+msgstr "پیکربندی سیستم"
+
+#: frontend/src/components/Settings/DefaultsSettings.vue:6
+msgid "System Defaults"
+msgstr "پیش‌فرض‌های سیستم"
+
+#: frontend/src/components/EmailEditor.vue:39
+msgid "TO"
+msgstr "به"
+
+#: frontend/src/components/Settings/Settings.vue:220
+msgid "Telephony"
+msgstr "تلفن"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "Telephony Medium"
+msgstr "رسانهٔ تلفنی"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:9
+msgid "Telephony Settings"
+msgstr "تنظیمات تلفن"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:214
+msgid "Template Deleted Successfully"
+msgstr "قالب با موفقیت حذف شد"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:82
+msgid "Template Name"
+msgstr "نام قالب"
+
+#: frontend/src/components/Settings/EmailTemplate/NewEmailTemplate.vue:175
+msgid "Template created successfully"
+msgstr "قالب با موفقیت ایجاد شد"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:197
+msgid "Template disabled successfully"
+msgstr "قالب با موفقیت غیرفعال شد"
+
+#: frontend/src/components/Settings/EmailTemplate/EmailTemplates.vue:196
+msgid "Template enabled successfully"
+msgstr "قالب با موفقیت فعال شد"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:236
+msgid "Template renamed successfully"
+msgstr "نام قالب با موفقیت تغییر کرد"
+
+#: frontend/src/components/Settings/EmailTemplate/EditEmailTemplate.vue:201
+msgid "Template updated successfully"
+msgstr "قالب با موفقیت به‌روزرسانی شد"
+
+#: crm/fcrm/workspace/frappe_crm/frappe_crm.json:None
+msgid "Territories"
+msgstr "قلمروها"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically."
+msgstr "نرخی که واحد پول معامله را به واحد پول پایهٔ CRM شما (در تنظیمات CRM) تبدیل می‌کند. هنگام افزودن نخستین‌بار واحد پول تعیین می‌شود و خودکار تغییر نمی‌کند."
+
+#: crm/fcrm/doctype/crm_organization/crm_organization.json:None
+msgid "The rate used to convert the organization’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically."
+msgstr "نرخی که واحد پول سازمان را به واحد پول پایهٔ CRM شما (در تنظیمات CRM) تبدیل می‌کند. هنگام افزودن نخستین‌بار واحد پول تعیین می‌شود و خودکار تغییر نمی‌کند."
+
+#: crm/fcrm/doctype/crm_service_level_agreement/crm_service_level_agreement.js:29
+msgid "There can only be one default priority in Priorities table"
+msgstr "در جدول اولویت‌ها فقط یک اولویت پیش‌فرض می‌تواند وجود داشته باشد"
+
+#: frontend/src/components/FieldLayoutEditor.vue:584
+msgid "This column contains fields. Are you sure you want to remove it?"
+msgstr "این ستون شامل فیلد است. مطمئن هستید که می‌خواهید حذفش کنید؟"
+
+#: frontend/src/pages/PersonaForm.vue:58
+msgid "This is my first CRM"
+msgstr "این اولین CRM من است"
+
+#: frontend/src/components/FieldLayoutEditor.vue:489
+msgid "This section contains fields. Are you sure you want to remove it?"
+msgstr "این بخش شامل فیلد است. مطمئن هستید که می‌خواهید حذفش کنید؟"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:60
+msgid "This will delete selected items and items linked to it, are you sure?"
+msgstr "موارد انتخاب‌شده و موارد پیوندشده به آن‌ها حذف می‌شوند. مطمئن هستید؟"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:63
+msgid "This will delete selected items and unlink linked items to it, are you sure?"
+msgstr "موارد انتخاب‌شده حذف و پیوند موارد پیوندشده به آن‌ها برداشته می‌شود. مطمئن هستید؟"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:17
+msgid "This will restore (if not exist) all the default statuses, custom fields and layouts. Delete & Restore will delete default layouts and then restore them."
+msgstr "همهٔ وضعیت‌ها، فیلدهای سفارشی و چیدمان‌های پیش‌فرض را (در صورت نبودن) بازیابی می‌کند. «حذف و بازیابی» ابتدا چیدمان‌های پیش‌فرض را حذف و سپس بازیابی می‌کند."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.js:67
+msgid "This will restore the demo data. Are you sure you want to continue?"
+msgstr "داده‌های نمونه بازیابی می‌شوند. مطمئن هستید که می‌خواهید ادامه دهید؟"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event."
+msgstr "مدت زمانی پیش از رویداد که اعلان یادآوری به‌طور پیش‌فرض ارسال می‌شود. این مقدار برای همهٔ رویدادها اعمال می‌شود، مگر اینکه برای رویدادی اعلان سفارشی تعیین شود."
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Timeline Sort Order"
+msgstr "ترتیب مرتب‌سازی خط زمانی"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Timeline Timestamp Format"
+msgstr "قالب زمان در خط زمانی"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:107
+msgid "Timeline sort order"
+msgstr "ترتیب مرتب‌سازی خط زمانی"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:82
+msgid "Timeline timestamp format"
+msgstr "قالب زمان در خط زمانی"
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.json:None
+msgid "To Number"
+msgstr "به شماره"
+
+#: crm/fcrm/doctype/crm_status_change_log/crm_status_change_log.json:None
+msgid "To Type"
+msgstr "به نوع"
+
+#: crm/fcrm/doctype/crm_task/crm_task.json:None
+msgid "Todo"
+msgstr "برای انجام"
+
+#: frontend/src/components/Modals/SidePanelModal.vue:59
+msgid "Toggle on for Preview"
+msgstr "برای پیش‌نمایش روشن کنید"
+
+#: crm/api/user.py:21
+msgid "Too many failed attempts. Please try again after some time."
+msgstr "تلاش‌های ناموفق بیش از حد. لطفاً کمی بعد دوباره امتحان کنید."
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:72
+msgid "Total Leads"
+msgstr "کل سرنخ‌ها"
+
+#: crm/fcrm/doctype/crm_deal/crm_deal.json:None
+msgid "Total after discount"
+msgstr "جمع پس از تخفیف"
+
+#: crm/api/dashboard.py:130
+msgid "Total leads"
+msgstr "کل سرنخ‌ها"
+
+#: crm/api/dashboard.py:131
+msgid "Total number of leads"
+msgstr "تعداد کل سرنخ‌ها"
+
+#: crm/api/dashboard.py:190
+msgid "Total number of non won/lost deals"
+msgstr "تعداد کل معامله‌های غیرموفق و غیر از دست رفته"
+
+#: crm/api/dashboard.py:307
+msgid "Total number of won deals based on its closure date"
+msgstr "تعداد کل معامله‌های موفق بر اساس تاریخ بسته‌شدن"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:156
+msgid "Turn into a Group"
+msgstr "تبدیل به گروه"
+
+#: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.py:85
+msgid "Twilio API credential creation error."
+msgstr "خطا در ایجاد اعتبارنامهٔ API ی Twilio."
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:68
+msgid "Twilio App Name"
+msgstr "نام برنامهٔ Twilio"
+
+#: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.json:None
+msgid "Twilio Apps"
+msgstr "برنامه‌های Twilio"
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:115
+msgid "Twilio Integration Disabled"
+msgstr "یکپارچه‌سازی Twilio غیرفعال است"
+
+#: crm/fcrm/doctype/crm_telephony_agent/crm_telephony_agent.json:None
+msgid "Twilio Number"
+msgstr "شمارهٔ Twilio"
+
+#: frontend/src/components/Settings/Telephony/TwilioSettings.vue:8
+msgid "Twilio Settings"
+msgstr "تنظیمات Twilio"
+
+#: crm/integrations/twilio/api.py:15
+msgid "Twilio configuration is missing"
+msgstr "پیکربندی Twilio وجود ندارد"
+
+#: frontend/src/components/Calendar/Attendee.vue:216
+msgid "Type an email address to add attendee"
+msgstr "برای افزودن شرکت‌کننده، نشانی ایمیل را بنویسید"
+
+#: crm/fcrm/doctype/crm_twilio_settings/crm_twilio_settings.py:117
+msgid "Unable to connect to Twilio account to fetch applications."
+msgstr "اتصال به حساب Twilio برای دریافت برنامه‌ها ممکن نیست."
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:454
+msgid "Unassign Conditions are invalid"
+msgstr "شرط‌های لغو تخصیص نامعتبر هستند"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:224
+msgid "Unassignment Condition"
+msgstr "شرط لغو تخصیص"
+
+#: crm/integrations/exotel/handler.py:169
+msgid "Unauthorized request"
+msgstr "درخواست غیرمجاز"
+
+#: frontend/src/components/FieldLayoutEditor.vue:465
+msgid "Uncollapsible"
+msgstr "غیرقابل جمع‌شدن"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:166
+msgid "Ungroup Conditions"
+msgstr "جداکردن گروه شرط‌ها"
+
+#: crm/integrations/api.py:19
+msgid "Unknown telephony medium: {0}"
+msgstr "رسانهٔ تلفنی ناشناخته: {0}"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:124
+msgid "Unlink"
+msgstr "برداشتن پیوند"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:74
+msgid "Unlink & Delete"
+msgstr "برداشتن پیوند و حذف"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:214
+msgid "Unlink & Delete {0} Users"
+msgstr "برداشتن پیوند و حذف {0} کاربر"
+
+#: frontend/src/components/BulkDeleteLinkedDocModal.vue:35
+msgid "Unlink & Delete {0} items"
+msgstr "برداشتن پیوند و حذف {0} مورد"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:81
+msgid "Unlink All"
+msgstr "برداشتن همهٔ پیوندها"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:236
+msgid "Unlink Linked Item"
+msgstr "برداشتن پیوند مورد پیوندشده"
+
+#: frontend/src/components/DeleteLinkedDocModal.vue:82
+msgid "Unlink {0} Item(s)"
+msgstr "برداشتن پیوند {0} مورد"
+
+#: frontend/src/components/ViewControls.vue:1097
+msgid "Unpin View"
+msgstr "برداشتن سنجاق نما"
+
+#: frontend/src/components/Settings/Telephony/TelephonySettings.vue:163
+msgid "Update Configuration"
+msgstr "به‌روزرسانی پیکربندی"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "Update the modified timestamp on new email communication & comment for leads & deals"
+msgstr "زمان آخرین تغییر سرنخ‌ها و معامله‌ها را با ارتباط ایمیلی و دیدگاه جدید به‌روزرسانی کن"
+
+#: frontend/src/components/Settings/GeneralSettings.vue:20
+msgid "Update the modified timestamp on new email communication & comments for leads & deals"
+msgstr "زمان آخرین تغییر سرنخ‌ها و معامله‌ها را با ارتباط ایمیلی و دیدگاه‌های جدید به‌روزرسانی کن"
+
+#: frontend/src/components/Modals/EditValueModal.vue:29
+msgid "Update {0} Records"
+msgstr "به‌روزرسانی {0} رکورد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:466
+msgid "Updated reports to"
+msgstr "گزارش‌دهی به‌روزرسانی شد به"
+
+#: frontend/src/components/Settings/Profile/ProfileSettings.vue:162
+msgid "Upload Photo"
+msgstr "بارگذاری عکس"
+
+#: crm/fcrm/doctype/crm_product/crm_product.py:45
+msgid "Use ERPNext to Create Products"
+msgstr "استفاده از ERPNext برای ایجاد محصولات"
+
+#: frontend/src/components/Settings/Settings.vue:99
+msgid "User Configuration"
+msgstr "پیکربندی کاربر"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:502
+msgid "User added to hierarchy"
+msgstr "کاربر به سلسله‌مراتب اضافه شد"
+
+#: crm/api/user.py:141
+msgid "User {0} cannot be removed as it has a Role Profile assigned to it."
+msgstr "کاربر {0} حذف‌شدنی نیست، زیرا پروفایل نقش به او تخصیص یافته است"
+
+#: frontend/src/components/Settings/Users.vue:283
+msgid "User {0} has been removed"
+msgstr "کاربر {0} حذف شد"
+
+#: crm/api/user.py:158
+msgid "User {0} has been removed from CRM roles."
+msgstr "کاربر {0} از نقش‌های CRM حذف شد."
+
+#: crm/fcrm/doctype/crm_sales_hierarchy/crm_sales_hierarchy.py:43
+msgid "User {0} is already mapped to hierarchy node {1}."
+msgstr "کاربر {0} از قبل به گره {1} از سلسله‌مراتب نگاشت شده است."
+
+#: frontend/src/components/Modals/AddExistingUserModal.vue:105
+msgid "Users Added Successfully"
+msgstr "کاربران با موفقیت اضافه شدند"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:465
+msgid "Users are required"
+msgstr "کاربران الزامی هستند"
+
+#: frontend/src/components/Settings/Sla/utils.js:187
+msgid "Valid conditions are required"
+msgstr "شرط‌های معتبر الزامی است"
+
+#: frontend/src/components/Settings/ERPNextSettings.vue:110
+msgid "Verify Connection"
+msgstr "تأیید اتصال"
+
+#: frontend/src/pages/Deal.vue:229
+msgid "View Contact"
+msgstr "مشاهدهٔ مخاطب"
+
+#: frontend/src/components/Controls/GeolocationControl.vue:50
+msgid "View Location"
+msgstr "مشاهدهٔ مکان"
+
+#: frontend/src/components/Modals/ViewModal.vue:14
+msgid "View Name"
+msgstr "نام نما"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:9
+msgid "View documentation"
+msgstr "مشاهدهٔ مستندات"
+
+#: frontend/src/pages/PersonaForm.vue:80
+msgid "Walk-ins"
+msgstr "مراجعهٔ حضوری"
+
+#: frontend/src/components/SalesHierarchyBanner.vue:20
+msgid "We are changing how permissions work in Frappe CRM"
+msgstr "نحوهٔ کار دسترسی‌ها در Frappe CRM در حال تغییر است"
+
+#: crm/fcrm/doctype/crm_exotel_settings/crm_exotel_settings.json:None
+msgid "Webhook Verify Token"
+msgstr "توکن تأیید وب‌هوک"
+
+#: frontend/src/pages/PersonaForm.vue:73
+msgid "Website forms"
+msgstr "فرم‌های وب‌سایت"
+
+#: frontend/src/pages/PersonaForm.vue:132
+msgid "Welcome to Frappe CRM"
+msgstr "به Frappe CRM خوش آمدید"
+
+#: frontend/src/pages/Welcome.vue:4
+msgid "Welcome {0}, lets add your first lead"
+msgstr "{0} عزیز خوش آمدید، بیایید اولین سرنخ شما را اضافه کنیم"
+
+#: frontend/src/pages/PersonaForm.vue:87
+msgid "What are your biggest challenges with sales today?"
+msgstr "بزرگ‌ترین چالش‌های شما در فروش امروز چیست؟"
+
+#: frontend/src/pages/PersonaForm.vue:118
+msgid "What would you like to accomplish first?"
+msgstr "دوست دارید ابتدا چه کاری انجام دهید؟"
+
+#: frontend/src/components/Modals/WhatsappTemplateSelectorModal.vue:2
+msgid "WhatsApp Templates"
+msgstr "قالب‌های واتس‌اپ"
+
+#: frontend/src/components/ConditionsFilter/CFCondition.vue:20
+msgid "Where"
+msgstr "که"
+
+#: crm/fcrm/doctype/crm_deal_status/crm_deal_status.json:None
+msgid "Won"
+msgstr "موفق"
+
+#: frontend/src/components/Dashboard/AddChartModal.vue:75
+msgid "Won Deals"
+msgstr "معامله‌های موفق"
+
+#: crm/api/dashboard.py:306
+msgid "Won deals"
+msgstr "معامله‌های موفق"
+
+#: frontend/src/components/Settings/Sla/SlaHolidays.vue:5
+msgid "Work Schedule & Holidays"
+msgstr "زمان‌بندی کاری و تعطیلات"
+
+#: crm/api/__init__.py:106
+msgid "You are not allowed to invite Sales Managers"
+msgstr "اجازهٔ دعوت از مدیران فروش را ندارید"
+
+#: crm/api/__init__.py:103
+msgid "You are not allowed to invite System Managers"
+msgstr "اجازهٔ دعوت از مدیران سیستم را ندارید"
+
+#: crm/api/session.py:11
+msgid "You are not permitted to access CRM resources."
+msgstr "اجازهٔ دسترسی به منابع CRM را ندارید."
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.py:265
+msgid "You are not permitted to create leads."
+msgstr "اجازهٔ ایجاد سرنخ را ندارید."
+
+#: crm/fcrm/doctype/crm_call_log/crm_call_log.py:262
+msgid "You are not permitted to update this call log."
+msgstr "اجازهٔ به‌روزرسانی این لاگ تماس را ندارید."
+
+#: frontend/src/components/Telephony/CallUI.vue:37
+msgid "You can change the default calling medium from the settings"
+msgstr "می‌توانید رسانهٔ تماس پیش‌فرض را از تنظیمات تغییر دهید"
+
+#: frontend/src/components/Settings/DashboardSettings.vue:145
+msgid "You can get your Access Key from "
+msgstr "کلید دسترسی خود را می‌توانید از اینجا دریافت کنید: "
+
+#: frontend/src/components/Settings/InviteUserPage.vue:37
+msgid "You can invite multiple users by comma separating their email addresses"
+msgstr "برای دعوت چند کاربر، نشانی ایمیل‌ها را با ویرگول جدا کنید"
+
+#: crm/integrations/exotel/handler.py:84
+msgid "You do not have Exotel Number set in your Telephony Agent"
+msgstr "شمارهٔ Exotel در کارشناس تلفنی شما تنظیم نشده است"
+
+#: frontend/src/pages/NotPermitted.vue:12
+msgid "You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error."
+msgstr "دسترسی کافی به Frappe CRM ندارید. اگر فکر می‌کنید این یک خطاست با مدیر خود تماس بگیرید."
+
+#: crm/integrations/exotel/handler.py:92
+msgid "You do not have mobile number set in your Telephony Agent"
+msgstr "شمارهٔ موبایل در کارشناس تلفنی شما تنظیم نشده است"
+
+#: crm/api/__init__.py:143
+msgid "You don't have permission to delete this attachment"
+msgstr "اجازهٔ حذف این پیوست را ندارید"
+
+#: crm/api/user.py:17
+msgid "You must be logged in to change your password"
+msgstr "برای تغییر گذرواژه باید وارد شده باشید"
+
+#: frontend/src/components/Settings/AssignmentRules/AssigneeSearch.vue:152
+msgid "You will be redirected to invite user page, unsaved changes will be lost."
+msgstr "به صفحهٔ دعوت کاربر هدایت می‌شوید و تغییرات ذخیره‌نشده از بین می‌روند."
+
+#: crm/api/todo.py:110
+msgid "Your assignment on task {0} has been removed by {1}"
+msgstr "تخصیص شما در تسک {0} توسط {1} برداشته شد"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:641
+msgid "Your old condition will be overwritten. Are you sure you want to save?"
+msgstr "شرط قبلی شما بازنویسی می‌شود. مطمئن هستید که می‌خواهید ذخیره کنید؟"
+
+#: frontend/src/components/Settings/Sla/SlaPolicyView.vue:400
+msgid "Your old conditions will be overwritten. Are you sure you want to save?"
+msgstr "شرط‌های قبلی شما بازنویسی می‌شوند. مطمئن هستید که می‌خواهید ذخیره کنید؟"
+
+#: frontend/src/pages/PersonaForm.vue:62
+msgid "Zoho CRM"
+msgstr "Zoho CRM"
+
+#: frontend/src/components/Activities/CommentArea.vue:9
+msgid "added a"
+msgstr "اضافه کرد"
+
+#: crm/api/todo.py:119
+msgid "assigned a new task {0} to you"
+msgstr "تسک جدید {0} را به شما تخصیص داد"
+
+#: crm/api/todo.py:99
+msgid "assigned a {0} {1} to you"
+msgstr "{0} {1} را به شما تخصیص داد"
+
+#: frontend/src/components/Settings/CalendarSettings.vue:221
+msgid "before at"
+msgstr "قبل در"
+
+#: frontend/src/components/Activities/Activities.vue:252
+msgid "changes from"
+msgstr "تغییر از"
+
+#: crm/api/activities.py:54
+msgid "converted the lead to this deal"
+msgstr "سرنخ را به این معامله تبدیل کرد"
+
+#: crm/api/activities.py:50
+msgid "created this deal"
+msgstr "این معامله را ایجاد کرد"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:175
+msgid "day before"
+msgstr "روز قبل"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:175
+msgid "days before"
+msgstr "روز قبل"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "exchangerate-api"
+msgstr "exchangerate-api"
+
+#: crm/fcrm/doctype/fcrm_settings/fcrm_settings.json:None
+msgid "fawazahmed-exchange-api"
+msgstr "fawazahmed-exchange-api"
+
+#: frontend/src/components/Activities/CallArea.vue:15
+msgid "has reached out"
+msgstr "ارتباط گرفته است"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:190
+msgid "hour before"
+msgstr "ساعت قبل"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:241
+msgid "hours"
+msgstr "ساعت"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:190
+msgid "hours before"
+msgstr "ساعت قبل"
+
+#: frontend/src/utils/index.js:178
+msgid "in 1 hour"
+msgstr "۱ ساعت دیگر"
+
+#: frontend/src/utils/index.js:174
+msgid "in 1 minute"
+msgstr "۱ دقیقه دیگر"
+
+#: frontend/src/utils/index.js:192
+msgid "in 1 year"
+msgstr "۱ سال دیگر"
+
+#: frontend/src/utils/index.js:143
+msgid "in {0} M"
+msgstr "{0} ماه دیگر"
+
+#: frontend/src/utils/index.js:139
+msgid "in {0} d"
+msgstr "{0} روز دیگر"
+
+#: frontend/src/utils/index.js:186
+msgid "in {0} days"
+msgstr "{0} روز دیگر"
+
+#: frontend/src/utils/index.js:133
+msgid "in {0} h"
+msgstr "{0} ساعت دیگر"
+
+#: frontend/src/utils/index.js:180
+msgid "in {0} hours"
+msgstr "{0} ساعت دیگر"
+
+#: frontend/src/utils/index.js:131
+msgid "in {0} m"
+msgstr "{0} دقیقه دیگر"
+
+#: frontend/src/utils/index.js:176
+msgid "in {0} minutes"
+msgstr "{0} دقیقه دیگر"
+
+#: frontend/src/utils/index.js:190
+msgid "in {0} months"
+msgstr "{0} ماه دیگر"
+
+#: frontend/src/utils/index.js:141
+msgid "in {0} w"
+msgstr "{0} هفته دیگر"
+
+#: frontend/src/utils/index.js:188
+msgid "in {0} weeks"
+msgstr "{0} هفته دیگر"
+
+#: frontend/src/utils/index.js:145
+msgid "in {0} y"
+msgstr "{0} سال دیگر"
+
+#: frontend/src/utils/index.js:194
+msgid "in {0} years"
+msgstr "{0} سال دیگر"
+
+#: frontend/src/components/Modals/AddExistingUserModal.vue:29
+msgid "john@doe.com"
+msgstr "john@doe.com"
+
+#: crm/api/comment.py:39
+msgid "mentioned you in {0}"
+msgstr "شما را در {0} نام برد"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:186
+msgid "minute before"
+msgstr "دقیقه قبل"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:186
+msgid "minutes before"
+msgstr "دقیقه قبل"
+
+#: crm/api/activities.py:109
+msgid "old_value"
+msgstr "old_value"
+
+#: crm/fcrm/doctype/crm_product_sync_issue/crm_product_sync_issue.json:None
+msgid "unlinked_orphan"
+msgstr "unlinked_orphan"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:179
+msgid "week before"
+msgstr "هفته قبل"
+
+#: frontend/src/components/Calendar/EventNotifications.vue:179
+msgid "weeks before"
+msgstr "هفته قبل"
+
+#: frontend/src/components/Settings/AssignmentRules/AssignmentRuleView.vue:193
+msgid "which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI."
+msgstr "که با این رابط سازگار نیستند؛ اگر می‌خواهید شرط‌های جدید را از این رابط مدیریت و اضافه کنید، باید شرط‌ها را اینجا دوباره ایجاد کنید."
+
+#: crm/api/todo.py:51
+msgid "{0} assigned a {1} {2} to you"
+msgstr "{0} یک {1} {2} را به شما تخصیص داد"
+
+#: frontend/src/components/Settings/Hierarchy/Hierarchy.vue:503
+msgid "{0} users added to hierarchy"
+msgstr "{0} کاربر به سلسله‌مراتب اضافه شدند"
+
+#: frontend/src/components/Questionnaire.vue:92
+msgid "{0}% complete"
+msgstr "{0}٪ تکمیل شده"
+
+#: frontend/src/utils/scriptHelpers.js:43
+msgid "⚠️ Avoid using \"trigger\" as a field name — it conflicts with the built-in trigger() method."
+msgstr "⚠️ از «trigger» به‌عنوان نام فیلد استفاده نکنید — با متد داخلی trigger() تداخل دارد."
+
+#: frontend/src/utils/scriptHelpers.js:55
+msgid "⚠️ Method \"{0}\" not found in class."
+msgstr "⚠️ متد «{0}» در کلاس پیدا نشد."
+
+#: frontend/src/data/script.js:116
+msgid "⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present."
+msgstr "⚠️ کلاسی برای doctype پیدا نشد: {0}. داشتن کلاس برای doctype والد الزامی است؛ می‌تواند خالی باشد اما باید وجود داشته باشد."
+
+#: frontend/src/data/script.js:249
+msgid "⚠️ No data found for parent field: {0}"
+msgstr "⚠️ داده‌ای برای فیلد والد پیدا نشد: {0}"
+
+#: frontend/src/data/script.js:257
+msgid "⚠️ No row found for idx: {0} in parent field: {1}"
+msgstr "⚠️ ردیفی با idx پیدا نشد: {0} در فیلد والد: {1}"
