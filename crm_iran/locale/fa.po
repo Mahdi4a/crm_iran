@@ -4154,3 +4154,47 @@ msgstr "سرنخ‌ها"
 #: frontend/src/components/Calendar/EventNotifications.vue:247
 msgid "weeks"
 msgstr "هفته‌ها"
+
+# Screens of crm_iran
+
+msgid "Bale"
+msgstr "بله"
+
+msgid "Bale Bot Token"
+msgstr "توکن ربات بله"
+
+msgid "Bale Chat ID"
+msgstr "شناسهٔ گفتگوی بله"
+
+msgid "CRM Iran Settings"
+msgstr "تنظیمات CRM ایران"
+
+msgid "Eitaa"
+msgstr "ایتا"
+
+msgid "Eitaa Chat ID"
+msgstr "شناسهٔ گفتگوی ایتا"
+
+msgid "Eitaa Token"
+msgstr "توکن ایتا"
+
+msgid "From eitaayar.ir"
+msgstr "از eitaayar.ir"
+
+msgid "From the Bale bot father. The bot must be a member of the chat."
+msgstr "از «بات‌فادر» بله. ربات باید عضو گفتگو باشد."
+
+msgid "New leads and deals are announced in Bale and Eitaa. Empty values fall back to the same key in site_config.json."
+msgstr "سرنخ‌ها و معامله‌های جدید در بله و ایتا اعلام می‌شوند. مقدارهای خالی از همان کلید در site_config.json خوانده می‌شوند."
+
+msgid "Sent to a new lead. Use {first_name} or {name}. Leave empty to send nothing."
+msgstr "برای سرنخ جدید ارسال می‌شود. از {first_name} یا {name} استفاده کنید. برای ارسال نکردن، خالی بگذارید."
+
+msgid "The team group or channel, not a phone number"
+msgstr "گروه یا کانال تیم، نه شمارهٔ تلفن"
+
+msgid "Welcome SMS"
+msgstr "پیامک خوشامدگویی"
+
+msgid "Welcome SMS Text"
+msgstr "متن پیامک خوشامدگویی"
